@@ -1,4 +1,3 @@
-cat > app.js << 'EOF'
 const CHROM_LENGTH = 57227415;
 const detail = document.getElementById("detail-panel");
 const container = document.getElementById("map-container");
@@ -32,4 +31,3 @@ fetch('isogg_H.json')
     console.log("Loaded " + markers.length + " markers");
   })
   .catch(err => console.error("Failed to load JSON:", err));
-EOF
