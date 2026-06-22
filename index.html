@@ -8,17 +8,31 @@
 <body>
 
   <h1>Y Chromosome Haplogroup Map</h1>
-  <p class="subtitle">Visualising defining SNPs along chrY (GRCh38 · 57.2 Mb)</p>
+  <p class="subtitle">Haplogroup H · defining SNPs along chrY (GRCh38 · 57.2 Mb)</p>
 
-  <p class="track-label">Overview — click a region to zoom in</p>
-  <div id="scale"></div>
+  <div id="search-box">
+    <input type="text" id="snp-search" placeholder="Enter SNP name, e.g. M69">
+    <button id="search-btn">Find</button>
+    <span id="search-status"></span>
+  </div>
+
+  <p class="track-label">Whole chromosome — click any region to zoom in</p>
+  <div id="ruler-top"></div>
   <div id="overview"></div>
+  <div id="viewport-box"></div>
 
-  <p class="track-label">Detail view</p>
+  <p class="track-label" id="detail-label">Detail view — select a region above</p>
+  <div id="ruler-detail"></div>
   <div id="detail-track"></div>
 
+  <div id="legend">
+    <span class="legend-item"><span class="dot" style="background:#fdba74"></span>Shallow (H1, H2, H3)</span>
+    <span class="legend-item"><span class="dot" style="background:#f97316"></span>Mid (H1a, H1b...)</span>
+    <span class="legend-item"><span class="dot" style="background:#9a3412"></span>Deep (H1a1a1...)</span>
+  </div>
+
   <div id="detail-panel">
-    <p>Click a region on the overview above to begin.</p>
+    <p>Click a region on the chromosome above, or search a SNP name.</p>
   </div>
 
   <script src="app.js"></script>

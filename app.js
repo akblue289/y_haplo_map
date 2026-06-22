@@ -5,101 +5,181 @@ const BIN_WIDTH = CHROM_LENGTH / NUM_BINS;
 const overview = document.getElementById("overview");
 const detailTrack = document.getElementById("detail-track");
 const detail = document.getElementById("detail-panel");
+const viewportBox = document.getElementById("viewport-box");
+const detailLabel = document.getElementById("detail-label");
 
 let allMarkers = [];
 let bins = [];
 
 fetch('isogg_H.json')
-  .then(response => response.json())
+  .then(res => res.json())
   .then(markers => {
     allMarkers = markers;
     bins = binMarkers(markers);
+    drawRuler("ruler-top", 0, CHROM_LENGTH, 10);
     drawOverview(bins);
-    drawScale();
     console.log(`Loaded ${markers.length} markers into ${NUM_BINS} bins`);
   })
   .catch(err => console.error("Failed to load JSON:", err));
 
+// --- depth-based coloring: more sub-clade letters/numbers = deeper = darker ---
+function depthOf(haplogroupName) {
+  // "H1a1a1" -> count characters after the root letter "H"
+  return Math.max(0, haplogroupName.length - 1);
+}
+
+function colorForDepth(depth) {
+  if (depth <= 2) return "#fdba74";   // shallow
+  if (depth <= 4) return "#f97316";   // mid
+  return "#9a3412";                   // deep
+}
+
+// --- binning for overview density track ---
 function binMarkers(markers) {
   const counts = new Array(NUM_BINS).fill(0);
-  const binContents = Array.from({length: NUM_BINS}, () => []);
+  const contents = Array.from({length: NUM_BINS}, () => []);
 
   markers.forEach(m => {
     let idx = Math.floor(m.position / BIN_WIDTH);
     if (idx >= NUM_BINS) idx = NUM_BINS - 1;
     counts[idx]++;
-    binContents[idx].push(m);
+    contents[idx].push(m);
   });
 
   return counts.map((count, i) => ({
     index: i,
-    count: count,
+    count,
     start: Math.floor(i * BIN_WIDTH),
     end: Math.floor((i + 1) * BIN_WIDTH),
-    markers: binContents[i]
+    markers: contents[i]
   }));
 }
 
-function drawOverview(bins) {
-  overview.innerHTML = "";
-  const maxCount = Math.max(...bins.map(b => b.count), 1);
+// --- shared ruler drawer, used for both top and detail views ---
+function drawRuler(containerId, rangeStart, rangeEnd, stepMb) {
+  const el = document.getElementById(containerId);
+  el.innerHTML = "";
+  const rangeSpan = rangeEnd - rangeStart;
+  const startMb = rangeStart / 1e6;
+  const endMb = rangeEnd / 1e6;
 
-  bins.forEach(bin => {
+  // pick a sensible step if not given
+  let step = stepMb;
+  if (!step) {
+    const spanMb = endMb - startMb;
+    step = spanMb / 6;
+  }
+
+  for (let mb = Math.ceil(startMb / step) * step; mb <= endMb; mb += step) {
+    const posBp = mb * 1e6;
+    const percent = ((posBp - rangeStart) / rangeSpan) * 100;
+    const tick = document.createElement("div");
+    tick.className = "tick";
+    tick.style.left = percent + "%";
+    tick.textContent = mb.toFixed(mb < 1 ? 3 : (step < 1 ? 2 : 0)) + " Mb";
+    el.appendChild(tick);
+  }
+}
+
+// --- overview density bar ---
+function drawOverview(binList) {
+  overview.innerHTML = "";
+  const maxCount = Math.max(...binList.map(b => b.count), 1);
+
+  binList.forEach(bin => {
     const cell = document.createElement("div");
     cell.className = "bin";
     const intensity = bin.count / maxCount;
     cell.style.backgroundColor = intensity === 0
       ? "#e5e7eb"
       : `rgba(249, 115, 22, ${0.15 + intensity * 0.85})`;
-    cell.title = `${bin.count} SNPs · ${(bin.start/1e6).toFixed(1)}–${(bin.end/1e6).toFixed(1)} Mb`;
+    cell.title = `${bin.count} SNPs · ${(bin.start/1e6).toFixed(2)}–${(bin.end/1e6).toFixed(2)} Mb`;
 
     if (bin.count > 0) {
-      cell.addEventListener("click", () => showDetail(bin));
+      cell.addEventListener("click", () => focusBin(bin));
     }
-
     overview.appendChild(cell);
   });
 }
 
-function showDetail(bin) {
-  detailTrack.innerHTML = "";
-  detail.innerHTML = `<p>${bin.count} markers between ${(bin.start/1e6).toFixed(2)} and ${(bin.end/1e6).toFixed(2)} Mb. Click a marker below.</p>`;
+// --- draw the box on the overview showing current zoom region ---
+function drawViewportBox(bin) {
+  const percentLeft = (bin.start / CHROM_LENGTH) * 100;
+  const percentWidth = ((bin.end - bin.start) / CHROM_LENGTH) * 100;
+  viewportBox.style.left = percentLeft + "%";
+  viewportBox.style.width = Math.max(percentWidth, 0.4) + "%";
+  viewportBox.style.display = "block";
+}
 
+// --- zoom into a bin: show its own ruler + spaced markers ---
+function focusBin(bin) {
+  drawViewportBox(bin);
+  detailLabel.textContent = `Detail view — ${(bin.start/1e6).toFixed(2)} to ${(bin.end/1e6).toFixed(2)} Mb (${bin.count} markers)`;
+  drawRuler("ruler-detail", bin.start, bin.end, null);
+
+  detailTrack.innerHTML = "";
   const rangeWidth = bin.end - bin.start;
 
   bin.markers.forEach(marker => {
     const relativePos = ((marker.position - bin.start) / rangeWidth) * 100;
-
     const el = document.createElement("div");
     el.className = "detail-marker";
     el.style.left = relativePos + "%";
-    el.title = marker.snp;
+    el.style.backgroundColor = colorForDepth(depthOf(marker.haplogroup));
+    el.title = `${marker.snp} (${marker.haplogroup})`;
+    el.dataset.snp = marker.snp;
 
     el.addEventListener("click", (e) => {
       e.stopPropagation();
-      detail.innerHTML = `
-        <h2>${marker.haplogroup} · ${marker.snp}</h2>
-        <p><strong>Position (GRCh38):</strong> ${(marker.position / 1e6).toFixed(3)} Mb</p>
-        <p><strong>Mutation:</strong> ${marker.mutation}</p>
-      `;
+      showMarkerDetail(marker);
     });
 
     detailTrack.appendChild(el);
   });
+
+  detail.innerHTML = `<p>${bin.count} markers in this region. Click any line above to see details.</p>`;
 }
 
-function drawScale() {
-  const scale = document.getElementById("scale");
-  scale.innerHTML = "";
-  const mbStep = 10;
-  const totalMb = CHROM_LENGTH / 1e6;
+function showMarkerDetail(marker) {
+  detail.innerHTML = `
+    <h2>${marker.haplogroup} · ${marker.snp}</h2>
+    <p><strong>Position (GRCh38):</strong> ${(marker.position / 1e6).toFixed(3)} Mb (${marker.position.toLocaleString()} bp)</p>
+    <p><strong>Mutation:</strong> ${marker.mutation}</p>
+    <p><strong>Sub-clade depth:</strong> ${depthOf(marker.haplogroup)} branch(es) from root H</p>
+  `;
+}
 
-  for (let mb = 0; mb <= totalMb; mb += mbStep) {
-    const percent = (mb * 1e6 / CHROM_LENGTH) * 100;
-    const tick = document.createElement("div");
-    tick.className = "tick";
-    tick.style.left = percent + "%";
-    tick.textContent = mb + " Mb";
-    scale.appendChild(tick);
+// --- search ---
+function searchSNP() {
+  const query = document.getElementById("snp-search").value.trim().toUpperCase();
+  const status = document.getElementById("search-status");
+  if (!query) { status.textContent = ""; return; }
+
+  const match = allMarkers.find(m => m.snp.toUpperCase() === query);
+  if (!match) {
+    status.textContent = `"${query}" not found.`;
+    status.style.color = "#dc2626";
+    return;
   }
+
+  status.textContent = `Found ${match.snp} → ${match.haplogroup}`;
+  status.style.color = "#15803d";
+
+  const binIndex = Math.min(Math.floor(match.position / BIN_WIDTH), NUM_BINS - 1);
+  const bin = bins[binIndex];
+  focusBin(bin);
+
+  setTimeout(() => {
+    const el = detailTrack.querySelector(`[data-snp="${match.snp}"]`);
+    if (el) {
+      el.style.width = "5px";
+      el.scrollIntoView({ behavior: "smooth", inline: "center" });
+    }
+    showMarkerDetail(match);
+  }, 50);
 }
+
+document.getElementById("search-btn").addEventListener("click", searchSNP);
+document.getElementById("snp-search").addEventListener("keypress", e => {
+  if (e.key === "Enter") searchSNP();
+});
