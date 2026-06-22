@@ -120,25 +120,72 @@ function focusBin(bin) {
 
   detailTrack.innerHTML = "";
   const rangeWidth = bin.end - bin.start;
+  const TRACK_HEIGHT = 90;
+  const STEM_MIN = 30;
+  const STEM_MAX = 70;
 
-  bin.markers.forEach(marker => {
+  // sort markers by position so we can detect close neighbors
+  const sorted = [...bin.markers].sort((a, b) => a.position - b.position);
+
+  // assign alternating stem heights when markers are close together (dandelion style)
+  const minGapPx = 14; // approx px below which we treat markers as "close"
+  const trackWidthPx = detailTrack.clientWidth || 900;
+
+  let lastPercent = -999;
+  let toggle = 0;
+
+  sorted.forEach(marker => {
     const relativePos = ((marker.position - bin.start) / rangeWidth) * 100;
-    const el = document.createElement("div");
-    el.className = "detail-marker";
-    el.style.left = relativePos + "%";
-    el.style.backgroundColor = colorForDepth(depthOf(marker.haplogroup));
-    el.title = `${marker.snp} (${marker.haplogroup})`;
-    el.dataset.snp = marker.snp;
+    const percentGapPx = ((relativePos - lastPercent) / 100) * trackWidthPx;
 
-    el.addEventListener("click", (e) => {
+    let stemHeight;
+    if (Math.abs(percentGapPx) < minGapPx) {
+      toggle = 1 - toggle;
+      stemHeight = toggle === 0 ? STEM_MIN : STEM_MAX;
+    } else {
+      toggle = 0;
+      stemHeight = STEM_MAX;
+    }
+    lastPercent = relativePos;
+
+    const color = colorForDepth(depthOf(marker.haplogroup));
+
+    const wrapper = document.createElement("div");
+    wrapper.className = "lollipop";
+    wrapper.style.left = relativePos + "%";
+    wrapper.dataset.snp = marker.snp;
+
+    const stem = document.createElement("div");
+    stem.className = "lollipop-stem";
+    stem.style.height = stemHeight + "px";
+    stem.style.backgroundColor = color;
+
+    const node = document.createElement("div");
+    node.className = "lollipop-node";
+    node.style.backgroundColor = color;
+    node.style.bottom = stemHeight - 5 + "px";
+
+    const label = document.createElement("div");
+    label.className = "lollipop-label";
+    label.style.bottom = stemHeight + 8 + "px";
+    label.textContent = marker.snp;
+
+    wrapper.appendChild(stem);
+    wrapper.appendChild(node);
+    wrapper.appendChild(label);
+
+    wrapper.addEventListener("mouseenter", () => { label.style.opacity = 1; });
+    wrapper.addEventListener("mouseleave", () => { label.style.opacity = 0; });
+
+    wrapper.addEventListener("click", (e) => {
       e.stopPropagation();
       showMarkerDetail(marker);
     });
 
-    detailTrack.appendChild(el);
+    detailTrack.appendChild(wrapper);
   });
 
-  detail.innerHTML = `<p>${bin.count} markers in this region. Click any line above to see details.</p>`;
+  detail.innerHTML = `<p>${bin.count} markers in this region. Hover to preview, click any node for full details.</p>`;
 }
 
 function showMarkerDetail(marker) {
@@ -199,7 +246,9 @@ function searchSNP() {
   setTimeout(() => {
     const el = detailTrack.querySelector(`[data-snp="${match.snp}"]`);
     if (el) {
-      el.style.width = "5px";
+      el.querySelector(".lollipop-node").style.outline = "3px solid #15803d";
+      el.querySelector(".lollipop-label").style.opacity = 1;
+      el.querySelector(".lollipop-label").style.color = "#15803d";
       el.scrollIntoView({ behavior: "smooth", inline: "center" });
     }
     showMarkerDetail(match);
