@@ -60,3 +60,16 @@ h1 { font-size: 24px; font-weight: 500; margin-bottom: 4px; }
 }
 
 #detail-panel h2 { font-size: 18px; margin-bottom: 12px; }
+
+#scale {
+  position: relative;
+  height: 16px;
+  margin-bottom: 4px;
+}
+
+.tick {
+  position: absolute;
+  font-size: 11px;
+  color: #888;
+  transform: translateX(-50%);
+}

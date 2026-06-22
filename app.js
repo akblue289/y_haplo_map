@@ -15,6 +15,7 @@ fetch('isogg_H.json')
     allMarkers = markers;
     bins = binMarkers(markers);
     drawOverview(bins);
+    drawScale();
     console.log(`Loaded ${markers.length} markers into ${NUM_BINS} bins`);
   })
   .catch(err => console.error("Failed to load JSON:", err));
@@ -85,4 +86,20 @@ function showDetail(bin) {
 
     detailTrack.appendChild(el);
   });
+}
+
+function drawScale() {
+  const scale = document.getElementById("scale");
+  scale.innerHTML = "";
+  const mbStep = 10;
+  const totalMb = CHROM_LENGTH / 1e6;
+
+  for (let mb = 0; mb <= totalMb; mb += mbStep) {
+    const percent = (mb * 1e6 / CHROM_LENGTH) * 100;
+    const tick = document.createElement("div");
+    tick.className = "tick";
+    tick.style.left = percent + "%";
+    tick.textContent = mb + " Mb";
+    scale.appendChild(tick);
+  }
 }
