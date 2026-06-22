@@ -19,6 +19,7 @@ fetch('isogg_H.json')
     drawRuler("ruler-top", 0, CHROM_LENGTH, 10);
     drawOverview(bins);
     console.log(`Loaded ${markers.length} markers into ${NUM_BINS} bins`);
+    document.getElementById("total-count").textContent = `${markers.length} markers loaded`;
   })
   .catch(err => console.error("Failed to load JSON:", err));
 
@@ -141,11 +142,37 @@ function focusBin(bin) {
 }
 
 function showMarkerDetail(marker) {
+  const depth = depthOf(marker.haplogroup);
+  const depthLabel = depth <= 2 ? "Shallow" : depth <= 4 ? "Mid" : "Deep";
+
   detail.innerHTML = `
-    <h2>${marker.haplogroup} · ${marker.snp}</h2>
-    <p><strong>Position (GRCh38):</strong> ${(marker.position / 1e6).toFixed(3)} Mb (${marker.position.toLocaleString()} bp)</p>
-    <p><strong>Mutation:</strong> ${marker.mutation}</p>
-    <p><strong>Sub-clade depth:</strong> ${depthOf(marker.haplogroup)} branch(es) from root H</p>
+    <h2>${marker.haplogroup} &middot; ${marker.snp}</h2>
+    <div class="info-grid">
+      <div class="info-cell">
+        <div class="label">Position (GRCh38)</div>
+        <div class="value">${(marker.position / 1e6).toFixed(3)} Mb</div>
+      </div>
+      <div class="info-cell">
+        <div class="label">Base pair coordinate</div>
+        <div class="value">${marker.position.toLocaleString()} bp</div>
+      </div>
+      <div class="info-cell">
+        <div class="label">Mutation</div>
+        <div class="value">${marker.mutation}</div>
+      </div>
+      <div class="info-cell">
+        <div class="label">Sub-clade branch depth</div>
+        <div class="value">${depthLabel} (${depth})</div>
+      </div>
+      <div class="info-cell">
+        <div class="label">rsID</div>
+        <div class="value">${marker.rsid || "n/a"}</div>
+      </div>
+      <div class="info-cell">
+        <div class="label">Other names</div>
+        <div class="value">${marker.other_names || "n/a"}</div>
+      </div>
+    </div>
   `;
 }
 

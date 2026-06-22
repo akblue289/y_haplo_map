@@ -7,8 +7,13 @@
 </head>
 <body>
 
-  <h1>Y Chromosome Haplogroup Map</h1>
-  <p class="subtitle">Haplogroup H · defining SNPs along chrY (GRCh38 · 57.2 Mb)</p>
+  <header>
+    <div>
+      <h1>Y Chromosome Haplogroup Map</h1>
+      <p class="subtitle">GRCh38 · chrY · 0 – 57.23 Mb</p>
+    </div>
+    <span class="badge" id="active-haplogroup">Haplogroup H</span>
+  </header>
 
   <div id="search-box">
     <input type="text" id="snp-search" placeholder="Enter SNP name, e.g. M69">
@@ -16,26 +21,37 @@
     <span id="search-status"></span>
   </div>
 
-  <p class="track-label">Whole chromosome — click any region to zoom in</p>
-  <div id="ruler-top"></div>
-  <div id="overview"></div>
-  <div id="viewport-box"></div>
-
-  <p class="track-label" id="detail-label">Detail view — select a region above</p>
-  <div id="ruler-detail"></div>
-  <div id="detail-track"></div>
-
-  <div id="legend">
-    <span class="legend-item"><span class="dot" style="background:#fdba74"></span>Shallow (H1, H2, H3)</span>
-    <span class="legend-item"><span class="dot" style="background:#f97316"></span>Mid (H1a, H1b...)</span>
-    <span class="legend-item"><span class="dot" style="background:#9a3412"></span>Deep (H1a1a1...)</span>
+  <div class="panel">
+    <p class="track-label">
+      <span>Whole chromosome — click any region to zoom in</span>
+      <span class="count-badge" id="total-count"></span>
+    </p>
+    <div id="ruler-top"></div>
+    <div id="overview"></div>
+    <div id="viewport-box"></div>
   </div>
 
-  <div id="detail-panel">
+  <div class="panel">
+    <p class="track-label" id="detail-label">Detail view — select a region above</p>
+    <div id="ruler-detail"></div>
+    <div id="detail-track"></div>
+    <div id="legend">
+      <span class="legend-item"><span class="dot" style="background:#fdba74"></span>Shallow branch (H1, H2, H3)</span>
+      <span class="legend-item"><span class="dot" style="background:#f97316"></span>Mid branch (H1a, H1b...)</span>
+      <span class="legend-item"><span class="dot" style="background:#9a3412"></span>Deep branch (H1a1a1...)</span>
+    </div>
+  </div>
+
+  <div class="panel" id="detail-panel">
     <p>Click a region on the chromosome above, or search a SNP name.</p>
   </div>
 
-  <script src="app.js"></script>
+  <footer>
+    Haplogroup tree data: <a href="https://isogg.org/tree/" target="_blank">ISOGG Y-DNA Haplogroup Tree</a>,
+    © International Society of Genetic Genealogy. Used for non-commercial educational and research purposes.
+    Built by <a href="https://github.com/akblue289" target="_blank">akblue289</a>.
+  </footer>
 
+  <script src="app.js"></script>
 </body>
 </html>
