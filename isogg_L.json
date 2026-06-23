@@ -1,0 +1,9194 @@
+[
+  {
+    "snp": "M20",
+    "haplogroup": "L",
+    "position": 19571568,
+    "mutation": "A->G",
+    "rsid": "rs3911",
+    "other_names": "PF5570"
+  },
+  {
+    "snp": "PF5570",
+    "haplogroup": "L",
+    "position": 19571568,
+    "mutation": "A->G",
+    "rsid": "rs3911",
+    "other_names": "M20"
+  },
+  {
+    "snp": "L656",
+    "haplogroup": "L",
+    "position": 7063497,
+    "mutation": "C->T",
+    "rsid": "rs371743815",
+    "other_names": null
+  },
+  {
+    "snp": "L855",
+    "haplogroup": "L",
+    "position": 20848161,
+    "mutation": "C->T",
+    "rsid": "rs376446641",
+    "other_names": null
+  },
+  {
+    "snp": "L863",
+    "haplogroup": "L",
+    "position": 2905122,
+    "mutation": "T->C",
+    "rsid": "rs372436227",
+    "other_names": null
+  },
+  {
+    "snp": "L878",
+    "haplogroup": "L",
+    "position": 7017747,
+    "mutation": "A->G",
+    "rsid": "rs377653633",
+    "other_names": "PF5524"
+  },
+  {
+    "snp": "PF5524",
+    "haplogroup": "L",
+    "position": 7017747,
+    "mutation": "A->G",
+    "rsid": "rs377653633",
+    "other_names": "L878"
+  },
+  {
+    "snp": "L879",
+    "haplogroup": "L",
+    "position": 7193507,
+    "mutation": "C->T",
+    "rsid": "rs377624131",
+    "other_names": "PF5697"
+  },
+  {
+    "snp": "PF5697",
+    "haplogroup": "L",
+    "position": 7193507,
+    "mutation": "C->T",
+    "rsid": "rs377624131",
+    "other_names": "L879"
+  },
+  {
+    "snp": "L1304",
+    "haplogroup": "L",
+    "position": 15965077,
+    "mutation": "C->A",
+    "rsid": "rs377684953",
+    "other_names": null
+  },
+  {
+    "snp": "M11",
+    "haplogroup": "L",
+    "position": 19568761,
+    "mutation": "A->G",
+    "rsid": "rs3902",
+    "other_names": null
+  },
+  {
+    "snp": "M61",
+    "haplogroup": "L",
+    "position": 19589563,
+    "mutation": "C->T",
+    "rsid": "rs34289137",
+    "other_names": "Page43"
+  },
+  {
+    "snp": "Page43",
+    "haplogroup": "L",
+    "position": 19589563,
+    "mutation": "C->T",
+    "rsid": "rs34289137",
+    "other_names": "M61"
+  },
+  {
+    "snp": "M185",
+    "haplogroup": "L",
+    "position": 12792926,
+    "mutation": "C->T",
+    "rsid": "rs2032607",
+    "other_names": "PF5755"
+  },
+  {
+    "snp": "PF5755",
+    "haplogroup": "L",
+    "position": 12792926,
+    "mutation": "C->T",
+    "rsid": "rs2032607",
+    "other_names": "M185"
+  },
+  {
+    "snp": "M2356",
+    "haplogroup": "L",
+    "position": 2906208,
+    "mutation": "T->C",
+    "rsid": "rs375785360",
+    "other_names": "PF5683"
+  },
+  {
+    "snp": "PF5683",
+    "haplogroup": "L",
+    "position": 2906208,
+    "mutation": "T->C",
+    "rsid": "rs375785360",
+    "other_names": "M2356"
+  },
+  {
+    "snp": "M2358",
+    "haplogroup": "L",
+    "position": 3025955,
+    "mutation": "C->G",
+    "rsid": "rs375310632",
+    "other_names": null
+  },
+  {
+    "snp": "M2362",
+    "haplogroup": "L",
+    "position": 6828250,
+    "mutation": "G->A",
+    "rsid": "rs375771235",
+    "other_names": "PF5692"
+  },
+  {
+    "snp": "PF5692",
+    "haplogroup": "L",
+    "position": 6828250,
+    "mutation": "G->A",
+    "rsid": "rs375771235",
+    "other_names": "M2362"
+  },
+  {
+    "snp": "M2365",
+    "haplogroup": "L",
+    "position": 6886064,
+    "mutation": "G->C",
+    "rsid": "rs369381656",
+    "other_names": null
+  },
+  {
+    "snp": "M2366",
+    "haplogroup": "L",
+    "position": 6891377,
+    "mutation": "C->T",
+    "rsid": "rs375265005",
+    "other_names": null
+  },
+  {
+    "snp": "M2368",
+    "haplogroup": "L",
+    "position": 6999548,
+    "mutation": "C->T",
+    "rsid": "rs377141930",
+    "other_names": "PF5693"
+  },
+  {
+    "snp": "PF5693",
+    "haplogroup": "L",
+    "position": 6999548,
+    "mutation": "C->T",
+    "rsid": "rs377141930",
+    "other_names": "M2368"
+  },
+  {
+    "snp": "M2369",
+    "haplogroup": "L",
+    "position": 7013228,
+    "mutation": "C->T",
+    "rsid": "rs370642447",
+    "other_names": "PF5694"
+  },
+  {
+    "snp": "PF5694",
+    "haplogroup": "L",
+    "position": 7013228,
+    "mutation": "C->T",
+    "rsid": "rs370642447",
+    "other_names": "M2369"
+  },
+  {
+    "snp": "M2370",
+    "haplogroup": "L",
+    "position": 7058042,
+    "mutation": "T->C",
+    "rsid": "rs371121392",
+    "other_names": "PF5695"
+  },
+  {
+    "snp": "PF5695",
+    "haplogroup": "L",
+    "position": 7058042,
+    "mutation": "T->C",
+    "rsid": "rs371121392",
+    "other_names": "M2370"
+  },
+  {
+    "snp": "M2379",
+    "haplogroup": "L",
+    "position": 7376331,
+    "mutation": "C->T",
+    "rsid": "rs370070584",
+    "other_names": "S10007"
+  },
+  {
+    "snp": "S10007",
+    "haplogroup": "L",
+    "position": 7376331,
+    "mutation": "C->T",
+    "rsid": "rs370070584",
+    "other_names": "M2379"
+  },
+  {
+    "snp": "M2381",
+    "haplogroup": "L",
+    "position": 7434082,
+    "mutation": "A->T",
+    "rsid": "rs373546731",
+    "other_names": null
+  },
+  {
+    "snp": "M2382",
+    "haplogroup": "L",
+    "position": 7556159,
+    "mutation": "C->T",
+    "rsid": "rs373454083",
+    "other_names": "PF5701"
+  },
+  {
+    "snp": "PF5701",
+    "haplogroup": "L",
+    "position": 7556159,
+    "mutation": "C->T",
+    "rsid": "rs373454083",
+    "other_names": "M2382"
+  },
+  {
+    "snp": "M2390",
+    "haplogroup": "L",
+    "position": 7974364,
+    "mutation": "T->A",
+    "rsid": "rs367719395",
+    "other_names": "PF5705"
+  },
+  {
+    "snp": "PF5705",
+    "haplogroup": "L",
+    "position": 7974364,
+    "mutation": "T->A",
+    "rsid": "rs367719395",
+    "other_names": "M2390"
+  },
+  {
+    "snp": "M2403",
+    "haplogroup": "L",
+    "position": 8378421,
+    "mutation": "T->C",
+    "rsid": "rs371150755",
+    "other_names": "PF5528"
+  },
+  {
+    "snp": "PF5528",
+    "haplogroup": "L",
+    "position": 8378421,
+    "mutation": "T->C",
+    "rsid": "rs371150755",
+    "other_names": "M2403"
+  },
+  {
+    "snp": "M2404",
+    "haplogroup": "L",
+    "position": 8378545,
+    "mutation": "G->T",
+    "rsid": "rs372487191",
+    "other_names": "PF5715"
+  },
+  {
+    "snp": "PF5715",
+    "haplogroup": "L",
+    "position": 8378545,
+    "mutation": "G->T",
+    "rsid": "rs372487191",
+    "other_names": "M2404"
+  },
+  {
+    "snp": "M2407",
+    "haplogroup": "L",
+    "position": 8402334,
+    "mutation": "A->G",
+    "rsid": "rs368263055",
+    "other_names": "PF5717"
+  },
+  {
+    "snp": "PF5717",
+    "haplogroup": "L",
+    "position": 8402334,
+    "mutation": "A->G",
+    "rsid": "rs368263055",
+    "other_names": "M2407"
+  },
+  {
+    "snp": "M2411",
+    "haplogroup": "L",
+    "position": 8477024,
+    "mutation": "T->C",
+    "rsid": "rs376075103",
+    "other_names": "PF5718"
+  },
+  {
+    "snp": "PF5718",
+    "haplogroup": "L",
+    "position": 8477024,
+    "mutation": "T->C",
+    "rsid": "rs376075103",
+    "other_names": "M2411"
+  },
+  {
+    "snp": "M2413",
+    "haplogroup": "L",
+    "position": 8534422,
+    "mutation": "C->T",
+    "rsid": "rs375664018",
+    "other_names": "PF5720"
+  },
+  {
+    "snp": "PF5720",
+    "haplogroup": "L",
+    "position": 8534422,
+    "mutation": "C->T",
+    "rsid": "rs375664018",
+    "other_names": "M2413"
+  },
+  {
+    "snp": "M2426",
+    "haplogroup": "L",
+    "position": 8772733,
+    "mutation": "C->T",
+    "rsid": "rs369597455",
+    "other_names": "PF5723"
+  },
+  {
+    "snp": "PF5723",
+    "haplogroup": "L",
+    "position": 8772733,
+    "mutation": "C->T",
+    "rsid": "rs369597455",
+    "other_names": "M2426"
+  },
+  {
+    "snp": "M2444",
+    "haplogroup": "L",
+    "position": 9607597,
+    "mutation": "A->G",
+    "rsid": "rs367771534",
+    "other_names": "PF5729"
+  },
+  {
+    "snp": "PF5729",
+    "haplogroup": "L",
+    "position": 9607597,
+    "mutation": "A->G",
+    "rsid": "rs367771534",
+    "other_names": "M2444"
+  },
+  {
+    "snp": "M2453",
+    "haplogroup": "L",
+    "position": 11939405,
+    "mutation": "C->T",
+    "rsid": "rs377320837",
+    "other_names": "PF5737"
+  },
+  {
+    "snp": "PF5737",
+    "haplogroup": "L",
+    "position": 11939405,
+    "mutation": "C->T",
+    "rsid": "rs377320837",
+    "other_names": "M2453"
+  },
+  {
+    "snp": "M2454",
+    "haplogroup": "L",
+    "position": 11945184,
+    "mutation": "G->A",
+    "rsid": "rs375393624",
+    "other_names": "PF5738"
+  },
+  {
+    "snp": "PF5738",
+    "haplogroup": "L",
+    "position": 11945184,
+    "mutation": "G->A",
+    "rsid": "rs375393624",
+    "other_names": "M2454"
+  },
+  {
+    "snp": "M2457",
+    "haplogroup": "L",
+    "position": 12020601,
+    "mutation": "A->G",
+    "rsid": "rs374070168",
+    "other_names": null
+  },
+  {
+    "snp": "M2463",
+    "haplogroup": "L",
+    "position": 12120011,
+    "mutation": "A->G",
+    "rsid": "rs371939767",
+    "other_names": "PF5743"
+  },
+  {
+    "snp": "PF5743",
+    "haplogroup": "L",
+    "position": 12120011,
+    "mutation": "A->G",
+    "rsid": "rs371939767",
+    "other_names": "M2463"
+  },
+  {
+    "snp": "M2464",
+    "haplogroup": "L",
+    "position": 12123347,
+    "mutation": "G->A",
+    "rsid": "rs373304671",
+    "other_names": null
+  },
+  {
+    "snp": "M2466",
+    "haplogroup": "L",
+    "position": 12146716,
+    "mutation": "C->G",
+    "rsid": "rs371363241",
+    "other_names": "PF5744"
+  },
+  {
+    "snp": "PF5744",
+    "haplogroup": "L",
+    "position": 12146716,
+    "mutation": "C->G",
+    "rsid": "rs371363241",
+    "other_names": "M2466"
+  },
+  {
+    "snp": "M2470",
+    "haplogroup": "L",
+    "position": 12219103,
+    "mutation": "C->G",
+    "rsid": "rs372576562",
+    "other_names": null
+  },
+  {
+    "snp": "M2472",
+    "haplogroup": "L",
+    "position": 12250516,
+    "mutation": "C->T",
+    "rsid": "rs372567280",
+    "other_names": "PF5747"
+  },
+  {
+    "snp": "PF5747",
+    "haplogroup": "L",
+    "position": 12250516,
+    "mutation": "C->T",
+    "rsid": "rs372567280",
+    "other_names": "M2472"
+  },
+  {
+    "snp": "M2479",
+    "haplogroup": "L",
+    "position": 12460893,
+    "mutation": "C->T",
+    "rsid": "rs369488159",
+    "other_names": null
+  },
+  {
+    "snp": "M2482",
+    "haplogroup": "L",
+    "position": 12539061,
+    "mutation": "G->A",
+    "rsid": "rs377484929",
+    "other_names": "PF5750"
+  },
+  {
+    "snp": "PF5750",
+    "haplogroup": "L",
+    "position": 12539061,
+    "mutation": "G->A",
+    "rsid": "rs377484929",
+    "other_names": "M2482"
+  },
+  {
+    "snp": "M2485",
+    "haplogroup": "L",
+    "position": 12765710,
+    "mutation": "T->G",
+    "rsid": "rs371382031",
+    "other_names": "PF5754"
+  },
+  {
+    "snp": "PF5754",
+    "haplogroup": "L",
+    "position": 12765710,
+    "mutation": "T->G",
+    "rsid": "rs371382031",
+    "other_names": "M2485"
+  },
+  {
+    "snp": "M2489",
+    "haplogroup": "L",
+    "position": 12926224,
+    "mutation": "G->A",
+    "rsid": "rs377337093",
+    "other_names": null
+  },
+  {
+    "snp": "M2491",
+    "haplogroup": "L",
+    "position": 12957130,
+    "mutation": "C->T",
+    "rsid": "rs377147196",
+    "other_names": null
+  },
+  {
+    "snp": "M2492",
+    "haplogroup": "L",
+    "position": 12958951,
+    "mutation": "A->G",
+    "rsid": "rs370879540",
+    "other_names": "PF5756"
+  },
+  {
+    "snp": "PF5756",
+    "haplogroup": "L",
+    "position": 12958951,
+    "mutation": "A->G",
+    "rsid": "rs370879540",
+    "other_names": "M2492"
+  },
+  {
+    "snp": "M2495",
+    "haplogroup": "L",
+    "position": 13032027,
+    "mutation": "A->T",
+    "rsid": "rs370911409",
+    "other_names": null
+  },
+  {
+    "snp": "M2497",
+    "haplogroup": "L",
+    "position": 13170723,
+    "mutation": "G->T",
+    "rsid": "rs368737112",
+    "other_names": null
+  },
+  {
+    "snp": "M2503",
+    "haplogroup": "L",
+    "position": 13534779,
+    "mutation": "T->C",
+    "rsid": "rs371973235",
+    "other_names": null
+  },
+  {
+    "snp": "M2504",
+    "haplogroup": "L",
+    "position": 13627805,
+    "mutation": "C->T",
+    "rsid": "rs373635973",
+    "other_names": null
+  },
+  {
+    "snp": "M2518",
+    "haplogroup": "L",
+    "position": 13806926,
+    "mutation": "C->T",
+    "rsid": "rs376453808",
+    "other_names": "PF5767"
+  },
+  {
+    "snp": "PF5767",
+    "haplogroup": "L",
+    "position": 13806926,
+    "mutation": "C->T",
+    "rsid": "rs376453808",
+    "other_names": "M2518"
+  },
+  {
+    "snp": "M2522",
+    "haplogroup": "L",
+    "position": 13954947,
+    "mutation": "A->C",
+    "rsid": "rs376203371",
+    "other_names": null
+  },
+  {
+    "snp": "M2525",
+    "haplogroup": "L",
+    "position": 14140648,
+    "mutation": "A->G",
+    "rsid": "rs372331309",
+    "other_names": "PF5771"
+  },
+  {
+    "snp": "PF5771",
+    "haplogroup": "L",
+    "position": 14140648,
+    "mutation": "A->G",
+    "rsid": "rs372331309",
+    "other_names": "M2525"
+  },
+  {
+    "snp": "M2528",
+    "haplogroup": "L",
+    "position": 14148205,
+    "mutation": "C->T",
+    "rsid": "rs374800196",
+    "other_names": null
+  },
+  {
+    "snp": "M2530",
+    "haplogroup": "L",
+    "position": 14199814,
+    "mutation": "G->A",
+    "rsid": "rs374938540",
+    "other_names": null
+  },
+  {
+    "snp": "M2531",
+    "haplogroup": "L",
+    "position": 14250507,
+    "mutation": "C->A",
+    "rsid": "rs373104604",
+    "other_names": null
+  },
+  {
+    "snp": "M2532",
+    "haplogroup": "L",
+    "position": 14256866,
+    "mutation": "G->T",
+    "rsid": "rs367944635",
+    "other_names": "PF5773"
+  },
+  {
+    "snp": "PF5773",
+    "haplogroup": "L",
+    "position": 14256866,
+    "mutation": "G->T",
+    "rsid": "rs367944635",
+    "other_names": "M2532"
+  },
+  {
+    "snp": "M2536",
+    "haplogroup": "L",
+    "position": 14344270,
+    "mutation": "C->T",
+    "rsid": "rs368850700",
+    "other_names": "PF5775"
+  },
+  {
+    "snp": "PF5775",
+    "haplogroup": "L",
+    "position": 14344270,
+    "mutation": "C->T",
+    "rsid": "rs368850700",
+    "other_names": "M2536"
+  },
+  {
+    "snp": "M2537",
+    "haplogroup": "L",
+    "position": 14358742,
+    "mutation": "G->C",
+    "rsid": "rs372174525",
+    "other_names": null
+  },
+  {
+    "snp": "M2541",
+    "haplogroup": "L",
+    "position": 14458026,
+    "mutation": "A->G",
+    "rsid": "rs375084037",
+    "other_names": "PF5777"
+  },
+  {
+    "snp": "PF5777",
+    "haplogroup": "L",
+    "position": 14458026,
+    "mutation": "A->G",
+    "rsid": "rs375084037",
+    "other_names": "M2541"
+  },
+  {
+    "snp": "M2548",
+    "haplogroup": "L",
+    "position": 14746478,
+    "mutation": "A->T",
+    "rsid": "rs377004563",
+    "other_names": null
+  },
+  {
+    "snp": "M2551",
+    "haplogroup": "L",
+    "position": 14987981,
+    "mutation": "G->A",
+    "rsid": "rs370607943",
+    "other_names": "PF5783"
+  },
+  {
+    "snp": "PF5783",
+    "haplogroup": "L",
+    "position": 14987981,
+    "mutation": "G->A",
+    "rsid": "rs370607943",
+    "other_names": "M2551"
+  },
+  {
+    "snp": "M2554",
+    "haplogroup": "L",
+    "position": 15073178,
+    "mutation": "G->A",
+    "rsid": "rs371370241",
+    "other_names": "PF5785"
+  },
+  {
+    "snp": "PF5785",
+    "haplogroup": "L",
+    "position": 15073178,
+    "mutation": "G->A",
+    "rsid": "rs371370241",
+    "other_names": "M2554"
+  },
+  {
+    "snp": "M2556",
+    "haplogroup": "L",
+    "position": 15232585,
+    "mutation": "A->T",
+    "rsid": "rs371753222",
+    "other_names": "PF5787"
+  },
+  {
+    "snp": "PF5787",
+    "haplogroup": "L",
+    "position": 15232585,
+    "mutation": "A->T",
+    "rsid": "rs371753222",
+    "other_names": "M2556"
+  },
+  {
+    "snp": "M2559",
+    "haplogroup": "L",
+    "position": 15330651,
+    "mutation": "G->T",
+    "rsid": "rs369803155",
+    "other_names": null
+  },
+  {
+    "snp": "M2569",
+    "haplogroup": "L",
+    "position": 15581098,
+    "mutation": "G->C",
+    "rsid": "rs376404688",
+    "other_names": "PF5792"
+  },
+  {
+    "snp": "PF5792",
+    "haplogroup": "L",
+    "position": 15581098,
+    "mutation": "G->C",
+    "rsid": "rs376404688",
+    "other_names": "M2569"
+  },
+  {
+    "snp": "M2572",
+    "haplogroup": "L",
+    "position": 15623327,
+    "mutation": "C->A",
+    "rsid": "rs374695013",
+    "other_names": "PF5795"
+  },
+  {
+    "snp": "PF5795",
+    "haplogroup": "L",
+    "position": 15623327,
+    "mutation": "C->A",
+    "rsid": "rs374695013",
+    "other_names": "M2572"
+  },
+  {
+    "snp": "M2578",
+    "haplogroup": "L",
+    "position": 15945854,
+    "mutation": "C->A",
+    "rsid": "rs369046994",
+    "other_names": "PF5805"
+  },
+  {
+    "snp": "PF5805",
+    "haplogroup": "L",
+    "position": 15945854,
+    "mutation": "C->A",
+    "rsid": "rs369046994",
+    "other_names": "M2578"
+  },
+  {
+    "snp": "M2579",
+    "haplogroup": "L",
+    "position": 15947415,
+    "mutation": "G->A",
+    "rsid": "rs373000294",
+    "other_names": "PF5806"
+  },
+  {
+    "snp": "PF5806",
+    "haplogroup": "L",
+    "position": 15947415,
+    "mutation": "G->A",
+    "rsid": "rs373000294",
+    "other_names": "M2579"
+  },
+  {
+    "snp": "M2583",
+    "haplogroup": "L",
+    "position": 16483615,
+    "mutation": "T->C",
+    "rsid": "rs368969104",
+    "other_names": null
+  },
+  {
+    "snp": "M2587",
+    "haplogroup": "L",
+    "position": 16653392,
+    "mutation": "G->T",
+    "rsid": "rs375258803",
+    "other_names": "PF5810"
+  },
+  {
+    "snp": "PF5810",
+    "haplogroup": "L",
+    "position": 16653392,
+    "mutation": "G->T",
+    "rsid": "rs375258803",
+    "other_names": "M2587"
+  },
+  {
+    "snp": "M2594",
+    "haplogroup": "L",
+    "position": 16897985,
+    "mutation": "C->T",
+    "rsid": "rs373583460",
+    "other_names": null
+  },
+  {
+    "snp": "M2595",
+    "haplogroup": "L",
+    "position": 16899002,
+    "mutation": "A->T",
+    "rsid": "rs367681193",
+    "other_names": "PF5813"
+  },
+  {
+    "snp": "PF5813",
+    "haplogroup": "L",
+    "position": 16899002,
+    "mutation": "A->T",
+    "rsid": "rs367681193",
+    "other_names": "M2595"
+  },
+  {
+    "snp": "M2596",
+    "haplogroup": "L",
+    "position": 16931781,
+    "mutation": "C->G",
+    "rsid": "rs369762469",
+    "other_names": null
+  },
+  {
+    "snp": "M2597",
+    "haplogroup": "L",
+    "position": 16974673,
+    "mutation": "A->G",
+    "rsid": "rs377501059",
+    "other_names": "PF5563"
+  },
+  {
+    "snp": "PF5563",
+    "haplogroup": "L",
+    "position": 16974673,
+    "mutation": "A->G",
+    "rsid": "rs377501059",
+    "other_names": "M2597"
+  },
+  {
+    "snp": "M2598",
+    "haplogroup": "L",
+    "position": 16982165,
+    "mutation": "T->A",
+    "rsid": "rs371221796",
+    "other_names": "PF5815"
+  },
+  {
+    "snp": "PF5815",
+    "haplogroup": "L",
+    "position": 16982165,
+    "mutation": "T->A",
+    "rsid": "rs371221796",
+    "other_names": "M2598"
+  },
+  {
+    "snp": "M2607",
+    "haplogroup": "L",
+    "position": 19014526,
+    "mutation": "A->C",
+    "rsid": "rs369824937",
+    "other_names": "S7544"
+  },
+  {
+    "snp": "S7544",
+    "haplogroup": "L",
+    "position": 19014526,
+    "mutation": "A->C",
+    "rsid": "rs369824937",
+    "other_names": "M2607"
+  },
+  {
+    "snp": "M2609",
+    "haplogroup": "L",
+    "position": 19049688,
+    "mutation": "G->A",
+    "rsid": "rs373039807",
+    "other_names": null
+  },
+  {
+    "snp": "M2611",
+    "haplogroup": "L",
+    "position": 19073903,
+    "mutation": "A->G",
+    "rsid": "rs369713907",
+    "other_names": "PF5564"
+  },
+  {
+    "snp": "PF5564",
+    "haplogroup": "L",
+    "position": 19073903,
+    "mutation": "A->G",
+    "rsid": "rs369713907",
+    "other_names": "M2611"
+  },
+  {
+    "snp": "M2612",
+    "haplogroup": "L",
+    "position": 19139777,
+    "mutation": "C->T",
+    "rsid": "rs370134041",
+    "other_names": null
+  },
+  {
+    "snp": "M2613",
+    "haplogroup": "L",
+    "position": 19140363,
+    "mutation": "C->T",
+    "rsid": "rs374827984",
+    "other_names": "PF5821"
+  },
+  {
+    "snp": "PF5821",
+    "haplogroup": "L",
+    "position": 19140363,
+    "mutation": "C->T",
+    "rsid": "rs374827984",
+    "other_names": "M2613"
+  },
+  {
+    "snp": "M2615",
+    "haplogroup": "L",
+    "position": 19204415,
+    "mutation": "C->T",
+    "rsid": "rs371290385",
+    "other_names": "PF5823"
+  },
+  {
+    "snp": "PF5823",
+    "haplogroup": "L",
+    "position": 19204415,
+    "mutation": "C->T",
+    "rsid": "rs371290385",
+    "other_names": "M2615"
+  },
+  {
+    "snp": "M2619",
+    "haplogroup": "L",
+    "position": 19301696,
+    "mutation": "T->G",
+    "rsid": "rs574898671",
+    "other_names": null
+  },
+  {
+    "snp": "M2620",
+    "haplogroup": "L",
+    "position": 19315051,
+    "mutation": "C->A",
+    "rsid": "rs377671266",
+    "other_names": null
+  },
+  {
+    "snp": "M2621",
+    "haplogroup": "L",
+    "position": 19329350,
+    "mutation": "T->C",
+    "rsid": "rs370937890",
+    "other_names": null
+  },
+  {
+    "snp": "M2624",
+    "haplogroup": "L",
+    "position": 19393522,
+    "mutation": "C->T",
+    "rsid": "rs376737007",
+    "other_names": null
+  },
+  {
+    "snp": "M2628",
+    "haplogroup": "L",
+    "position": 19788727,
+    "mutation": "C->T",
+    "rsid": "rs370158399",
+    "other_names": null
+  },
+  {
+    "snp": "M2629",
+    "haplogroup": "L",
+    "position": 19793725,
+    "mutation": "G->A",
+    "rsid": "rs373619830",
+    "other_names": null
+  },
+  {
+    "snp": "M2633",
+    "haplogroup": "L",
+    "position": 19914863,
+    "mutation": "G->T",
+    "rsid": "rs371670106",
+    "other_names": null
+  },
+  {
+    "snp": "M2638",
+    "haplogroup": "L",
+    "position": 20413724,
+    "mutation": "A->C",
+    "rsid": "rs368777952",
+    "other_names": null
+  },
+  {
+    "snp": "M2640",
+    "haplogroup": "L",
+    "position": 20433619,
+    "mutation": "G->A",
+    "rsid": "rs367615464",
+    "other_names": "PF5829"
+  },
+  {
+    "snp": "PF5829",
+    "haplogroup": "L",
+    "position": 20433619,
+    "mutation": "G->A",
+    "rsid": "rs367615464",
+    "other_names": "M2640"
+  },
+  {
+    "snp": "M2642",
+    "haplogroup": "L",
+    "position": 20493455,
+    "mutation": "A->C",
+    "rsid": "rs369934744",
+    "other_names": null
+  },
+  {
+    "snp": "M2644",
+    "haplogroup": "L",
+    "position": 20528220,
+    "mutation": "C->T",
+    "rsid": "rs377427510",
+    "other_names": null
+  },
+  {
+    "snp": "M2645",
+    "haplogroup": "L",
+    "position": 20528941,
+    "mutation": "G->A",
+    "rsid": "rs111851215",
+    "other_names": null
+  },
+  {
+    "snp": "M2650",
+    "haplogroup": "L",
+    "position": 20657657,
+    "mutation": "C->T",
+    "rsid": "rs374464721",
+    "other_names": null
+  },
+  {
+    "snp": "M2655",
+    "haplogroup": "L",
+    "position": 20896954,
+    "mutation": "G->T",
+    "rsid": "rs375008912",
+    "other_names": "PF5832"
+  },
+  {
+    "snp": "PF5832",
+    "haplogroup": "L",
+    "position": 20896954,
+    "mutation": "G->T",
+    "rsid": "rs375008912",
+    "other_names": "M2655"
+  },
+  {
+    "snp": "M2657",
+    "haplogroup": "L",
+    "position": 20919731,
+    "mutation": "T->G",
+    "rsid": "rs369902654",
+    "other_names": "PF5833"
+  },
+  {
+    "snp": "PF5833",
+    "haplogroup": "L",
+    "position": 20919731,
+    "mutation": "T->G",
+    "rsid": "rs369902654",
+    "other_names": "M2657"
+  },
+  {
+    "snp": "M2660",
+    "haplogroup": "L",
+    "position": 21175332,
+    "mutation": "C->A",
+    "rsid": "rs374610366",
+    "other_names": "PF5837"
+  },
+  {
+    "snp": "PF5837",
+    "haplogroup": "L",
+    "position": 21175332,
+    "mutation": "C->A",
+    "rsid": "rs374610366",
+    "other_names": "M2660"
+  },
+  {
+    "snp": "M2661",
+    "haplogroup": "L",
+    "position": 21275522,
+    "mutation": "G->A",
+    "rsid": "rs368039486",
+    "other_names": "PF5839"
+  },
+  {
+    "snp": "PF5839",
+    "haplogroup": "L",
+    "position": 21275522,
+    "mutation": "G->A",
+    "rsid": "rs368039486",
+    "other_names": "M2661"
+  },
+  {
+    "snp": "M2670",
+    "haplogroup": "L",
+    "position": 21651658,
+    "mutation": "T->C",
+    "rsid": "rs377567087",
+    "other_names": "PF5841"
+  },
+  {
+    "snp": "PF5841",
+    "haplogroup": "L",
+    "position": 21651658,
+    "mutation": "T->C",
+    "rsid": "rs377567087",
+    "other_names": "M2670"
+  },
+  {
+    "snp": "M2675",
+    "haplogroup": "L",
+    "position": 22260453,
+    "mutation": "C->A",
+    "rsid": "rs369890439",
+    "other_names": "PF5842"
+  },
+  {
+    "snp": "PF5842",
+    "haplogroup": "L",
+    "position": 22260453,
+    "mutation": "C->A",
+    "rsid": "rs369890439",
+    "other_names": "M2675"
+  },
+  {
+    "snp": "M8987",
+    "haplogroup": "L",
+    "position": 7464359,
+    "mutation": "G->A",
+    "rsid": "rs368376032",
+    "other_names": "PF5699"
+  },
+  {
+    "snp": "PF5699",
+    "haplogroup": "L",
+    "position": 7464359,
+    "mutation": "G->A",
+    "rsid": "rs368376032",
+    "other_names": "M8987"
+  },
+  {
+    "snp": "PF5532",
+    "haplogroup": "L",
+    "position": 8768544,
+    "mutation": "G->T",
+    "rsid": "rs375054845",
+    "other_names": null
+  },
+  {
+    "snp": "PF5539",
+    "haplogroup": "L",
+    "position": 11728630,
+    "mutation": "T->C",
+    "rsid": "rs76593188",
+    "other_names": null
+  },
+  {
+    "snp": "PF5554",
+    "haplogroup": "L",
+    "position": 15494443,
+    "mutation": "A->G",
+    "rsid": "rs368963552",
+    "other_names": null
+  },
+  {
+    "snp": "PF5557",
+    "haplogroup": "L",
+    "position": 15809266,
+    "mutation": "G->C",
+    "rsid": "rs369693098",
+    "other_names": null
+  },
+  {
+    "snp": "PF5583",
+    "haplogroup": "L",
+    "position": 21022842,
+    "mutation": "G->T",
+    "rsid": "rs377766873",
+    "other_names": null
+  },
+  {
+    "snp": "PF5732",
+    "haplogroup": "L",
+    "position": 11063211,
+    "mutation": "G->A",
+    "rsid": "rs377643803",
+    "other_names": null
+  },
+  {
+    "snp": "PF5757",
+    "haplogroup": "L",
+    "position": 13053244,
+    "mutation": "C->T",
+    "rsid": "rs373735987",
+    "other_names": null
+  },
+  {
+    "snp": "PF5779",
+    "haplogroup": "L",
+    "position": 14621697,
+    "mutation": "G->A",
+    "rsid": "rs369827200",
+    "other_names": null
+  },
+  {
+    "snp": "PF5790",
+    "haplogroup": "L",
+    "position": 15395518,
+    "mutation": "G->A",
+    "rsid": "rs373909069",
+    "other_names": null
+  },
+  {
+    "snp": "PF5791",
+    "haplogroup": "L",
+    "position": 15490879,
+    "mutation": "A->G",
+    "rsid": "rs377229842",
+    "other_names": null
+  },
+  {
+    "snp": "PF5802",
+    "haplogroup": "L",
+    "position": 15817904,
+    "mutation": "A->C",
+    "rsid": "rs374058688",
+    "other_names": null
+  },
+  {
+    "snp": "PF5804",
+    "haplogroup": "L",
+    "position": 15917708,
+    "mutation": "C->A",
+    "rsid": "rs369495157",
+    "other_names": null
+  },
+  {
+    "snp": "PF5830",
+    "haplogroup": "L",
+    "position": 20568184,
+    "mutation": "T->C",
+    "rsid": "rs369095612",
+    "other_names": null
+  },
+  {
+    "snp": "PF5835",
+    "haplogroup": "L",
+    "position": 21026848,
+    "mutation": "G->A",
+    "rsid": "rs369886618",
+    "other_names": null
+  },
+  {
+    "snp": "Y5514",
+    "haplogroup": "L",
+    "position": 7559198,
+    "mutation": "T->A",
+    "rsid": "rs375638089",
+    "other_names": null
+  },
+  {
+    "snp": "Y5529",
+    "haplogroup": "L",
+    "position": 19078113,
+    "mutation": "A->G",
+    "rsid": "rs373406476",
+    "other_names": "Z20172"
+  },
+  {
+    "snp": "Z20172",
+    "haplogroup": "L",
+    "position": 19078113,
+    "mutation": "A->G",
+    "rsid": "rs373406476",
+    "other_names": "Y5529"
+  },
+  {
+    "snp": "Y5530",
+    "haplogroup": "L",
+    "position": 19243502,
+    "mutation": "C->T",
+    "rsid": "rs376197756",
+    "other_names": "Z20173"
+  },
+  {
+    "snp": "Z20173",
+    "haplogroup": "L",
+    "position": 19243502,
+    "mutation": "C->T",
+    "rsid": "rs376197756",
+    "other_names": "Y5530"
+  },
+  {
+    "snp": "Y5564",
+    "haplogroup": "L",
+    "position": 20434829,
+    "mutation": "T->G",
+    "rsid": "rs372155056",
+    "other_names": "Z20190"
+  },
+  {
+    "snp": "Z20190",
+    "haplogroup": "L",
+    "position": 20434829,
+    "mutation": "T->G",
+    "rsid": "rs372155056",
+    "other_names": "Y5564"
+  },
+  {
+    "snp": "Z20117",
+    "haplogroup": "L",
+    "position": 7298524,
+    "mutation": "A->T",
+    "rsid": "rs371870391",
+    "other_names": null
+  },
+  {
+    "snp": "FGC11566",
+    "haplogroup": "L~",
+    "position": 13117756,
+    "mutation": "G->A",
+    "rsid": "rs373003888",
+    "other_names": null
+  },
+  {
+    "snp": "M2363",
+    "haplogroup": "L~",
+    "position": 6829754,
+    "mutation": "C->T",
+    "rsid": "rs368527889",
+    "other_names": null
+  },
+  {
+    "snp": "M2456",
+    "haplogroup": "L~",
+    "position": 12001015,
+    "mutation": "C->G",
+    "rsid": "rs369167327",
+    "other_names": null
+  },
+  {
+    "snp": "M2474",
+    "haplogroup": "L~",
+    "position": 12267461,
+    "mutation": "C->A",
+    "rsid": "rs377226146",
+    "other_names": null
+  },
+  {
+    "snp": "M2500",
+    "haplogroup": "L~",
+    "position": 13451714,
+    "mutation": "C->T",
+    "rsid": "rs375510657",
+    "other_names": null
+  },
+  {
+    "snp": "M2526",
+    "haplogroup": "L~",
+    "position": 14142125,
+    "mutation": "G->T",
+    "rsid": "rs377282279",
+    "other_names": "PF5772"
+  },
+  {
+    "snp": "PF5772",
+    "haplogroup": "L~",
+    "position": 14142125,
+    "mutation": "G->T",
+    "rsid": "rs377282279",
+    "other_names": "M2526"
+  },
+  {
+    "snp": "M2527",
+    "haplogroup": "L~",
+    "position": 14144168,
+    "mutation": "G->T",
+    "rsid": "rs371844732",
+    "other_names": null
+  },
+  {
+    "snp": "M2552",
+    "haplogroup": "L~",
+    "position": 15009280,
+    "mutation": "T->C",
+    "rsid": "rs377291415",
+    "other_names": null
+  },
+  {
+    "snp": "M2564",
+    "haplogroup": "L~",
+    "position": 15443864,
+    "mutation": "C->T",
+    "rsid": "rs374094391",
+    "other_names": null
+  },
+  {
+    "snp": "M2584",
+    "haplogroup": "L~",
+    "position": 16598392,
+    "mutation": "G->A",
+    "rsid": "rs376396050",
+    "other_names": "PF5560"
+  },
+  {
+    "snp": "PF5560",
+    "haplogroup": "L~",
+    "position": 16598392,
+    "mutation": "G->A",
+    "rsid": "rs376396050",
+    "other_names": "M2584"
+  },
+  {
+    "snp": "M2612",
+    "haplogroup": "L~",
+    "position": 19139777,
+    "mutation": "C->T",
+    "rsid": "rs370134041",
+    "other_names": null
+  },
+  {
+    "snp": "M2637",
+    "haplogroup": "L~",
+    "position": 20379204,
+    "mutation": "G->T",
+    "rsid": "rs373885447",
+    "other_names": "PF5827"
+  },
+  {
+    "snp": "PF5827",
+    "haplogroup": "L~",
+    "position": 20379204,
+    "mutation": "G->T",
+    "rsid": "rs373885447",
+    "other_names": "M2637"
+  },
+  {
+    "snp": "M2646",
+    "haplogroup": "L~",
+    "position": 20571791,
+    "mutation": "C->T",
+    "rsid": "rs376625969",
+    "other_names": null
+  },
+  {
+    "snp": "M2652",
+    "haplogroup": "L~",
+    "position": 20705089,
+    "mutation": "C->T",
+    "rsid": "rs372346193",
+    "other_names": null
+  },
+  {
+    "snp": "M2680",
+    "haplogroup": "L~",
+    "position": 26600064,
+    "mutation": "T->C",
+    "rsid": "rs371828860",
+    "other_names": null
+  },
+  {
+    "snp": "PF5790",
+    "haplogroup": "L~",
+    "position": 15395518,
+    "mutation": "G->A",
+    "rsid": "rs373909069",
+    "other_names": null
+  },
+  {
+    "snp": "Y5542",
+    "haplogroup": "L~",
+    "position": 7286294,
+    "mutation": "G->C",
+    "rsid": "rs367733510",
+    "other_names": "Z20116"
+  },
+  {
+    "snp": "Z20116",
+    "haplogroup": "L~",
+    "position": 7286294,
+    "mutation": "G->C",
+    "rsid": "rs367733510",
+    "other_names": "Y5542"
+  },
+  {
+    "snp": "Y5553",
+    "haplogroup": "L~",
+    "position": 15984415,
+    "mutation": "A->G",
+    "rsid": "rs374713197",
+    "other_names": "Z20165"
+  },
+  {
+    "snp": "Z20165",
+    "haplogroup": "L~",
+    "position": 15984415,
+    "mutation": "A->G",
+    "rsid": "rs374713197",
+    "other_names": "Y5553"
+  },
+  {
+    "snp": "Z20055",
+    "haplogroup": "L~",
+    "position": 2809860,
+    "mutation": "T->C",
+    "rsid": "rs372190751",
+    "other_names": null
+  },
+  {
+    "snp": "Z20164",
+    "haplogroup": "L~",
+    "position": 15621502,
+    "mutation": "G->C",
+    "rsid": "rs370377135",
+    "other_names": null
+  },
+  {
+    "snp": "Z20192",
+    "haplogroup": "L~",
+    "position": 20857476,
+    "mutation": "G->A",
+    "rsid": "rs375008471",
+    "other_names": null
+  },
+  {
+    "snp": "M22",
+    "haplogroup": "L1",
+    "position": 12678234,
+    "mutation": "A->G",
+    "rsid": "rs3913",
+    "other_names": null
+  },
+  {
+    "snp": "L1304",
+    "haplogroup": "L1",
+    "position": 15965077,
+    "mutation": "C->A",
+    "rsid": "rs377684953",
+    "other_names": null
+  },
+  {
+    "snp": "M295",
+    "haplogroup": "L1",
+    "position": 20583165,
+    "mutation": "T->C",
+    "rsid": "rs9341318",
+    "other_names": null
+  },
+  {
+    "snp": "Page121",
+    "haplogroup": "L1",
+    "position": 15549506,
+    "mutation": "G->A",
+    "rsid": "rs72625377",
+    "other_names": null
+  },
+  {
+    "snp": "CTS2285",
+    "haplogroup": "L1~",
+    "position": 12127541,
+    "mutation": "C->A",
+    "rsid": "rs377332335",
+    "other_names": "M2465"
+  },
+  {
+    "snp": "M2465",
+    "haplogroup": "L1~",
+    "position": 12127541,
+    "mutation": "C->A",
+    "rsid": "rs377332335",
+    "other_names": "CTS2285"
+  },
+  {
+    "snp": "M2374",
+    "haplogroup": "L1~",
+    "position": 7145266,
+    "mutation": "T->A",
+    "rsid": "rs369339642",
+    "other_names": null
+  },
+  {
+    "snp": "M2383",
+    "haplogroup": "L1~",
+    "position": 7782221,
+    "mutation": "G->T",
+    "rsid": "rs369604876",
+    "other_names": null
+  },
+  {
+    "snp": "M2384",
+    "haplogroup": "L1~",
+    "position": 7787792,
+    "mutation": "T->C",
+    "rsid": "rs375368075",
+    "other_names": null
+  },
+  {
+    "snp": "M2386",
+    "haplogroup": "L1~",
+    "position": 7864372,
+    "mutation": "G->T",
+    "rsid": "rs370936656",
+    "other_names": null
+  },
+  {
+    "snp": "M2389",
+    "haplogroup": "L1~",
+    "position": 7889002,
+    "mutation": "T->G",
+    "rsid": "rs376953306",
+    "other_names": "PF5703"
+  },
+  {
+    "snp": "PF5703",
+    "haplogroup": "L1~",
+    "position": 7889002,
+    "mutation": "T->G",
+    "rsid": "rs376953306",
+    "other_names": "M2389"
+  },
+  {
+    "snp": "M2391",
+    "haplogroup": "L1~",
+    "position": 7975423,
+    "mutation": "G->A",
+    "rsid": "rs371548687",
+    "other_names": null
+  },
+  {
+    "snp": "M2392",
+    "haplogroup": "L1~",
+    "position": 8017001,
+    "mutation": "T->A",
+    "rsid": "rs371856174",
+    "other_names": null
+  },
+  {
+    "snp": "M2394",
+    "haplogroup": "L1~",
+    "position": 8073493,
+    "mutation": "C->T",
+    "rsid": "rs375264511",
+    "other_names": null
+  },
+  {
+    "snp": "M2395",
+    "haplogroup": "L1~",
+    "position": 8078883,
+    "mutation": "A->G",
+    "rsid": "rs368616394",
+    "other_names": "PF5710"
+  },
+  {
+    "snp": "PF5710",
+    "haplogroup": "L1~",
+    "position": 8078883,
+    "mutation": "A->G",
+    "rsid": "rs368616394",
+    "other_names": "M2395"
+  },
+  {
+    "snp": "M2399",
+    "haplogroup": "L1~",
+    "position": 8201223,
+    "mutation": "C->G",
+    "rsid": "rs368011079",
+    "other_names": null
+  },
+  {
+    "snp": "M2405",
+    "haplogroup": "L1~",
+    "position": 8400419,
+    "mutation": "G->A",
+    "rsid": "rs370305666",
+    "other_names": null
+  },
+  {
+    "snp": "M2406",
+    "haplogroup": "L1~",
+    "position": 8400563,
+    "mutation": "C->T",
+    "rsid": "rs374849997",
+    "other_names": null
+  },
+  {
+    "snp": "M2409",
+    "haplogroup": "L1~",
+    "position": 8411278,
+    "mutation": "G->A",
+    "rsid": "rs374417037",
+    "other_names": null
+  },
+  {
+    "snp": "M2416",
+    "haplogroup": "L1~",
+    "position": 8577506,
+    "mutation": "C->G",
+    "rsid": "rs373444816",
+    "other_names": null
+  },
+  {
+    "snp": "M2418",
+    "haplogroup": "L1~",
+    "position": 8592375,
+    "mutation": "G->C",
+    "rsid": "rs375634035",
+    "other_names": null
+  },
+  {
+    "snp": "M2419",
+    "haplogroup": "L1~",
+    "position": 8597542,
+    "mutation": "C->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "M2420",
+    "haplogroup": "L1~",
+    "position": 8630425,
+    "mutation": "C->A",
+    "rsid": "rs371183784",
+    "other_names": null
+  },
+  {
+    "snp": "M2421",
+    "haplogroup": "L1~",
+    "position": 8646994,
+    "mutation": "A->G",
+    "rsid": "rs376195093",
+    "other_names": null
+  },
+  {
+    "snp": "M2427",
+    "haplogroup": "L1~",
+    "position": 8791059,
+    "mutation": "G->A",
+    "rsid": "rs375374420",
+    "other_names": "PF1963; Z1075"
+  },
+  {
+    "snp": "PF1963",
+    "haplogroup": "L1~",
+    "position": 8791059,
+    "mutation": "G->A",
+    "rsid": "rs375374420",
+    "other_names": "M2427; Z1075"
+  },
+  {
+    "snp": "Z1075",
+    "haplogroup": "L1~",
+    "position": 8791059,
+    "mutation": "G->A",
+    "rsid": "rs375374420",
+    "other_names": "M2427; PF1963"
+  },
+  {
+    "snp": "M2430",
+    "haplogroup": "L1~",
+    "position": 8860818,
+    "mutation": "C->A",
+    "rsid": "rs374116085",
+    "other_names": "PF5725"
+  },
+  {
+    "snp": "PF5725",
+    "haplogroup": "L1~",
+    "position": 8860818,
+    "mutation": "C->A",
+    "rsid": "rs374116085",
+    "other_names": "M2430"
+  },
+  {
+    "snp": "M2435",
+    "haplogroup": "L1~",
+    "position": 9018270,
+    "mutation": "A->G",
+    "rsid": "rs374150593",
+    "other_names": "PF5726"
+  },
+  {
+    "snp": "PF5726",
+    "haplogroup": "L1~",
+    "position": 9018270,
+    "mutation": "A->G",
+    "rsid": "rs374150593",
+    "other_names": "M2435"
+  },
+  {
+    "snp": "M2437",
+    "haplogroup": "L1~",
+    "position": 9229506,
+    "mutation": "C->A",
+    "rsid": "rs376907656",
+    "other_names": null
+  },
+  {
+    "snp": "M2438",
+    "haplogroup": "L1~",
+    "position": 9244265,
+    "mutation": "C->T",
+    "rsid": "rs371153802",
+    "other_names": null
+  },
+  {
+    "snp": "M2445",
+    "haplogroup": "L1~",
+    "position": 10007099,
+    "mutation": "A->C",
+    "rsid": "rs370483664",
+    "other_names": null
+  },
+  {
+    "snp": "M2460",
+    "haplogroup": "L1~",
+    "position": 12048059,
+    "mutation": "G->A",
+    "rsid": "rs373134467",
+    "other_names": null
+  },
+  {
+    "snp": "M2462",
+    "haplogroup": "L1~",
+    "position": 12108091,
+    "mutation": "G->A",
+    "rsid": "rs534973349",
+    "other_names": null
+  },
+  {
+    "snp": "M2468",
+    "haplogroup": "L1~",
+    "position": 12182584,
+    "mutation": "G->A",
+    "rsid": "rs372467828",
+    "other_names": null
+  },
+  {
+    "snp": "M2471",
+    "haplogroup": "L1~",
+    "position": 12239058,
+    "mutation": "G->A",
+    "rsid": "rs377235980",
+    "other_names": null
+  },
+  {
+    "snp": "M2490",
+    "haplogroup": "L1~",
+    "position": 12950712,
+    "mutation": "G->T",
+    "rsid": "rs373003506",
+    "other_names": null
+  },
+  {
+    "snp": "M2494",
+    "haplogroup": "L1~",
+    "position": 13015562,
+    "mutation": "A->G",
+    "rsid": "rs376462519",
+    "other_names": null
+  },
+  {
+    "snp": "M2496",
+    "haplogroup": "L1~",
+    "position": 13162535,
+    "mutation": "T->A",
+    "rsid": "rs375680594",
+    "other_names": null
+  },
+  {
+    "snp": "M2517",
+    "haplogroup": "L1~",
+    "position": 13795722,
+    "mutation": "C->A",
+    "rsid": "rs373461072",
+    "other_names": null
+  },
+  {
+    "snp": "M2543",
+    "haplogroup": "L1~",
+    "position": 14564131,
+    "mutation": "T->C",
+    "rsid": "rs371176327",
+    "other_names": null
+  },
+  {
+    "snp": "M2544",
+    "haplogroup": "L1~",
+    "position": 14572953,
+    "mutation": "G->A",
+    "rsid": "rs374682731",
+    "other_names": null
+  },
+  {
+    "snp": "M2545",
+    "haplogroup": "L1~",
+    "position": 14597629,
+    "mutation": "A->G",
+    "rsid": "rs372395075",
+    "other_names": null
+  },
+  {
+    "snp": "M2546",
+    "haplogroup": "L1~",
+    "position": 14658066,
+    "mutation": "G->A",
+    "rsid": "rs368775387",
+    "other_names": null
+  },
+  {
+    "snp": "M2560",
+    "haplogroup": "L1~",
+    "position": 15370170,
+    "mutation": "G->A",
+    "rsid": "rs368770269",
+    "other_names": null
+  },
+  {
+    "snp": "M2568",
+    "haplogroup": "L1~",
+    "position": 15571337,
+    "mutation": "G->A",
+    "rsid": "rs373526814",
+    "other_names": null
+  },
+  {
+    "snp": "M2576",
+    "haplogroup": "L1~",
+    "position": 15772847,
+    "mutation": "C->T",
+    "rsid": "rs373027660",
+    "other_names": null
+  },
+  {
+    "snp": "M2586",
+    "haplogroup": "L1~",
+    "position": 16621243,
+    "mutation": "C->T",
+    "rsid": "rs371345733",
+    "other_names": null
+  },
+  {
+    "snp": "M2593",
+    "haplogroup": "L1~",
+    "position": 16890983,
+    "mutation": "G->A",
+    "rsid": "rs371857083",
+    "other_names": null
+  },
+  {
+    "snp": "M2600",
+    "haplogroup": "L1~",
+    "position": 17179654,
+    "mutation": "G->T",
+    "rsid": "rs368451481",
+    "other_names": null
+  },
+  {
+    "snp": "M2602",
+    "haplogroup": "L1~",
+    "position": 17217464,
+    "mutation": "A->T",
+    "rsid": "rs369152550",
+    "other_names": null
+  },
+  {
+    "snp": "M2614",
+    "haplogroup": "L1~",
+    "position": 19152218,
+    "mutation": "T->C",
+    "rsid": "rs368265712",
+    "other_names": null
+  },
+  {
+    "snp": "M2617",
+    "haplogroup": "L1~",
+    "position": 19269565,
+    "mutation": "G->T",
+    "rsid": "rs369522914",
+    "other_names": null
+  },
+  {
+    "snp": "M2631",
+    "haplogroup": "L1~",
+    "position": 19803099,
+    "mutation": "G->T",
+    "rsid": "rs375670588",
+    "other_names": null
+  },
+  {
+    "snp": "M2635",
+    "haplogroup": "L1~",
+    "position": 19985742,
+    "mutation": "G->C",
+    "rsid": "rs375489864",
+    "other_names": null
+  },
+  {
+    "snp": "M2639",
+    "haplogroup": "L1~",
+    "position": 20416594,
+    "mutation": "T->C",
+    "rsid": "rs372103116",
+    "other_names": null
+  },
+  {
+    "snp": "M2665",
+    "haplogroup": "L1~",
+    "position": 21354046,
+    "mutation": "T->G",
+    "rsid": "rs372331017",
+    "other_names": null
+  },
+  {
+    "snp": "M2666",
+    "haplogroup": "L1~",
+    "position": 21370804,
+    "mutation": "C->T",
+    "rsid": "rs377281994",
+    "other_names": null
+  },
+  {
+    "snp": "M2668",
+    "haplogroup": "L1~",
+    "position": 21458514,
+    "mutation": "G->A",
+    "rsid": "rs374787057",
+    "other_names": "PF5840"
+  },
+  {
+    "snp": "PF5840",
+    "haplogroup": "L1~",
+    "position": 21458514,
+    "mutation": "G->A",
+    "rsid": "rs374787057",
+    "other_names": "M2668"
+  },
+  {
+    "snp": "M2673",
+    "haplogroup": "L1~",
+    "position": 21821144,
+    "mutation": "T->C",
+    "rsid": "rs377318825",
+    "other_names": null
+  },
+  {
+    "snp": "M2676",
+    "haplogroup": "L1~",
+    "position": 22306151,
+    "mutation": "C->T",
+    "rsid": "rs375933906",
+    "other_names": null
+  },
+  {
+    "snp": "SK1410",
+    "haplogroup": "L1~",
+    "position": 17384773,
+    "mutation": "A->T",
+    "rsid": "rs369519173",
+    "other_names": "Y5528; Z20169"
+  },
+  {
+    "snp": "Y5528",
+    "haplogroup": "L1~",
+    "position": 17384773,
+    "mutation": "A->T",
+    "rsid": "rs369519173",
+    "other_names": "SK1410; Z20169"
+  },
+  {
+    "snp": "Z20169",
+    "haplogroup": "L1~",
+    "position": 17384773,
+    "mutation": "A->T",
+    "rsid": "rs369519173",
+    "other_names": "SK1410; Y5528"
+  },
+  {
+    "snp": "Y5517",
+    "haplogroup": "L1~",
+    "position": 8256053,
+    "mutation": "T->A",
+    "rsid": "rs372209199",
+    "other_names": "Z20124"
+  },
+  {
+    "snp": "Z20124",
+    "haplogroup": "L1~",
+    "position": 8256053,
+    "mutation": "T->A",
+    "rsid": "rs372209199",
+    "other_names": "Y5517"
+  },
+  {
+    "snp": "Y5520",
+    "haplogroup": "L1~",
+    "position": 9925088,
+    "mutation": "A->G",
+    "rsid": "rs377654376",
+    "other_names": "Z20128"
+  },
+  {
+    "snp": "Z20128",
+    "haplogroup": "L1~",
+    "position": 9925088,
+    "mutation": "A->G",
+    "rsid": "rs377654376",
+    "other_names": "Y5520"
+  },
+  {
+    "snp": "Y5522",
+    "haplogroup": "L1~",
+    "position": 11699659,
+    "mutation": "G->A",
+    "rsid": "rs374476451",
+    "other_names": "Z20156"
+  },
+  {
+    "snp": "Z20156",
+    "haplogroup": "L1~",
+    "position": 11699659,
+    "mutation": "G->A",
+    "rsid": "rs374476451",
+    "other_names": "Y5522"
+  },
+  {
+    "snp": "Y5523",
+    "haplogroup": "L1~",
+    "position": 11720039,
+    "mutation": "G->A",
+    "rsid": "rs374925479",
+    "other_names": "Z20157"
+  },
+  {
+    "snp": "Z20157",
+    "haplogroup": "L1~",
+    "position": 11720039,
+    "mutation": "G->A",
+    "rsid": "rs374925479",
+    "other_names": "Y5523"
+  },
+  {
+    "snp": "Y5524",
+    "haplogroup": "L1~",
+    "position": 13687517,
+    "mutation": "C->T",
+    "rsid": "rs371486971",
+    "other_names": "Z20161"
+  },
+  {
+    "snp": "Z20161",
+    "haplogroup": "L1~",
+    "position": 13687517,
+    "mutation": "C->T",
+    "rsid": "rs371486971",
+    "other_names": "Y5524"
+  },
+  {
+    "snp": "Y5534",
+    "haplogroup": "L1~",
+    "position": 21832229,
+    "mutation": "C->T",
+    "rsid": "rs370715727",
+    "other_names": "Z20201"
+  },
+  {
+    "snp": "Z20201",
+    "haplogroup": "L1~",
+    "position": 21832229,
+    "mutation": "C->T",
+    "rsid": "rs370715727",
+    "other_names": "Y5534"
+  },
+  {
+    "snp": "Y5537",
+    "haplogroup": "L1~",
+    "position": 22304853,
+    "mutation": "C->T",
+    "rsid": "rs373266322",
+    "other_names": "Z20202"
+  },
+  {
+    "snp": "Z20202",
+    "haplogroup": "L1~",
+    "position": 22304853,
+    "mutation": "C->T",
+    "rsid": "rs373266322",
+    "other_names": "Y5537"
+  },
+  {
+    "snp": "Y5545",
+    "haplogroup": "L1~",
+    "position": 9951821,
+    "mutation": "A->C",
+    "rsid": "rs370328566",
+    "other_names": "Z20129"
+  },
+  {
+    "snp": "Z20129",
+    "haplogroup": "L1~",
+    "position": 9951821,
+    "mutation": "A->C",
+    "rsid": "rs370328566",
+    "other_names": "Y5545"
+  },
+  {
+    "snp": "Y5546",
+    "haplogroup": "L1~",
+    "position": 11720236,
+    "mutation": "A->T",
+    "rsid": "rs377340505",
+    "other_names": "Z20158"
+  },
+  {
+    "snp": "Z20158",
+    "haplogroup": "L1~",
+    "position": 11720236,
+    "mutation": "A->T",
+    "rsid": "rs377340505",
+    "other_names": "Y5546"
+  },
+  {
+    "snp": "Y5555",
+    "haplogroup": "L1~",
+    "position": 16427456,
+    "mutation": "C->A",
+    "rsid": "rs368458825",
+    "other_names": "Z20166"
+  },
+  {
+    "snp": "Z20166",
+    "haplogroup": "L1~",
+    "position": 16427456,
+    "mutation": "C->A",
+    "rsid": "rs368458825",
+    "other_names": "Y5555"
+  },
+  {
+    "snp": "Y6264",
+    "haplogroup": "L1~",
+    "position": 21318521,
+    "mutation": "G->A",
+    "rsid": "rs377118282",
+    "other_names": "Z20194"
+  },
+  {
+    "snp": "Z20194",
+    "haplogroup": "L1~",
+    "position": 21318521,
+    "mutation": "G->A",
+    "rsid": "rs377118282",
+    "other_names": "Y6264"
+  },
+  {
+    "snp": "Z20130",
+    "haplogroup": "L1~",
+    "position": 9967233,
+    "mutation": "G->A",
+    "rsid": "rs373872061",
+    "other_names": null
+  },
+  {
+    "snp": "Z21036",
+    "haplogroup": "L1~",
+    "position": 16105908,
+    "mutation": "A->G",
+    "rsid": "rs754793414",
+    "other_names": null
+  },
+  {
+    "snp": "Z20138",
+    "haplogroup": "L1~",
+    "position": 10232031,
+    "mutation": "T->G",
+    "rsid": "rs377316031",
+    "other_names": null
+  },
+  {
+    "snp": "Z20139",
+    "haplogroup": "L1~",
+    "position": 10245093,
+    "mutation": "G->T",
+    "rsid": "rs376538738",
+    "other_names": null
+  },
+  {
+    "snp": "Z20140",
+    "haplogroup": "L1~",
+    "position": 10246082,
+    "mutation": "G->A",
+    "rsid": "rs368975841",
+    "other_names": null
+  },
+  {
+    "snp": "Z20141",
+    "haplogroup": "L1~",
+    "position": 11041811,
+    "mutation": "C->T",
+    "rsid": "rs375367043",
+    "other_names": null
+  },
+  {
+    "snp": "Z20153",
+    "haplogroup": "L1~",
+    "position": 11498165,
+    "mutation": "G->A",
+    "rsid": "rs371789712",
+    "other_names": null
+  },
+  {
+    "snp": "Z20154",
+    "haplogroup": "L1~",
+    "position": 11519717,
+    "mutation": "G->T",
+    "rsid": "rs368384827",
+    "other_names": null
+  },
+  {
+    "snp": "Z20155",
+    "haplogroup": "L1~",
+    "position": 11528017,
+    "mutation": "T->C",
+    "rsid": "rs376175706",
+    "other_names": null
+  },
+  {
+    "snp": "M2481",
+    "haplogroup": "L1a",
+    "position": 12517887,
+    "mutation": "G->A",
+    "rsid": "rs575831025",
+    "other_names": null
+  },
+  {
+    "snp": "M2565",
+    "haplogroup": "L1a",
+    "position": 15452241,
+    "mutation": "T->C",
+    "rsid": "rs530546437",
+    "other_names": null
+  },
+  {
+    "snp": "M2605",
+    "haplogroup": "L1a",
+    "position": 17431115,
+    "mutation": "G->A",
+    "rsid": "rs563671295",
+    "other_names": null
+  },
+  {
+    "snp": "M2664",
+    "haplogroup": "L1a",
+    "position": 21327611,
+    "mutation": "C->G",
+    "rsid": "rs571939535",
+    "other_names": null
+  },
+  {
+    "snp": "Y5525",
+    "haplogroup": "L1a",
+    "position": 14306140,
+    "mutation": "A->G",
+    "rsid": "rs537226571",
+    "other_names": "Z20163"
+  },
+  {
+    "snp": "Z20163",
+    "haplogroup": "L1a",
+    "position": 14306140,
+    "mutation": "A->G",
+    "rsid": "rs537226571",
+    "other_names": "Y5525"
+  },
+  {
+    "snp": "Y5560",
+    "haplogroup": "L1a",
+    "position": 17380156,
+    "mutation": "A->G",
+    "rsid": "rs559135987",
+    "other_names": "Z20168"
+  },
+  {
+    "snp": "Z20168",
+    "haplogroup": "L1a",
+    "position": 17380156,
+    "mutation": "A->G",
+    "rsid": "rs559135987",
+    "other_names": "Y5560"
+  },
+  {
+    "snp": "M2357",
+    "haplogroup": "L1a~",
+    "position": 2911798,
+    "mutation": "G->A",
+    "rsid": "rs536752224",
+    "other_names": null
+  },
+  {
+    "snp": "M2375",
+    "haplogroup": "L1a~",
+    "position": 7178302,
+    "mutation": "G->T",
+    "rsid": "rs549959066",
+    "other_names": null
+  },
+  {
+    "snp": "M2401",
+    "haplogroup": "L1a~",
+    "position": 8250911,
+    "mutation": "T->C",
+    "rsid": "rs368486460",
+    "other_names": null
+  },
+  {
+    "snp": "M2480",
+    "haplogroup": "L1a~",
+    "position": 12515178,
+    "mutation": "G->A",
+    "rsid": "rs535857709",
+    "other_names": null
+  },
+  {
+    "snp": "M2498",
+    "haplogroup": "L1a~",
+    "position": 13262881,
+    "mutation": "G->A",
+    "rsid": "rs538047228",
+    "other_names": null
+  },
+  {
+    "snp": "M2555",
+    "haplogroup": "L1a~",
+    "position": 15080744,
+    "mutation": "C->T",
+    "rsid": "rs572129995",
+    "other_names": null
+  },
+  {
+    "snp": "M2623",
+    "haplogroup": "L1a~",
+    "position": 19367745,
+    "mutation": "G->A",
+    "rsid": "rs541098518",
+    "other_names": null
+  },
+  {
+    "snp": "SK1417",
+    "haplogroup": "L1a~",
+    "position": 8741383,
+    "mutation": "C->T",
+    "rsid": "rs542332210",
+    "other_names": "Y5544"
+  },
+  {
+    "snp": "Y5544",
+    "haplogroup": "L1a~",
+    "position": 8741383,
+    "mutation": "C->T",
+    "rsid": "rs542332210",
+    "other_names": "SK1417"
+  },
+  {
+    "snp": "SK1418",
+    "haplogroup": "L1a~",
+    "position": 20660248,
+    "mutation": "T->C",
+    "rsid": "rs568028209",
+    "other_names": "Y5565"
+  },
+  {
+    "snp": "Y5565",
+    "haplogroup": "L1a~",
+    "position": 20660248,
+    "mutation": "T->C",
+    "rsid": "rs568028209",
+    "other_names": "SK1418"
+  },
+  {
+    "snp": "Z20132",
+    "haplogroup": "L1a~",
+    "position": 10128674,
+    "mutation": "C->G",
+    "rsid": "rs369410335",
+    "other_names": null
+  },
+  {
+    "snp": "Z20135",
+    "haplogroup": "L1a~",
+    "position": 10171919,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20170",
+    "haplogroup": "L1a~",
+    "position": 17448275,
+    "mutation": "A->T",
+    "rsid": "rs368743808",
+    "other_names": null
+  },
+  {
+    "snp": "M27",
+    "haplogroup": "L1a1",
+    "position": 19577760,
+    "mutation": "C->G",
+    "rsid": "rs376303746",
+    "other_names": null
+  },
+  {
+    "snp": "F11470",
+    "haplogroup": "L1a1",
+    "position": 12490786,
+    "mutation": "G->A",
+    "rsid": "rs545266577",
+    "other_names": "Z20390"
+  },
+  {
+    "snp": "Z20390",
+    "haplogroup": "L1a1",
+    "position": 12490786,
+    "mutation": "G->A",
+    "rsid": "rs545266577",
+    "other_names": "F11470"
+  },
+  {
+    "snp": "L1319",
+    "haplogroup": "L1a1",
+    "position": 8617782,
+    "mutation": "G->T",
+    "rsid": "rs529153467",
+    "other_names": null
+  },
+  {
+    "snp": "L1320",
+    "haplogroup": "L1a1",
+    "position": 14400461,
+    "mutation": "G->T",
+    "rsid": "rs536389300",
+    "other_names": null
+  },
+  {
+    "snp": "L1321",
+    "haplogroup": "L1a1",
+    "position": 15604221,
+    "mutation": "C->G",
+    "rsid": "rs573176284",
+    "other_names": null
+  },
+  {
+    "snp": "M76",
+    "haplogroup": "L1a1",
+    "position": 19595430,
+    "mutation": "T->G",
+    "rsid": "rs377001539",
+    "other_names": null
+  },
+  {
+    "snp": "P329",
+    "haplogroup": "L1a1",
+    "position": 8598740,
+    "mutation": "G->A",
+    "rsid": "rs559114310",
+    "other_names": null
+  },
+  {
+    "snp": "SK1423",
+    "haplogroup": "L1a1",
+    "position": 17254496,
+    "mutation": "G->A",
+    "rsid": "rs529039780",
+    "other_names": null
+  },
+  {
+    "snp": "SK1419",
+    "haplogroup": "L1a1",
+    "position": 8745756,
+    "mutation": "A->G",
+    "rsid": "rs533670319",
+    "other_names": "Z20362"
+  },
+  {
+    "snp": "Z20362",
+    "haplogroup": "L1a1",
+    "position": 8745756,
+    "mutation": "A->G",
+    "rsid": "rs533670319",
+    "other_names": "SK1419"
+  },
+  {
+    "snp": "SK1420",
+    "haplogroup": "L1a1",
+    "position": 21445668,
+    "mutation": "T->C",
+    "rsid": "rs534352301",
+    "other_names": "Z20446"
+  },
+  {
+    "snp": "Z20446",
+    "haplogroup": "L1a1",
+    "position": 21445668,
+    "mutation": "T->C",
+    "rsid": "rs534352301",
+    "other_names": "SK1420"
+  },
+  {
+    "snp": "SK1421",
+    "haplogroup": "L1a1",
+    "position": 8584954,
+    "mutation": "G->A",
+    "rsid": "rs552397653",
+    "other_names": "Z20361"
+  },
+  {
+    "snp": "Z20361",
+    "haplogroup": "L1a1",
+    "position": 8584954,
+    "mutation": "G->A",
+    "rsid": "rs552397653",
+    "other_names": "SK1421"
+  },
+  {
+    "snp": "SK1422",
+    "haplogroup": "L1a1",
+    "position": 16582436,
+    "mutation": "G->C",
+    "rsid": "rs562205851",
+    "other_names": "Z20416"
+  },
+  {
+    "snp": "Z20416",
+    "haplogroup": "L1a1",
+    "position": 16582436,
+    "mutation": "G->C",
+    "rsid": "rs562205851",
+    "other_names": "SK1422"
+  },
+  {
+    "snp": "Z8046",
+    "haplogroup": "L1a1",
+    "position": 6880722,
+    "mutation": "T->C",
+    "rsid": "rs546050139",
+    "other_names": null
+  },
+  {
+    "snp": "Z8047",
+    "haplogroup": "L1a1",
+    "position": 7028824,
+    "mutation": "G->A",
+    "rsid": "rs543120713",
+    "other_names": null
+  },
+  {
+    "snp": "Z8049",
+    "haplogroup": "L1a1",
+    "position": 7448164,
+    "mutation": "T->C",
+    "rsid": "rs538389870",
+    "other_names": null
+  },
+  {
+    "snp": "Z8050",
+    "haplogroup": "L1a1",
+    "position": 7449449,
+    "mutation": "A->G",
+    "rsid": "rs537624494",
+    "other_names": null
+  },
+  {
+    "snp": "Z20336",
+    "haplogroup": "L1a1",
+    "position": 3003493,
+    "mutation": "A->C",
+    "rsid": "rs557273040",
+    "other_names": null
+  },
+  {
+    "snp": "Z20354",
+    "haplogroup": "L1a1",
+    "position": 7739218,
+    "mutation": "T->A",
+    "rsid": "rs536758474",
+    "other_names": null
+  },
+  {
+    "snp": "Z20355",
+    "haplogroup": "L1a1",
+    "position": 7771917,
+    "mutation": "T->C",
+    "rsid": "rs547640863",
+    "other_names": null
+  },
+  {
+    "snp": "Z20356",
+    "haplogroup": "L1a1",
+    "position": 7939750,
+    "mutation": "T->C",
+    "rsid": "rs542910048",
+    "other_names": null
+  },
+  {
+    "snp": "Z20357",
+    "haplogroup": "L1a1",
+    "position": 7959821,
+    "mutation": "C->T",
+    "rsid": "rs549715474",
+    "other_names": null
+  },
+  {
+    "snp": "Z20358^",
+    "haplogroup": "L1a1",
+    "position": 8055484,
+    "mutation": "C->A",
+    "rsid": "rs532824657",
+    "other_names": null
+  },
+  {
+    "snp": "Z20359",
+    "haplogroup": "L1a1",
+    "position": 8146542,
+    "mutation": "C->A",
+    "rsid": "rs531504151",
+    "other_names": null
+  },
+  {
+    "snp": "Z20360",
+    "haplogroup": "L1a1",
+    "position": 8152921,
+    "mutation": "C->T",
+    "rsid": "rs539163092",
+    "other_names": null
+  },
+  {
+    "snp": "Z20363",
+    "haplogroup": "L1a1",
+    "position": 8807993,
+    "mutation": "C->A",
+    "rsid": "rs571436329",
+    "other_names": null
+  },
+  {
+    "snp": "Z20464",
+    "haplogroup": "L1a1",
+    "position": 15755523,
+    "mutation": "A->G",
+    "rsid": "rs758249386",
+    "other_names": null
+  },
+  {
+    "snp": "Z20365",
+    "haplogroup": "L1a1",
+    "position": 8963317,
+    "mutation": "T->A",
+    "rsid": "rs554135520",
+    "other_names": null
+  },
+  {
+    "snp": "Z20367",
+    "haplogroup": "L1a1",
+    "position": 9549552,
+    "mutation": "G->A",
+    "rsid": "rs552209672",
+    "other_names": null
+  },
+  {
+    "snp": "Z20368",
+    "haplogroup": "L1a1",
+    "position": 9576882,
+    "mutation": "C->T",
+    "rsid": "rs549728289",
+    "other_names": null
+  },
+  {
+    "snp": "Z20369^",
+    "haplogroup": "L1a1",
+    "position": 9620311,
+    "mutation": "C->T",
+    "rsid": "rs564654783",
+    "other_names": null
+  },
+  {
+    "snp": "Z20370",
+    "haplogroup": "L1a1",
+    "position": 10051470,
+    "mutation": "G->A",
+    "rsid": "rs527397026",
+    "other_names": null
+  },
+  {
+    "snp": "Z20371",
+    "haplogroup": "L1a1",
+    "position": 10052330,
+    "mutation": "T->C",
+    "rsid": "rs538909142",
+    "other_names": null
+  },
+  {
+    "snp": "Z20372",
+    "haplogroup": "L1a1",
+    "position": 10095770,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20373^",
+    "haplogroup": "L1a1",
+    "position": 10109494,
+    "mutation": "T->G",
+    "rsid": "rs531396841",
+    "other_names": null
+  },
+  {
+    "snp": "Z20376",
+    "haplogroup": "L1a1",
+    "position": 11439357,
+    "mutation": "G->C",
+    "rsid": "rs553761131",
+    "other_names": null
+  },
+  {
+    "snp": "Z20378",
+    "haplogroup": "L1a1",
+    "position": 11495103,
+    "mutation": "G->T",
+    "rsid": "rs547227902",
+    "other_names": null
+  },
+  {
+    "snp": "Z20379",
+    "haplogroup": "L1a1",
+    "position": 11512244,
+    "mutation": "C->T",
+    "rsid": "rs572587409",
+    "other_names": null
+  },
+  {
+    "snp": "Z20380",
+    "haplogroup": "L1a1",
+    "position": 11723587,
+    "mutation": "T->C",
+    "rsid": "rs530287073",
+    "other_names": null
+  },
+  {
+    "snp": "Z20382",
+    "haplogroup": "L1a1",
+    "position": 11870202,
+    "mutation": "A->G",
+    "rsid": "rs544893546",
+    "other_names": null
+  },
+  {
+    "snp": "Z20383",
+    "haplogroup": "L1a1",
+    "position": 11919286,
+    "mutation": "C->T",
+    "rsid": "rs368610173",
+    "other_names": null
+  },
+  {
+    "snp": "Z20384",
+    "haplogroup": "L1a1",
+    "position": 11988551,
+    "mutation": "T->C",
+    "rsid": "rs540382646",
+    "other_names": null
+  },
+  {
+    "snp": "Z20385",
+    "haplogroup": "L1a1",
+    "position": 12159450,
+    "mutation": "G->T",
+    "rsid": "rs563757406",
+    "other_names": null
+  },
+  {
+    "snp": "Z20387",
+    "haplogroup": "L1a1",
+    "position": 12311471,
+    "mutation": "T->A",
+    "rsid": "rs574932791",
+    "other_names": null
+  },
+  {
+    "snp": "Z20388",
+    "haplogroup": "L1a1",
+    "position": 12340324,
+    "mutation": "T->C",
+    "rsid": "rs547333013",
+    "other_names": null
+  },
+  {
+    "snp": "Z20389",
+    "haplogroup": "L1a1",
+    "position": 12351142,
+    "mutation": "G->A",
+    "rsid": "rs535873821",
+    "other_names": null
+  },
+  {
+    "snp": "Z20391",
+    "haplogroup": "L1a1",
+    "position": 12814640,
+    "mutation": "C->T",
+    "rsid": "rs529015881",
+    "other_names": null
+  },
+  {
+    "snp": "Z20392",
+    "haplogroup": "L1a1",
+    "position": 13374972,
+    "mutation": "C->T",
+    "rsid": "rs557649147",
+    "other_names": null
+  },
+  {
+    "snp": "Z20393",
+    "haplogroup": "L1a1",
+    "position": 13508150,
+    "mutation": "A->G",
+    "rsid": "rs546915375",
+    "other_names": null
+  },
+  {
+    "snp": "Z20394",
+    "haplogroup": "L1a1",
+    "position": 13623002,
+    "mutation": "T->C",
+    "rsid": "rs533620967",
+    "other_names": null
+  },
+  {
+    "snp": "Z20397",
+    "haplogroup": "L1a1",
+    "position": 14170203,
+    "mutation": "G->T",
+    "rsid": "rs531560192",
+    "other_names": null
+  },
+  {
+    "snp": "Z20398",
+    "haplogroup": "L1a1",
+    "position": 14609476,
+    "mutation": "T->G",
+    "rsid": "rs547542237",
+    "other_names": null
+  },
+  {
+    "snp": "Z20399",
+    "haplogroup": "L1a1",
+    "position": 14950214,
+    "mutation": "C->A",
+    "rsid": "rs537862207",
+    "other_names": null
+  },
+  {
+    "snp": "Z20400",
+    "haplogroup": "L1a1",
+    "position": 15110094,
+    "mutation": "G->A",
+    "rsid": "rs564443252",
+    "other_names": null
+  },
+  {
+    "snp": "Z20401",
+    "haplogroup": "L1a1",
+    "position": 15118113,
+    "mutation": "A->G",
+    "rsid": "rs561919018",
+    "other_names": null
+  },
+  {
+    "snp": "Z20403",
+    "haplogroup": "L1a1",
+    "position": 15345970,
+    "mutation": "G->A",
+    "rsid": "rs552167312",
+    "other_names": null
+  },
+  {
+    "snp": "Z20405",
+    "haplogroup": "L1a1",
+    "position": 15495559,
+    "mutation": "G->A",
+    "rsid": "rs548047519",
+    "other_names": null
+  },
+  {
+    "snp": "Z20406",
+    "haplogroup": "L1a1",
+    "position": 15528036,
+    "mutation": "G->T",
+    "rsid": "rs570050227",
+    "other_names": null
+  },
+  {
+    "snp": "Z20407",
+    "haplogroup": "L1a1",
+    "position": 15537053,
+    "mutation": "A->G",
+    "rsid": "rs577913638",
+    "other_names": null
+  },
+  {
+    "snp": "Z20410",
+    "haplogroup": "L1a1",
+    "position": 15819397,
+    "mutation": "C->T",
+    "rsid": "rs531052719",
+    "other_names": null
+  },
+  {
+    "snp": "Z20411",
+    "haplogroup": "L1a1",
+    "position": 15842113,
+    "mutation": "G->T",
+    "rsid": "rs546433004",
+    "other_names": null
+  },
+  {
+    "snp": "Z20412",
+    "haplogroup": "L1a1",
+    "position": 15868117,
+    "mutation": "A->G",
+    "rsid": "rs573292426",
+    "other_names": null
+  },
+  {
+    "snp": "Z20413",
+    "haplogroup": "L1a1",
+    "position": 16001388,
+    "mutation": "A->C",
+    "rsid": "rs573708605",
+    "other_names": null
+  },
+  {
+    "snp": "Z20414",
+    "haplogroup": "L1a1",
+    "position": 16134248,
+    "mutation": "C->A",
+    "rsid": "rs543126681",
+    "other_names": null
+  },
+  {
+    "snp": "Z20415",
+    "haplogroup": "L1a1",
+    "position": 16303599,
+    "mutation": "T->C",
+    "rsid": "rs547240564",
+    "other_names": null
+  },
+  {
+    "snp": "Z20418",
+    "haplogroup": "L1a1",
+    "position": 17115264,
+    "mutation": "A->G",
+    "rsid": "rs548398424",
+    "other_names": null
+  },
+  {
+    "snp": "Z20419",
+    "haplogroup": "L1a1",
+    "position": 17232573,
+    "mutation": "A->T",
+    "rsid": "rs546208856",
+    "other_names": null
+  },
+  {
+    "snp": "Z20422",
+    "haplogroup": "L1a1",
+    "position": 18662406,
+    "mutation": "G->A",
+    "rsid": "rs543186933",
+    "other_names": null
+  },
+  {
+    "snp": "Z20424",
+    "haplogroup": "L1a1",
+    "position": 19205442,
+    "mutation": "G->T",
+    "rsid": "rs577372303",
+    "other_names": null
+  },
+  {
+    "snp": "Z20425",
+    "haplogroup": "L1a1",
+    "position": 19356446,
+    "mutation": "A->G",
+    "rsid": "rs572300888",
+    "other_names": null
+  },
+  {
+    "snp": "Z20426",
+    "haplogroup": "L1a1",
+    "position": 19872934,
+    "mutation": "G->T",
+    "rsid": "rs527913518",
+    "other_names": null
+  },
+  {
+    "snp": "Z20427",
+    "haplogroup": "L1a1",
+    "position": 19921859,
+    "mutation": "C->T",
+    "rsid": "rs564678851",
+    "other_names": null
+  },
+  {
+    "snp": "Z20428",
+    "haplogroup": "L1a1",
+    "position": 19996386,
+    "mutation": "A->T",
+    "rsid": "rs530877184",
+    "other_names": null
+  },
+  {
+    "snp": "Z20433",
+    "haplogroup": "L1a1",
+    "position": 20362182,
+    "mutation": "T->A",
+    "rsid": "rs566527631",
+    "other_names": null
+  },
+  {
+    "snp": "Z20434",
+    "haplogroup": "L1a1",
+    "position": 20409664,
+    "mutation": "C->T",
+    "rsid": "rs565646116",
+    "other_names": null
+  },
+  {
+    "snp": "Z20435",
+    "haplogroup": "L1a1",
+    "position": 20487213,
+    "mutation": "A->G",
+    "rsid": "rs569984673",
+    "other_names": null
+  },
+  {
+    "snp": "Z20436",
+    "haplogroup": "L1a1",
+    "position": 20512549,
+    "mutation": "C->T",
+    "rsid": "rs528238720",
+    "other_names": null
+  },
+  {
+    "snp": "Z20437",
+    "haplogroup": "L1a1",
+    "position": 20613954,
+    "mutation": "T->C",
+    "rsid": "rs555862715",
+    "other_names": null
+  },
+  {
+    "snp": "Z20438",
+    "haplogroup": "L1a1",
+    "position": 20616615,
+    "mutation": "C->T",
+    "rsid": "rs555137895",
+    "other_names": null
+  },
+  {
+    "snp": "Z20439",
+    "haplogroup": "L1a1",
+    "position": 20631572,
+    "mutation": "G->A",
+    "rsid": "rs570386177",
+    "other_names": null
+  },
+  {
+    "snp": "Z20440",
+    "haplogroup": "L1a1",
+    "position": 21067071,
+    "mutation": "T->C",
+    "rsid": "rs10926612",
+    "other_names": null
+  },
+  {
+    "snp": "Z20441",
+    "haplogroup": "L1a1",
+    "position": 21106079,
+    "mutation": "A->C",
+    "rsid": "rs537551718",
+    "other_names": null
+  },
+  {
+    "snp": "Z20442",
+    "haplogroup": "L1a1",
+    "position": 21248409,
+    "mutation": "G->C",
+    "rsid": "rs548083081",
+    "other_names": null
+  },
+  {
+    "snp": "Z20443",
+    "haplogroup": "L1a1",
+    "position": 21300726,
+    "mutation": "T->G",
+    "rsid": "rs548782287",
+    "other_names": null
+  },
+  {
+    "snp": "Z20444",
+    "haplogroup": "L1a1",
+    "position": 21439144,
+    "mutation": "T->C",
+    "rsid": "rs546130023",
+    "other_names": null
+  },
+  {
+    "snp": "Z20445",
+    "haplogroup": "L1a1",
+    "position": 21440915,
+    "mutation": "G->T",
+    "rsid": "rs533462125",
+    "other_names": null
+  },
+  {
+    "snp": "Z20448",
+    "haplogroup": "L1a1",
+    "position": 21615084,
+    "mutation": "C->T",
+    "rsid": "rs543007119",
+    "other_names": null
+  },
+  {
+    "snp": "Z20449",
+    "haplogroup": "L1a1",
+    "position": 22250053,
+    "mutation": "C->T",
+    "rsid": "rs576127812",
+    "other_names": null
+  },
+  {
+    "snp": "Z20450",
+    "haplogroup": "L1a1",
+    "position": 22323704,
+    "mutation": "T->A",
+    "rsid": "rs534290767",
+    "other_names": null
+  },
+  {
+    "snp": "Z20452",
+    "haplogroup": "L1a1",
+    "position": 26617610,
+    "mutation": "G->A",
+    "rsid": "rs535480934",
+    "other_names": null
+  },
+  {
+    "snp": "Z24638.2",
+    "haplogroup": "L1a1",
+    "position": 19163502,
+    "mutation": "G->A",
+    "rsid": "rs573731515",
+    "other_names": null
+  },
+  {
+    "snp": "Z8048",
+    "haplogroup": "L1a1~",
+    "position": 7168533,
+    "mutation": "C->T",
+    "rsid": "rs543974721",
+    "other_names": null
+  },
+  {
+    "snp": "Z20402",
+    "haplogroup": "L1a1~",
+    "position": 15295720,
+    "mutation": "G->A",
+    "rsid": "rs557568388",
+    "other_names": null
+  },
+  {
+    "snp": "Z20429",
+    "haplogroup": "L1a1~",
+    "position": 20021708,
+    "mutation": "T->C",
+    "rsid": "rs577647354",
+    "other_names": null
+  },
+  {
+    "snp": "Z20458",
+    "haplogroup": "L1a1a",
+    "position": 8246300,
+    "mutation": "C->G",
+    "rsid": "rs763415515",
+    "other_names": null
+  },
+  {
+    "snp": "Z20462",
+    "haplogroup": "L1a1a",
+    "position": 11727559,
+    "mutation": "A->G",
+    "rsid": "rs976708747",
+    "other_names": null
+  },
+  {
+    "snp": "Z20463",
+    "haplogroup": "L1a1a",
+    "position": 12110776,
+    "mutation": "C->A",
+    "rsid": "rs768880786",
+    "other_names": null
+  },
+  {
+    "snp": "Z20464",
+    "haplogroup": "L1a1a",
+    "position": 15755523,
+    "mutation": "A->G",
+    "rsid": "rs758249386",
+    "other_names": null
+  },
+  {
+    "snp": "Z20465",
+    "haplogroup": "L1a1a",
+    "position": 16893862,
+    "mutation": "G->C",
+    "rsid": "rs761519446",
+    "other_names": null
+  },
+  {
+    "snp": "Z20466",
+    "haplogroup": "L1a1a",
+    "position": 17174461,
+    "mutation": "T->C",
+    "rsid": "rs753261332",
+    "other_names": null
+  },
+  {
+    "snp": "Z20468",
+    "haplogroup": "L1a1a",
+    "position": 19509914,
+    "mutation": "T->G",
+    "rsid": "rs761257321",
+    "other_names": null
+  },
+  {
+    "snp": "Z20469",
+    "haplogroup": "L1a1a",
+    "position": 20510648,
+    "mutation": "C->T",
+    "rsid": "rs757870766",
+    "other_names": null
+  },
+  {
+    "snp": "Z20470",
+    "haplogroup": "L1a1a",
+    "position": 21152883,
+    "mutation": "G->A",
+    "rsid": "rs774358034",
+    "other_names": null
+  },
+  {
+    "snp": "Z20472",
+    "haplogroup": "L1a1a",
+    "position": 8800285,
+    "mutation": "A->G",
+    "rsid": "rs769503672",
+    "other_names": null
+  },
+  {
+    "snp": "Z20457",
+    "haplogroup": "L1a1a~",
+    "position": 7226669,
+    "mutation": "G->A",
+    "rsid": "rs778315209",
+    "other_names": null
+  },
+  {
+    "snp": "Z34426",
+    "haplogroup": "L1a1a1~",
+    "position": 2858539,
+    "mutation": "C->T",
+    "rsid": "rs775191440",
+    "other_names": null
+  },
+  {
+    "snp": "Z34427",
+    "haplogroup": "L1a1a1~",
+    "position": 7143459,
+    "mutation": "C->T",
+    "rsid": "rs763696927",
+    "other_names": null
+  },
+  {
+    "snp": "Z34428",
+    "haplogroup": "L1a1a1~",
+    "position": 7442803,
+    "mutation": "T->C",
+    "rsid": "rs779760689",
+    "other_names": null
+  },
+  {
+    "snp": "Z34429",
+    "haplogroup": "L1a1a1~",
+    "position": 7444841,
+    "mutation": "T->C",
+    "rsid": "rs774621807",
+    "other_names": null
+  },
+  {
+    "snp": "Z34430",
+    "haplogroup": "L1a1a1~",
+    "position": 7457783,
+    "mutation": "T->A",
+    "rsid": "rs752828586",
+    "other_names": null
+  },
+  {
+    "snp": "Z20475",
+    "haplogroup": "L1a1a2",
+    "position": 12411719,
+    "mutation": "T->C",
+    "rsid": "rs748833228",
+    "other_names": null
+  },
+  {
+    "snp": "Z20476",
+    "haplogroup": "L1a1a2",
+    "position": 13166002,
+    "mutation": "T->C",
+    "rsid": "rs769153241",
+    "other_names": null
+  },
+  {
+    "snp": "Z20477",
+    "haplogroup": "L1a1a2",
+    "position": 15689184,
+    "mutation": "T->G",
+    "rsid": "rs752412246",
+    "other_names": null
+  },
+  {
+    "snp": "Z20483",
+    "haplogroup": "L1a1a2",
+    "position": 26523984,
+    "mutation": "G->A",
+    "rsid": "rs773430438",
+    "other_names": null
+  },
+  {
+    "snp": "Z20484",
+    "haplogroup": "L1a1a2",
+    "position": 26574398,
+    "mutation": "A->G",
+    "rsid": "rs771248753",
+    "other_names": null
+  },
+  {
+    "snp": "Z20479",
+    "haplogroup": "L1a1a2",
+    "position": 16555236,
+    "mutation": "T->A",
+    "rsid": "rs774721092",
+    "other_names": null
+  },
+  {
+    "snp": "Z20480",
+    "haplogroup": "L1a1a2",
+    "position": 16656484,
+    "mutation": "A->G",
+    "rsid": "rs749854394",
+    "other_names": null
+  },
+  {
+    "snp": "Z20481",
+    "haplogroup": "L1a1a2",
+    "position": 19453315,
+    "mutation": "G->A",
+    "rsid": "rs746363541",
+    "other_names": null
+  },
+  {
+    "snp": "Z20482",
+    "haplogroup": "L1a1a2",
+    "position": 19466365,
+    "mutation": "A->G",
+    "rsid": "rs756914090",
+    "other_names": null
+  },
+  {
+    "snp": "Z5925",
+    "haplogroup": "L1a1a2~",
+    "position": 7388890,
+    "mutation": "G->T",
+    "rsid": "rs773156664",
+    "other_names": null
+  },
+  {
+    "snp": "Z20478",
+    "haplogroup": "L1a1a2~",
+    "position": 15707508,
+    "mutation": "G->C",
+    "rsid": "rs774728743",
+    "other_names": null
+  },
+  {
+    "snp": "Z42477",
+    "haplogroup": "L1a1a2a~",
+    "position": 6939060,
+    "mutation": "G->C",
+    "rsid": "rs778125500",
+    "other_names": null
+  },
+  {
+    "snp": "Z42478",
+    "haplogroup": "L1a1a2a~",
+    "position": 7066062,
+    "mutation": "A->G",
+    "rsid": "rs759843920",
+    "other_names": null
+  },
+  {
+    "snp": "Z42479",
+    "haplogroup": "L1a1a2a~",
+    "position": 7782025,
+    "mutation": "C->T",
+    "rsid": "rs768338244",
+    "other_names": null
+  },
+  {
+    "snp": "Z42481",
+    "haplogroup": "L1a1a2a~",
+    "position": 9006460,
+    "mutation": "G->T",
+    "rsid": "rs746058104",
+    "other_names": null
+  },
+  {
+    "snp": "Z42482",
+    "haplogroup": "L1a1a2b~",
+    "position": 7074182,
+    "mutation": "G->A",
+    "rsid": "rs750907346",
+    "other_names": null
+  },
+  {
+    "snp": "Z42483",
+    "haplogroup": "L1a1a2b~",
+    "position": 7670539,
+    "mutation": "C->T",
+    "rsid": "rs760978093",
+    "other_names": null
+  },
+  {
+    "snp": "Z42484",
+    "haplogroup": "L1a1a2b~",
+    "position": 7717633,
+    "mutation": "G->A",
+    "rsid": "rs777855108",
+    "other_names": null
+  },
+  {
+    "snp": "Z42485",
+    "haplogroup": "L1a1a2b~",
+    "position": 7924231,
+    "mutation": "G->A",
+    "rsid": "rs773810033",
+    "other_names": null
+  },
+  {
+    "snp": "Z42486",
+    "haplogroup": "L1a1a2b~",
+    "position": 8041810,
+    "mutation": "T->C",
+    "rsid": "rs746830349",
+    "other_names": null
+  },
+  {
+    "snp": "Z5926",
+    "haplogroup": "L1a1b",
+    "position": 6898370,
+    "mutation": "T->C",
+    "rsid": "rs537389634",
+    "other_names": null
+  },
+  {
+    "snp": "SK1426",
+    "haplogroup": "L1a1b",
+    "position": 20784082,
+    "mutation": "G->A",
+    "rsid": "rs573927484",
+    "other_names": "Z20512"
+  },
+  {
+    "snp": "Z20512",
+    "haplogroup": "L1a1b",
+    "position": 20784082,
+    "mutation": "G->A",
+    "rsid": "rs573927484",
+    "other_names": "SK1426"
+  },
+  {
+    "snp": "Z20492",
+    "haplogroup": "L1a1b",
+    "position": 7085589,
+    "mutation": "G->T",
+    "rsid": "rs561389542",
+    "other_names": null
+  },
+  {
+    "snp": "Z20493",
+    "haplogroup": "L1a1b",
+    "position": 8760486,
+    "mutation": "C->T",
+    "rsid": "rs533530216",
+    "other_names": null
+  },
+  {
+    "snp": "Z20496",
+    "haplogroup": "L1a1b",
+    "position": 11436125,
+    "mutation": "G->A",
+    "rsid": "rs559051521",
+    "other_names": null
+  },
+  {
+    "snp": "Z20498",
+    "haplogroup": "L1a1b",
+    "position": 12134351,
+    "mutation": "A->T",
+    "rsid": "rs560897531",
+    "other_names": null
+  },
+  {
+    "snp": "Z20499",
+    "haplogroup": "L1a1b",
+    "position": 12236859,
+    "mutation": "A->T",
+    "rsid": "rs554772780",
+    "other_names": null
+  },
+  {
+    "snp": "Z20502",
+    "haplogroup": "L1a1b",
+    "position": 14186786,
+    "mutation": "G->A",
+    "rsid": "rs576304524",
+    "other_names": null
+  },
+  {
+    "snp": "Z20503",
+    "haplogroup": "L1a1b",
+    "position": 14505776,
+    "mutation": "G->A",
+    "rsid": "rs570346944",
+    "other_names": null
+  },
+  {
+    "snp": "Z20504",
+    "haplogroup": "L1a1b",
+    "position": 15121567,
+    "mutation": "C->T",
+    "rsid": "rs559421802",
+    "other_names": null
+  },
+  {
+    "snp": "Z20506",
+    "haplogroup": "L1a1b",
+    "position": 16066581,
+    "mutation": "C->T",
+    "rsid": "rs577350662",
+    "other_names": null
+  },
+  {
+    "snp": "Z20507",
+    "haplogroup": "L1a1b",
+    "position": 16530821,
+    "mutation": "G->T",
+    "rsid": "rs568517804",
+    "other_names": null
+  },
+  {
+    "snp": "Z20508",
+    "haplogroup": "L1a1b",
+    "position": 19164808,
+    "mutation": "C->T",
+    "rsid": "rs540936209",
+    "other_names": null
+  },
+  {
+    "snp": "Z20509",
+    "haplogroup": "L1a1b",
+    "position": 19362336,
+    "mutation": "C->A",
+    "rsid": "rs528850310",
+    "other_names": null
+  },
+  {
+    "snp": "Z20497",
+    "haplogroup": "L1a1b~",
+    "position": 12061391,
+    "mutation": "C->T",
+    "rsid": "rs568711942",
+    "other_names": null
+  },
+  {
+    "snp": "Z20505",
+    "haplogroup": "L1a1b~",
+    "position": 15755412,
+    "mutation": "G->A",
+    "rsid": "rs537246639",
+    "other_names": null
+  },
+  {
+    "snp": "Z20519^",
+    "haplogroup": "L1a1b1",
+    "position": 14369685,
+    "mutation": "A->G",
+    "rsid": "rs529754768",
+    "other_names": null
+  },
+  {
+    "snp": "M3904",
+    "haplogroup": "L1a1b1~",
+    "position": 20891590,
+    "mutation": "C->T",
+    "rsid": "rs551844967",
+    "other_names": null
+  },
+  {
+    "snp": "Z34406",
+    "haplogroup": "L1a1b1a~",
+    "position": 16950023,
+    "mutation": "G->C",
+    "rsid": "rs745398639",
+    "other_names": null
+  },
+  {
+    "snp": "Z34408",
+    "haplogroup": "L1a1b1a~",
+    "position": 7690610,
+    "mutation": "G->A",
+    "rsid": "rs746229397",
+    "other_names": null
+  },
+  {
+    "snp": "Z34409",
+    "haplogroup": "L1a1b1a~",
+    "position": 7977055,
+    "mutation": "A->G",
+    "rsid": "rs531967858",
+    "other_names": null
+  },
+  {
+    "snp": "Z34410",
+    "haplogroup": "L1a1b1a~",
+    "position": 8449981,
+    "mutation": "C->A",
+    "rsid": "rs771922111",
+    "other_names": null
+  },
+  {
+    "snp": "Z34411",
+    "haplogroup": "L1a1b1b~",
+    "position": 7165571,
+    "mutation": "A->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z34412",
+    "haplogroup": "L1a1b1b~",
+    "position": 6932804,
+    "mutation": "T->C",
+    "rsid": "rs769268269",
+    "other_names": null
+  },
+  {
+    "snp": "Z34413",
+    "haplogroup": "L1a1b1b~",
+    "position": 6934330,
+    "mutation": "A->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z34414",
+    "haplogroup": "L1a1b1b~",
+    "position": 7002033,
+    "mutation": "G->A",
+    "rsid": "rs761364516",
+    "other_names": null
+  },
+  {
+    "snp": "Z34415",
+    "haplogroup": "L1a1b1b~",
+    "position": 7211176,
+    "mutation": "C->T",
+    "rsid": "rs761608284",
+    "other_names": null
+  },
+  {
+    "snp": "Z20520",
+    "haplogroup": "L1a1b2",
+    "position": 6953751,
+    "mutation": "G->A",
+    "rsid": "rs781433776",
+    "other_names": null
+  },
+  {
+    "snp": "Z20521",
+    "haplogroup": "L1a1b2",
+    "position": 13575397,
+    "mutation": "C->T",
+    "rsid": "rs767843533",
+    "other_names": null
+  },
+  {
+    "snp": "Z20522",
+    "haplogroup": "L1a1b2",
+    "position": 19891906,
+    "mutation": "G->A",
+    "rsid": "rs765410617",
+    "other_names": null
+  },
+  {
+    "snp": "Z5929",
+    "haplogroup": "L1a1b2a",
+    "position": 18650800,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z34379",
+    "haplogroup": "L1a1b2a1~",
+    "position": 7735459,
+    "mutation": "T->C",
+    "rsid": "rs759629201",
+    "other_names": null
+  },
+  {
+    "snp": "Z34381",
+    "haplogroup": "L1a1b2a1~",
+    "position": 11973786,
+    "mutation": "G->A",
+    "rsid": "rs758918184",
+    "other_names": null
+  },
+  {
+    "snp": "Z34382",
+    "haplogroup": "L1a1b2a1~",
+    "position": 12661984,
+    "mutation": "G->A",
+    "rsid": "rs780439298",
+    "other_names": null
+  },
+  {
+    "snp": "Z34383",
+    "haplogroup": "L1a1b2a2~",
+    "position": 6955174,
+    "mutation": "C->G",
+    "rsid": "rs773591247",
+    "other_names": null
+  },
+  {
+    "snp": "Z34384",
+    "haplogroup": "L1a1b2a2~",
+    "position": 14433914,
+    "mutation": "G->A",
+    "rsid": "rs774160257",
+    "other_names": null
+  },
+  {
+    "snp": "Z34385",
+    "haplogroup": "L1a1b2a2~",
+    "position": 15761974,
+    "mutation": "G->A",
+    "rsid": "rs766319496",
+    "other_names": null
+  },
+  {
+    "snp": "Z34387",
+    "haplogroup": "L1a1b2a2~",
+    "position": 7120664,
+    "mutation": "A->G",
+    "rsid": "rs754897364",
+    "other_names": null
+  },
+  {
+    "snp": "Z34467",
+    "haplogroup": "L1a1b2b~",
+    "position": 7887122,
+    "mutation": "A->G",
+    "rsid": "rs766677457",
+    "other_names": null
+  },
+  {
+    "snp": "Z34468",
+    "haplogroup": "L1a1b2b~",
+    "position": 12804304,
+    "mutation": "A->G",
+    "rsid": "rs763170175",
+    "other_names": null
+  },
+  {
+    "snp": "Z34470",
+    "haplogroup": "L1a1b2b~",
+    "position": 7167903,
+    "mutation": "C->A",
+    "rsid": "rs774738126",
+    "other_names": null
+  },
+  {
+    "snp": "Z34471",
+    "haplogroup": "L1a1b2b~",
+    "position": 7482621,
+    "mutation": "G->T",
+    "rsid": "rs752088994",
+    "other_names": null
+  },
+  {
+    "snp": "Z5930",
+    "haplogroup": "L1a1b3",
+    "position": 15240467,
+    "mutation": "G->A",
+    "rsid": "rs557241786",
+    "other_names": null
+  },
+  {
+    "snp": "Z5931",
+    "haplogroup": "L1a1b3a",
+    "position": 14350068,
+    "mutation": "C->T",
+    "rsid": "rs746191936",
+    "other_names": null
+  },
+  {
+    "snp": "Z5933",
+    "haplogroup": "L1a1b3a1",
+    "position": 9287741,
+    "mutation": "C->T",
+    "rsid": "rs765502758",
+    "other_names": null
+  },
+  {
+    "snp": "Z5934",
+    "haplogroup": "L1a1b3a1a",
+    "position": 7062107,
+    "mutation": "G->T",
+    "rsid": "rs753273998",
+    "other_names": null
+  },
+  {
+    "snp": "Z20500",
+    "haplogroup": "L1a1b3a1a1",
+    "position": 7520568,
+    "mutation": "A->G",
+    "rsid": "rs763746992",
+    "other_names": null
+  },
+  {
+    "snp": "Z34416",
+    "haplogroup": "L1a1b3a1a1a~",
+    "position": 19164246,
+    "mutation": "G->A",
+    "rsid": "rs752672656",
+    "other_names": null
+  },
+  {
+    "snp": "Z34419",
+    "haplogroup": "L1a1b3a1a1a~",
+    "position": 7057530,
+    "mutation": "C->A",
+    "rsid": "rs761618219",
+    "other_names": null
+  },
+  {
+    "snp": "Z42487",
+    "haplogroup": "L1a1b3a1a1a~",
+    "position": 12554598,
+    "mutation": "G->A",
+    "rsid": "rs1261890392",
+    "other_names": null
+  },
+  {
+    "snp": "Z42488",
+    "haplogroup": "L1a1b3a1a1a~",
+    "position": 12746996,
+    "mutation": "G->A",
+    "rsid": "rs773714907",
+    "other_names": null
+  },
+  {
+    "snp": "Z34425",
+    "haplogroup": "L1a1b3a1a1b~",
+    "position": 13865513,
+    "mutation": "C->T",
+    "rsid": "rs758184107",
+    "other_names": null
+  },
+  {
+    "snp": "Z42489",
+    "haplogroup": "L1a1b3a1a1b~",
+    "position": 15602409,
+    "mutation": "C->G",
+    "rsid": "rs781535565",
+    "other_names": null
+  },
+  {
+    "snp": "Z42490",
+    "haplogroup": "L1a1b3a1a1b~",
+    "position": 17009455,
+    "mutation": "G->T",
+    "rsid": "rs774586559",
+    "other_names": null
+  },
+  {
+    "snp": "Z42491",
+    "haplogroup": "L1a1b3a1a1b~",
+    "position": 18910839,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z8033",
+    "haplogroup": "L1a1b3a1a2",
+    "position": 14681789,
+    "mutation": "C->A",
+    "rsid": "rs756819982",
+    "other_names": null
+  },
+  {
+    "snp": "Z20527",
+    "haplogroup": "L1a1b3a1a2",
+    "position": 9312652,
+    "mutation": "G->A",
+    "rsid": "rs766912883",
+    "other_names": null
+  },
+  {
+    "snp": "Z20528",
+    "haplogroup": "L1a1b3a1a2",
+    "position": 17125491,
+    "mutation": "T->C",
+    "rsid": "rs780938472",
+    "other_names": null
+  },
+  {
+    "snp": "Z5937",
+    "haplogroup": "L1a1b3a1a2a",
+    "position": 6777688,
+    "mutation": "A->G",
+    "rsid": "rs778253974",
+    "other_names": null
+  },
+  {
+    "snp": "Z20535",
+    "haplogroup": "L1a1b3a1a2a",
+    "position": 7922307,
+    "mutation": "A->G",
+    "rsid": "rs745767670",
+    "other_names": null
+  },
+  {
+    "snp": "Z20537",
+    "haplogroup": "L1a1b3a1a2a",
+    "position": 11735282,
+    "mutation": "T->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20539",
+    "haplogroup": "L1a1b3a1a2a",
+    "position": 12490932,
+    "mutation": "C->T",
+    "rsid": "rs774578743",
+    "other_names": null
+  },
+  {
+    "snp": "Z20540",
+    "haplogroup": "L1a1b3a1a2a",
+    "position": 12904530,
+    "mutation": "C->A",
+    "rsid": "rs768762060",
+    "other_names": null
+  },
+  {
+    "snp": "Z20542",
+    "haplogroup": "L1a1b3a1a2a",
+    "position": 14643122,
+    "mutation": "A->G",
+    "rsid": "rs770454866",
+    "other_names": null
+  },
+  {
+    "snp": "Z20544",
+    "haplogroup": "L1a1b3a1a2a",
+    "position": 15013257,
+    "mutation": "C->G",
+    "rsid": "rs765203391",
+    "other_names": null
+  },
+  {
+    "snp": "Z20545",
+    "haplogroup": "L1a1b3a1a2a",
+    "position": 15196843,
+    "mutation": "G->C",
+    "rsid": "rs750482777",
+    "other_names": null
+  },
+  {
+    "snp": "Z20547",
+    "haplogroup": "L1a1b3a1a2a",
+    "position": 17244244,
+    "mutation": "G->A",
+    "rsid": "rs765497220",
+    "other_names": null
+  },
+  {
+    "snp": "Z20548",
+    "haplogroup": "L1a1b3a1a2a",
+    "position": 19059485,
+    "mutation": "T->C",
+    "rsid": "rs761263033",
+    "other_names": null
+  },
+  {
+    "snp": "Z20550",
+    "haplogroup": "L1a1b3a1a2a",
+    "position": 19544082,
+    "mutation": "C->T",
+    "rsid": "rs760182310",
+    "other_names": null
+  },
+  {
+    "snp": "Z20541",
+    "haplogroup": "L1a1b3a1a2a~",
+    "position": 13073369,
+    "mutation": "C->T",
+    "rsid": "rs745789663",
+    "other_names": null
+  },
+  {
+    "snp": "Z20546",
+    "haplogroup": "L1a1b3a1a2a~",
+    "position": 17150462,
+    "mutation": "G->A",
+    "rsid": "rs780070937",
+    "other_names": null
+  },
+  {
+    "snp": "Z20549",
+    "haplogroup": "L1a1b3a1a2a~",
+    "position": 19276729,
+    "mutation": "T->C",
+    "rsid": "rs772856278",
+    "other_names": null
+  },
+  {
+    "snp": "Z20552",
+    "haplogroup": "L1a1b3a1a2a~",
+    "position": 20449999,
+    "mutation": "T->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z5938",
+    "haplogroup": "L1a1b3a1a2a1",
+    "position": 12100732,
+    "mutation": "A->G",
+    "rsid": "rs762081533",
+    "other_names": null
+  },
+  {
+    "snp": "A6402.2",
+    "haplogroup": "L1a1b3a1a2a1",
+    "position": 8678250,
+    "mutation": "T->A",
+    "rsid": "rs766460733",
+    "other_names": "JFS00004.2; Z20559.2"
+  },
+  {
+    "snp": "JFS00004.2",
+    "haplogroup": "L1a1b3a1a2a1",
+    "position": 8678250,
+    "mutation": "T->A",
+    "rsid": "rs766460733",
+    "other_names": "A6402.2; Z20559.2"
+  },
+  {
+    "snp": "Z20559.2",
+    "haplogroup": "L1a1b3a1a2a1",
+    "position": 8678250,
+    "mutation": "T->A",
+    "rsid": "rs766460733",
+    "other_names": "A6402.2; JFS00004.2"
+  },
+  {
+    "snp": "Z8034",
+    "haplogroup": "L1a1b3a1a2a1",
+    "position": 14821795,
+    "mutation": "A->T",
+    "rsid": "rs756396018",
+    "other_names": null
+  },
+  {
+    "snp": "Z20558",
+    "haplogroup": "L1a1b3a1a2a1",
+    "position": 7688490,
+    "mutation": "G->A",
+    "rsid": "rs772189762",
+    "other_names": null
+  },
+  {
+    "snp": "Z20561",
+    "haplogroup": "L1a1b3a1a2a1",
+    "position": 13872901,
+    "mutation": "A->T",
+    "rsid": "rs751817654",
+    "other_names": null
+  },
+  {
+    "snp": "Z20562",
+    "haplogroup": "L1a1b3a1a2a1",
+    "position": 15645842,
+    "mutation": "C->T",
+    "rsid": "rs770497497",
+    "other_names": null
+  },
+  {
+    "snp": "Z20563^",
+    "haplogroup": "L1a1b3a1a2a1",
+    "position": 17125651,
+    "mutation": "A->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20564",
+    "haplogroup": "L1a1b3a1a2a1",
+    "position": 19140468,
+    "mutation": "G->C",
+    "rsid": "rs752259991",
+    "other_names": null
+  },
+  {
+    "snp": "Z20565",
+    "haplogroup": "L1a1b3a1a2a1",
+    "position": 19143825,
+    "mutation": "G->A",
+    "rsid": "rs750242449",
+    "other_names": null
+  },
+  {
+    "snp": "Z39168.2",
+    "haplogroup": "L1a1b3a1a2a1a~",
+    "position": 7928479,
+    "mutation": "C->G",
+    "rsid": "rs373506127",
+    "other_names": null
+  },
+  {
+    "snp": "Z38449",
+    "haplogroup": "L1a1b3a1a2a1a~",
+    "position": 14192593,
+    "mutation": "A->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z38450",
+    "haplogroup": "L1a1b3a1a2a1b~",
+    "position": 7555890,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z38452",
+    "haplogroup": "L1a1b3a1a2a1b~",
+    "position": 15470362,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z38453",
+    "haplogroup": "L1a1b3a1a2a1b~",
+    "position": 16563604,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z34113",
+    "haplogroup": "L1a1b3a1a2a1b~",
+    "position": 16795862,
+    "mutation": "A->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z34122",
+    "haplogroup": "L1a1b3a1a2a2~",
+    "position": 7079212,
+    "mutation": "C->T",
+    "rsid": "rs761686549",
+    "other_names": null
+  },
+  {
+    "snp": "Z34125",
+    "haplogroup": "L1a1b3a1a2a2~",
+    "position": 8462386,
+    "mutation": "A->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z42492",
+    "haplogroup": "L1a1b3a1a2a2~",
+    "position": 15350013,
+    "mutation": "T->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z42493",
+    "haplogroup": "L1a1b3a1a2a2~",
+    "position": 15610159,
+    "mutation": "A->T",
+    "rsid": "rs759690712",
+    "other_names": null
+  },
+  {
+    "snp": "Z34479",
+    "haplogroup": "L1a1b3a1a2b~",
+    "position": 8371873,
+    "mutation": "G->T",
+    "rsid": "rs769459468",
+    "other_names": null
+  },
+  {
+    "snp": "Z34481",
+    "haplogroup": "L1a1b3a1a2b~",
+    "position": 7234465,
+    "mutation": "A->G",
+    "rsid": "rs781356238",
+    "other_names": null
+  },
+  {
+    "snp": "Z34482",
+    "haplogroup": "L1a1b3a1a2b~",
+    "position": 8669360,
+    "mutation": "C->A",
+    "rsid": "rs770711771",
+    "other_names": null
+  },
+  {
+    "snp": "Z42494",
+    "haplogroup": "L1a1b3a1a2b~",
+    "position": 8898135,
+    "mutation": "T->C",
+    "rsid": "rs756248592",
+    "other_names": null
+  },
+  {
+    "snp": "Z42495",
+    "haplogroup": "L1a1b3a1a2b~",
+    "position": 13833865,
+    "mutation": "C->A",
+    "rsid": "rs764763970",
+    "other_names": null
+  },
+  {
+    "snp": "Z34368",
+    "haplogroup": "L1a1b3a1b~",
+    "position": 8729559,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z34369",
+    "haplogroup": "L1a1b3a1b~",
+    "position": 12790841,
+    "mutation": "A->G",
+    "rsid": "rs1043307924",
+    "other_names": null
+  },
+  {
+    "snp": "Z42496",
+    "haplogroup": "L1a1b3a1b~",
+    "position": 14403444,
+    "mutation": "C->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z42497",
+    "haplogroup": "L1a1b3a1b~",
+    "position": 17153147,
+    "mutation": "A->G",
+    "rsid": "rs759184174",
+    "other_names": null
+  },
+  {
+    "snp": "Z42498",
+    "haplogroup": "L1a1b3a1b~",
+    "position": 17301983,
+    "mutation": "C->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20568",
+    "haplogroup": "L1a1b3a2",
+    "position": 8599506,
+    "mutation": "G->C",
+    "rsid": "rs770741396",
+    "other_names": null
+  },
+  {
+    "snp": "Z5932",
+    "haplogroup": "L1a1b3a2~",
+    "position": 7291443,
+    "mutation": "G->C",
+    "rsid": "rs768267825",
+    "other_names": null
+  },
+  {
+    "snp": "Z42499",
+    "haplogroup": "L1a1b3a2a~",
+    "position": 15728957,
+    "mutation": "A->C",
+    "rsid": "rs748294522",
+    "other_names": null
+  },
+  {
+    "snp": "Z42500",
+    "haplogroup": "L1a1b3a2a~",
+    "position": 17044598,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z42501",
+    "haplogroup": "L1a1b3a2a~",
+    "position": 19891084,
+    "mutation": "A->C",
+    "rsid": "rs770660258",
+    "other_names": null
+  },
+  {
+    "snp": "Z42502",
+    "haplogroup": "L1a1b3a2a~",
+    "position": 20620926,
+    "mutation": "T->A",
+    "rsid": "rs746067348",
+    "other_names": null
+  },
+  {
+    "snp": "Z42503",
+    "haplogroup": "L1a1b3a2a~",
+    "position": 20651147,
+    "mutation": "G->A",
+    "rsid": "rs775908057",
+    "other_names": null
+  },
+  {
+    "snp": "Z34132",
+    "haplogroup": "L1a1b3a2b~",
+    "position": 19378975,
+    "mutation": "G->A",
+    "rsid": "rs750768768",
+    "other_names": null
+  },
+  {
+    "snp": "Z42504",
+    "haplogroup": "L1a1b3a2b~",
+    "position": 16129108,
+    "mutation": "C->G",
+    "rsid": "rs753218808",
+    "other_names": null
+  },
+  {
+    "snp": "Z42505",
+    "haplogroup": "L1a1b3a2b~",
+    "position": 17136502,
+    "mutation": "C->T",
+    "rsid": "rs779047523",
+    "other_names": null
+  },
+  {
+    "snp": "Z42506",
+    "haplogroup": "L1a1b3a2b~",
+    "position": 18932461,
+    "mutation": "T->G",
+    "rsid": "rs766415493",
+    "other_names": null
+  },
+  {
+    "snp": "Z42507",
+    "haplogroup": "L1a1b3a2b~",
+    "position": 19068376,
+    "mutation": "G->T",
+    "rsid": "rs772070186",
+    "other_names": null
+  },
+  {
+    "snp": "Z34136",
+    "haplogroup": "L1a1b3a2c~",
+    "position": 12289393,
+    "mutation": "G->C",
+    "rsid": "rs761773070",
+    "other_names": null
+  },
+  {
+    "snp": "Z42508",
+    "haplogroup": "L1a1b3a2c~",
+    "position": 15770062,
+    "mutation": "C->A",
+    "rsid": "rs758045482",
+    "other_names": null
+  },
+  {
+    "snp": "Z42509",
+    "haplogroup": "L1a1b3a2c~",
+    "position": 16078830,
+    "mutation": "A->G",
+    "rsid": "rs753462728",
+    "other_names": null
+  },
+  {
+    "snp": "Z42510",
+    "haplogroup": "L1a1b3a2c~",
+    "position": 16716796,
+    "mutation": "T->C",
+    "rsid": "rs776995465",
+    "other_names": null
+  },
+  {
+    "snp": "Z42511",
+    "haplogroup": "L1a1b3a2c~",
+    "position": 16954289,
+    "mutation": "C->T",
+    "rsid": "rs761121851",
+    "other_names": null
+  },
+  {
+    "snp": "SK1428",
+    "haplogroup": "L1a1b3b~",
+    "position": 12554612,
+    "mutation": "A->T",
+    "rsid": "rs539992028",
+    "other_names": null
+  },
+  {
+    "snp": "Z34370",
+    "haplogroup": "L1a1b3b~",
+    "position": 8332737,
+    "mutation": "C->T",
+    "rsid": "rs758882302",
+    "other_names": null
+  },
+  {
+    "snp": "Z34371",
+    "haplogroup": "L1a1b3b~",
+    "position": 8656010,
+    "mutation": "T->C",
+    "rsid": "rs776987986",
+    "other_names": null
+  },
+  {
+    "snp": "Z34372",
+    "haplogroup": "L1a1b3b~",
+    "position": 12100742,
+    "mutation": "T->C",
+    "rsid": "rs765520468",
+    "other_names": null
+  },
+  {
+    "snp": "FGC18043",
+    "haplogroup": "L1a1b3c~",
+    "position": 14365061,
+    "mutation": "C->A",
+    "rsid": "rs780915224",
+    "other_names": "SK1433"
+  },
+  {
+    "snp": "SK1433",
+    "haplogroup": "L1a1b3c~",
+    "position": 14365061,
+    "mutation": "C->A",
+    "rsid": "rs780915224",
+    "other_names": "FGC18043"
+  },
+  {
+    "snp": "Y17158",
+    "haplogroup": "L1a1b3c~",
+    "position": 20510495,
+    "mutation": "A->C",
+    "rsid": "rs753923893",
+    "other_names": null
+  },
+  {
+    "snp": "Z34402",
+    "haplogroup": "L1a1b3c1~",
+    "position": 7052982,
+    "mutation": "G->A",
+    "rsid": "rs765380231",
+    "other_names": null
+  },
+  {
+    "snp": "Z34403",
+    "haplogroup": "L1a1b3c1~",
+    "position": 8045011,
+    "mutation": "C->T",
+    "rsid": "rs770432175",
+    "other_names": null
+  },
+  {
+    "snp": "Z34404",
+    "haplogroup": "L1a1b3c1~",
+    "position": 8105814,
+    "mutation": "T->C",
+    "rsid": "rs760642848",
+    "other_names": null
+  },
+  {
+    "snp": "Z42512",
+    "haplogroup": "L1a1b3c1~",
+    "position": 12232244,
+    "mutation": "G->A",
+    "rsid": "rs762090331",
+    "other_names": null
+  },
+  {
+    "snp": "Z42513",
+    "haplogroup": "L1a1b3c1~",
+    "position": 12643887,
+    "mutation": "G->A",
+    "rsid": "rs755935935",
+    "other_names": null
+  },
+  {
+    "snp": "F3987.2",
+    "haplogroup": "L1a1c~",
+    "position": 16709893,
+    "mutation": "C->T",
+    "rsid": "rs749308594",
+    "other_names": null
+  },
+  {
+    "snp": "CTS12086.2",
+    "haplogroup": "L1a1d~",
+    "position": 26324646,
+    "mutation": "A->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "M357",
+    "haplogroup": "L1a2",
+    "position": 3020211,
+    "mutation": "C->A",
+    "rsid": "rs377156966",
+    "other_names": null
+  },
+  {
+    "snp": "L1307^^",
+    "haplogroup": "L1a2",
+    "position": 21334510,
+    "mutation": "A->G",
+    "rsid": "rs553512126",
+    "other_names": null
+  },
+  {
+    "snp": "M2355^",
+    "haplogroup": "L1a2",
+    "position": 2870913,
+    "mutation": "G->A",
+    "rsid": "rs535693371",
+    "other_names": null
+  },
+  {
+    "snp": "M2360",
+    "haplogroup": "L1a2",
+    "position": 6804592,
+    "mutation": "G->A",
+    "rsid": "rs577603974",
+    "other_names": null
+  },
+  {
+    "snp": "M2361",
+    "haplogroup": "L1a2",
+    "position": 6822356,
+    "mutation": "C->T",
+    "rsid": "rs551218731",
+    "other_names": null
+  },
+  {
+    "snp": "M2364^",
+    "haplogroup": "L1a2",
+    "position": 6849401,
+    "mutation": "A->G",
+    "rsid": "rs542907733",
+    "other_names": null
+  },
+  {
+    "snp": "M2367^",
+    "haplogroup": "L1a2",
+    "position": 6977441,
+    "mutation": "C->T",
+    "rsid": "rs577926750",
+    "other_names": null
+  },
+  {
+    "snp": "M2371",
+    "haplogroup": "L1a2",
+    "position": 7126685,
+    "mutation": "T->G",
+    "rsid": "rs563566099",
+    "other_names": null
+  },
+  {
+    "snp": "M2380",
+    "haplogroup": "L1a2",
+    "position": 7409869,
+    "mutation": "G->C",
+    "rsid": "rs530218464",
+    "other_names": null
+  },
+  {
+    "snp": "M2393",
+    "haplogroup": "L1a2",
+    "position": 8028632,
+    "mutation": "C->T",
+    "rsid": "rs529228150",
+    "other_names": null
+  },
+  {
+    "snp": "M2402^",
+    "haplogroup": "L1a2",
+    "position": 8255360,
+    "mutation": "A->G",
+    "rsid": "rs553715379",
+    "other_names": null
+  },
+  {
+    "snp": "M2412^",
+    "haplogroup": "L1a2",
+    "position": 8501704,
+    "mutation": "G->T",
+    "rsid": "rs34027965",
+    "other_names": null
+  },
+  {
+    "snp": "M2424^",
+    "haplogroup": "L1a2",
+    "position": 8738428,
+    "mutation": "C->T",
+    "rsid": "rs535738130",
+    "other_names": null
+  },
+  {
+    "snp": "M2429",
+    "haplogroup": "L1a2",
+    "position": 8848502,
+    "mutation": "T->C",
+    "rsid": "rs554838033",
+    "other_names": null
+  },
+  {
+    "snp": "M2432",
+    "haplogroup": "L1a2",
+    "position": 8938726,
+    "mutation": "G->A",
+    "rsid": "rs537496381",
+    "other_names": null
+  },
+  {
+    "snp": "M2439^",
+    "haplogroup": "L1a2",
+    "position": 9245140,
+    "mutation": "C->T",
+    "rsid": "rs569569704",
+    "other_names": null
+  },
+  {
+    "snp": "M2441^",
+    "haplogroup": "L1a2",
+    "position": 9579406,
+    "mutation": "A->G",
+    "rsid": "rs568532945",
+    "other_names": null
+  },
+  {
+    "snp": "M2451",
+    "haplogroup": "L1a2",
+    "position": 11918811,
+    "mutation": "G->A",
+    "rsid": "rs569365184",
+    "other_names": null
+  },
+  {
+    "snp": "M2461^",
+    "haplogroup": "L1a2",
+    "position": 12077581,
+    "mutation": "A->G",
+    "rsid": "rs549749318",
+    "other_names": null
+  },
+  {
+    "snp": "M2469",
+    "haplogroup": "L1a2",
+    "position": 12198507,
+    "mutation": "G->C",
+    "rsid": "rs551967985",
+    "other_names": null
+  },
+  {
+    "snp": "M2475^",
+    "haplogroup": "L1a2",
+    "position": 12337993,
+    "mutation": "A->G",
+    "rsid": "rs550891039",
+    "other_names": null
+  },
+  {
+    "snp": "M2476",
+    "haplogroup": "L1a2",
+    "position": 12351952,
+    "mutation": "G->A",
+    "rsid": "rs529907381",
+    "other_names": null
+  },
+  {
+    "snp": "M2507",
+    "haplogroup": "L1a2",
+    "position": 13664030,
+    "mutation": "C->A",
+    "rsid": "rs547036003",
+    "other_names": null
+  },
+  {
+    "snp": "M2523",
+    "haplogroup": "L1a2",
+    "position": 14101936,
+    "mutation": "A->G",
+    "rsid": "rs540334954",
+    "other_names": null
+  },
+  {
+    "snp": "M2524",
+    "haplogroup": "L1a2",
+    "position": 14118020,
+    "mutation": "C->T",
+    "rsid": "rs534165163",
+    "other_names": null
+  },
+  {
+    "snp": "M2533^",
+    "haplogroup": "L1a2",
+    "position": 14266816,
+    "mutation": "G->A",
+    "rsid": "rs536285817",
+    "other_names": null
+  },
+  {
+    "snp": "M2535^",
+    "haplogroup": "L1a2",
+    "position": 14304297,
+    "mutation": "C->G",
+    "rsid": "rs548388643",
+    "other_names": null
+  },
+  {
+    "snp": "M2540",
+    "haplogroup": "L1a2",
+    "position": 14392153,
+    "mutation": "A->C",
+    "rsid": "rs530774830",
+    "other_names": null
+  },
+  {
+    "snp": "M2549^",
+    "haplogroup": "L1a2",
+    "position": 14824502,
+    "mutation": "A->G",
+    "rsid": "rs543811705",
+    "other_names": null
+  },
+  {
+    "snp": "M2557",
+    "haplogroup": "L1a2",
+    "position": 15235162,
+    "mutation": "A->G",
+    "rsid": "rs563818306",
+    "other_names": null
+  },
+  {
+    "snp": "M2558",
+    "haplogroup": "L1a2",
+    "position": 15255515,
+    "mutation": "T->C",
+    "rsid": "rs529527594",
+    "other_names": null
+  },
+  {
+    "snp": "M2561^",
+    "haplogroup": "L1a2",
+    "position": 15371582,
+    "mutation": "C->G",
+    "rsid": "rs548084965",
+    "other_names": null
+  },
+  {
+    "snp": "M2574^",
+    "haplogroup": "L1a2",
+    "position": 15694756,
+    "mutation": "A->G",
+    "rsid": "rs555800736",
+    "other_names": null
+  },
+  {
+    "snp": "M2575",
+    "haplogroup": "L1a2",
+    "position": 15710541,
+    "mutation": "T->C",
+    "rsid": "rs548991951",
+    "other_names": null
+  },
+  {
+    "snp": "M2581",
+    "haplogroup": "L1a2",
+    "position": 16099858,
+    "mutation": "G->T",
+    "rsid": "rs530222605",
+    "other_names": null
+  },
+  {
+    "snp": "M2592^",
+    "haplogroup": "L1a2",
+    "position": 16845183,
+    "mutation": "G->A",
+    "rsid": "rs546629703",
+    "other_names": "PR2941^"
+  },
+  {
+    "snp": "PR2941^",
+    "haplogroup": "L1a2",
+    "position": 16845183,
+    "mutation": "G->A",
+    "rsid": "rs546629703",
+    "other_names": "M2592^"
+  },
+  {
+    "snp": "M2601^",
+    "haplogroup": "L1a2",
+    "position": 17211799,
+    "mutation": "C->A",
+    "rsid": "rs553806749",
+    "other_names": null
+  },
+  {
+    "snp": "M2606^",
+    "haplogroup": "L1a2",
+    "position": 18924648,
+    "mutation": "G->A",
+    "rsid": "rs572031313",
+    "other_names": null
+  },
+  {
+    "snp": "M2608^",
+    "haplogroup": "L1a2",
+    "position": 19019123,
+    "mutation": "G->T",
+    "rsid": "rs558416609",
+    "other_names": null
+  },
+  {
+    "snp": "M2618",
+    "haplogroup": "L1a2",
+    "position": 19299047,
+    "mutation": "T->C",
+    "rsid": "rs558862410",
+    "other_names": null
+  },
+  {
+    "snp": "M2627",
+    "haplogroup": "L1a2",
+    "position": 19606690,
+    "mutation": "G->T",
+    "rsid": "rs538301066",
+    "other_names": null
+  },
+  {
+    "snp": "M2630^",
+    "haplogroup": "L1a2",
+    "position": 19795973,
+    "mutation": "G->A",
+    "rsid": "rs560593628",
+    "other_names": null
+  },
+  {
+    "snp": "M2632^",
+    "haplogroup": "L1a2",
+    "position": 19891444,
+    "mutation": "C->T",
+    "rsid": "rs537190240",
+    "other_names": null
+  },
+  {
+    "snp": "M2653",
+    "haplogroup": "L1a2",
+    "position": 20788276,
+    "mutation": "G->A",
+    "rsid": "rs559316421",
+    "other_names": null
+  },
+  {
+    "snp": "M2659",
+    "haplogroup": "L1a2",
+    "position": 20960762,
+    "mutation": "C->G",
+    "rsid": "rs550185084",
+    "other_names": null
+  },
+  {
+    "snp": "M2662^",
+    "haplogroup": "L1a2",
+    "position": 21278813,
+    "mutation": "T->C",
+    "rsid": "rs535119563",
+    "other_names": null
+  },
+  {
+    "snp": "Z2662",
+    "haplogroup": "L1a2",
+    "position": 18993372,
+    "mutation": "T->C",
+    "rsid": "rs1031944463",
+    "other_names": null
+  },
+  {
+    "snp": "M5710",
+    "haplogroup": "L1a2",
+    "position": 14788367,
+    "mutation": "A->G",
+    "rsid": "rs111463427",
+    "other_names": null
+  },
+  {
+    "snp": "SK1446",
+    "haplogroup": "L1a2",
+    "position": 8627043,
+    "mutation": "C->T",
+    "rsid": "rs760183565",
+    "other_names": "Y5518"
+  },
+  {
+    "snp": "Y5518",
+    "haplogroup": "L1a2",
+    "position": 8627043,
+    "mutation": "C->T",
+    "rsid": "rs760183565",
+    "other_names": "SK1446"
+  },
+  {
+    "snp": "SK1447",
+    "haplogroup": "L1a2",
+    "position": 17374385,
+    "mutation": "G->A",
+    "rsid": "rs749729886",
+    "other_names": "Y5559; Z20251"
+  },
+  {
+    "snp": "Y5559",
+    "haplogroup": "L1a2",
+    "position": 17374385,
+    "mutation": "G->A",
+    "rsid": "rs749729886",
+    "other_names": "SK1447; Z20251"
+  },
+  {
+    "snp": "Z20251",
+    "haplogroup": "L1a2",
+    "position": 17374385,
+    "mutation": "G->A",
+    "rsid": "rs749729886",
+    "other_names": "SK1447; Y5559"
+  },
+  {
+    "snp": "Y5526^",
+    "haplogroup": "L1a2",
+    "position": 16065562,
+    "mutation": "C->G",
+    "rsid": "rs766089064",
+    "other_names": "Z20246^"
+  },
+  {
+    "snp": "Z20246^",
+    "haplogroup": "L1a2",
+    "position": 16065562,
+    "mutation": "C->G",
+    "rsid": "rs766089064",
+    "other_names": "Y5526^"
+  },
+  {
+    "snp": "Y5515^",
+    "haplogroup": "L1a2",
+    "position": 7674843,
+    "mutation": "T->C",
+    "rsid": "rs770504359",
+    "other_names": "Z20229^"
+  },
+  {
+    "snp": "Z20229^",
+    "haplogroup": "L1a2",
+    "position": 7674843,
+    "mutation": "T->C",
+    "rsid": "rs770504359",
+    "other_names": "Y5515^"
+  },
+  {
+    "snp": "Y5527",
+    "haplogroup": "L1a2",
+    "position": 17016127,
+    "mutation": "G->T",
+    "rsid": "rs776044118",
+    "other_names": "Z20248"
+  },
+  {
+    "snp": "Z20248",
+    "haplogroup": "L1a2",
+    "position": 17016127,
+    "mutation": "G->T",
+    "rsid": "rs776044118",
+    "other_names": "Y5527"
+  },
+  {
+    "snp": "Y5531^",
+    "haplogroup": "L1a2",
+    "position": 19819555,
+    "mutation": "A->G",
+    "rsid": "rs768228419",
+    "other_names": "Z20252^"
+  },
+  {
+    "snp": "Z20252^",
+    "haplogroup": "L1a2",
+    "position": 19819555,
+    "mutation": "A->G",
+    "rsid": "rs768228419",
+    "other_names": "Y5531^"
+  },
+  {
+    "snp": "Y5548^",
+    "haplogroup": "L1a2",
+    "position": 12087847,
+    "mutation": "C->A",
+    "rsid": "rs753988702",
+    "other_names": "Z20240^"
+  },
+  {
+    "snp": "Z20240^",
+    "haplogroup": "L1a2",
+    "position": 12087847,
+    "mutation": "C->A",
+    "rsid": "rs753988702",
+    "other_names": "Y5548^"
+  },
+  {
+    "snp": "Y5551",
+    "haplogroup": "L1a2",
+    "position": 15309800,
+    "mutation": "T->C",
+    "rsid": "rs751641828",
+    "other_names": "Z20243"
+  },
+  {
+    "snp": "Z20243",
+    "haplogroup": "L1a2",
+    "position": 15309800,
+    "mutation": "T->C",
+    "rsid": "rs751641828",
+    "other_names": "Y5551"
+  },
+  {
+    "snp": "Y5552^",
+    "haplogroup": "L1a2",
+    "position": 15915697,
+    "mutation": "A->C",
+    "rsid": "rs753214510",
+    "other_names": "Z20244^"
+  },
+  {
+    "snp": "Z20244^",
+    "haplogroup": "L1a2",
+    "position": 15915697,
+    "mutation": "A->C",
+    "rsid": "rs753214510",
+    "other_names": "Y5552^"
+  },
+  {
+    "snp": "Y5554^",
+    "haplogroup": "L1a2",
+    "position": 16279413,
+    "mutation": "C->T",
+    "rsid": "rs753692320",
+    "other_names": "Z20247^"
+  },
+  {
+    "snp": "Z20247^",
+    "haplogroup": "L1a2",
+    "position": 16279413,
+    "mutation": "C->T",
+    "rsid": "rs753692320",
+    "other_names": "Y5554^"
+  },
+  {
+    "snp": "Y5556",
+    "haplogroup": "L1a2",
+    "position": 17080631,
+    "mutation": "G->T",
+    "rsid": "rs750935172",
+    "other_names": "Z20249"
+  },
+  {
+    "snp": "Z20249",
+    "haplogroup": "L1a2",
+    "position": 17080631,
+    "mutation": "G->T",
+    "rsid": "rs750935172",
+    "other_names": "Y5556"
+  },
+  {
+    "snp": "Y5558^",
+    "haplogroup": "L1a2",
+    "position": 17333542,
+    "mutation": "A->G",
+    "rsid": "rs776060980",
+    "other_names": "Z20250^"
+  },
+  {
+    "snp": "Z20250^",
+    "haplogroup": "L1a2",
+    "position": 17333542,
+    "mutation": "A->G",
+    "rsid": "rs776060980",
+    "other_names": "Y5558^"
+  },
+  {
+    "snp": "Y5567",
+    "haplogroup": "L1a2",
+    "position": 26565265,
+    "mutation": "A->G",
+    "rsid": "rs746398362",
+    "other_names": "Z20256"
+  },
+  {
+    "snp": "Z20256",
+    "haplogroup": "L1a2",
+    "position": 26565265,
+    "mutation": "A->G",
+    "rsid": "rs746398362",
+    "other_names": "Y5567"
+  },
+  {
+    "snp": "Y12414^",
+    "haplogroup": "L1a2",
+    "position": 21023197,
+    "mutation": "G->T",
+    "rsid": "rs779752728",
+    "other_names": "Z20263^"
+  },
+  {
+    "snp": "Z20263^",
+    "haplogroup": "L1a2",
+    "position": 21023197,
+    "mutation": "G->T",
+    "rsid": "rs779752728",
+    "other_names": "Y12414^"
+  },
+  {
+    "snp": "Z20228^",
+    "haplogroup": "L1a2",
+    "position": 7302777,
+    "mutation": "C->A",
+    "rsid": "rs766293953",
+    "other_names": null
+  },
+  {
+    "snp": "Z20230^",
+    "haplogroup": "L1a2",
+    "position": 8502336,
+    "mutation": "G->A",
+    "rsid": "rs759587882",
+    "other_names": null
+  },
+  {
+    "snp": "Z20233^",
+    "haplogroup": "L1a2",
+    "position": 10622243,
+    "mutation": "A->C",
+    "rsid": "rs760491941",
+    "other_names": null
+  },
+  {
+    "snp": "Z20236",
+    "haplogroup": "L1a2",
+    "position": 11504311,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20238^",
+    "haplogroup": "L1a2",
+    "position": 11683686,
+    "mutation": "A->C",
+    "rsid": "rs967271205",
+    "other_names": null
+  },
+  {
+    "snp": "Z20241",
+    "haplogroup": "L1a2",
+    "position": 13782268,
+    "mutation": "G->A",
+    "rsid": "rs776706045",
+    "other_names": null
+  },
+  {
+    "snp": "Z20262^",
+    "haplogroup": "L1a2",
+    "position": 20808316,
+    "mutation": "T->G",
+    "rsid": "rs770388157",
+    "other_names": null
+  },
+  {
+    "snp": "M2387",
+    "haplogroup": "L1a2~",
+    "position": 7868807,
+    "mutation": "G->A",
+    "rsid": "rs561196033",
+    "other_names": null
+  },
+  {
+    "snp": "M2398",
+    "haplogroup": "L1a2a",
+    "position": 8171664,
+    "mutation": "T->C",
+    "rsid": "rs544021927",
+    "other_names": null
+  },
+  {
+    "snp": "Y12415",
+    "haplogroup": "L1a2a",
+    "position": 7645602,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": "Z20266"
+  },
+  {
+    "snp": "Z20266",
+    "haplogroup": "L1a2a",
+    "position": 7645602,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": "Y12415"
+  },
+  {
+    "snp": "Z5919",
+    "haplogroup": "L1a2a",
+    "position": 7170280,
+    "mutation": "C->T",
+    "rsid": "rs757301322",
+    "other_names": null
+  },
+  {
+    "snp": "Z5920",
+    "haplogroup": "L1a2a1",
+    "position": 2938663,
+    "mutation": "C->T",
+    "rsid": "rs777804551",
+    "other_names": null
+  },
+  {
+    "snp": "Y12416",
+    "haplogroup": "L1a2a1",
+    "position": 7528435,
+    "mutation": "G->A",
+    "rsid": "rs766382925",
+    "other_names": "Z20271"
+  },
+  {
+    "snp": "Z20271",
+    "haplogroup": "L1a2a1",
+    "position": 7528435,
+    "mutation": "G->A",
+    "rsid": "rs766382925",
+    "other_names": "Y12416"
+  },
+  {
+    "snp": "Y12417",
+    "haplogroup": "L1a2a1",
+    "position": 13555876,
+    "mutation": "C->T",
+    "rsid": "rs979689928",
+    "other_names": "Z20273"
+  },
+  {
+    "snp": "Z20273",
+    "haplogroup": "L1a2a1",
+    "position": 13555876,
+    "mutation": "C->T",
+    "rsid": "rs979689928",
+    "other_names": "Y12417"
+  },
+  {
+    "snp": "Y12890",
+    "haplogroup": "L1a2a1",
+    "position": 19000170,
+    "mutation": "A->G",
+    "rsid": "rs764192163",
+    "other_names": "Z20274"
+  },
+  {
+    "snp": "Z20274",
+    "haplogroup": "L1a2a1",
+    "position": 19000170,
+    "mutation": "A->G",
+    "rsid": "rs764192163",
+    "other_names": "Y12890"
+  },
+  {
+    "snp": "Z20276",
+    "haplogroup": "L1a2a1",
+    "position": 26409408,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20284",
+    "haplogroup": "L1a2a1a",
+    "position": 7910915,
+    "mutation": "G->A",
+    "rsid": "rs746078353",
+    "other_names": null
+  },
+  {
+    "snp": "Z5921^",
+    "haplogroup": "L1a2a1a",
+    "position": 6949088,
+    "mutation": "A->T",
+    "rsid": "rs780165578",
+    "other_names": null
+  },
+  {
+    "snp": "Z20282^",
+    "haplogroup": "L1a2a1a",
+    "position": 7405290,
+    "mutation": "G->A",
+    "rsid": "rs766794507",
+    "other_names": null
+  },
+  {
+    "snp": "Z20283^",
+    "haplogroup": "L1a2a1a",
+    "position": 7497530,
+    "mutation": "C->T",
+    "rsid": "rs768606944",
+    "other_names": null
+  },
+  {
+    "snp": "Z20285",
+    "haplogroup": "L1a2a1a",
+    "position": 7963248,
+    "mutation": "A->C",
+    "rsid": "rs750415861",
+    "other_names": null
+  },
+  {
+    "snp": "Z20286^",
+    "haplogroup": "L1a2a1a",
+    "position": 8029814,
+    "mutation": "T->C",
+    "rsid": "rs764705610",
+    "other_names": null
+  },
+  {
+    "snp": "Z20287^",
+    "haplogroup": "L1a2a1a",
+    "position": 8232366,
+    "mutation": "G->A",
+    "rsid": "rs772085275",
+    "other_names": null
+  },
+  {
+    "snp": "Z20288^",
+    "haplogroup": "L1a2a1a",
+    "position": 8934603,
+    "mutation": "G->A",
+    "rsid": "rs765136115",
+    "other_names": null
+  },
+  {
+    "snp": "Z20291^",
+    "haplogroup": "L1a2a1a",
+    "position": 12245567,
+    "mutation": "G->A",
+    "rsid": "rs765322608",
+    "other_names": null
+  },
+  {
+    "snp": "Z20292^",
+    "haplogroup": "L1a2a1a",
+    "position": 15106794,
+    "mutation": "G->A",
+    "rsid": "rs779450627",
+    "other_names": null
+  },
+  {
+    "snp": "Z20293^",
+    "haplogroup": "L1a2a1a",
+    "position": 15465302,
+    "mutation": "T->C",
+    "rsid": "rs767627718",
+    "other_names": null
+  },
+  {
+    "snp": "Z20294^",
+    "haplogroup": "L1a2a1a",
+    "position": 16843797,
+    "mutation": "G->T",
+    "rsid": "rs762924954",
+    "other_names": null
+  },
+  {
+    "snp": "Z20295^",
+    "haplogroup": "L1a2a1a",
+    "position": 16909018,
+    "mutation": "C->T",
+    "rsid": "rs751283705",
+    "other_names": null
+  },
+  {
+    "snp": "Z20296^",
+    "haplogroup": "L1a2a1a",
+    "position": 18945459,
+    "mutation": "G->A",
+    "rsid": "rs781170440",
+    "other_names": null
+  },
+  {
+    "snp": "Z20297",
+    "haplogroup": "L1a2a1a",
+    "position": 19302778,
+    "mutation": "G->A",
+    "rsid": "rs776268033",
+    "other_names": null
+  },
+  {
+    "snp": "Z20298^",
+    "haplogroup": "L1a2a1a",
+    "position": 19934803,
+    "mutation": "G->T",
+    "rsid": "rs759840199",
+    "other_names": null
+  },
+  {
+    "snp": "Z20299^",
+    "haplogroup": "L1a2a1a",
+    "position": 20019192,
+    "mutation": "C->T",
+    "rsid": "rs764725519",
+    "other_names": null
+  },
+  {
+    "snp": "Z20302^",
+    "haplogroup": "L1a2a1a",
+    "position": 20414386,
+    "mutation": "G->T",
+    "rsid": "rs771665637",
+    "other_names": null
+  },
+  {
+    "snp": "Z20303",
+    "haplogroup": "L1a2a1a",
+    "position": 20643996,
+    "mutation": "A->T",
+    "rsid": "rs781673337",
+    "other_names": null
+  },
+  {
+    "snp": "Z20304^",
+    "haplogroup": "L1a2a1a",
+    "position": 20662989,
+    "mutation": "T->C",
+    "rsid": "rs754277131",
+    "other_names": null
+  },
+  {
+    "snp": "Z20305",
+    "haplogroup": "L1a2a1a",
+    "position": 26643823,
+    "mutation": "A->G",
+    "rsid": "rs904594950",
+    "other_names": null
+  },
+  {
+    "snp": "Z2388.3^",
+    "haplogroup": "L1a2a1a",
+    "position": 4777810,
+    "mutation": "A->G",
+    "rsid": "rs762607639",
+    "other_names": null
+  },
+  {
+    "snp": "Z8030",
+    "haplogroup": "L1a2a1a1",
+    "position": 15092838,
+    "mutation": "T->G",
+    "rsid": "rs758232830",
+    "other_names": null
+  },
+  {
+    "snp": "Z20306",
+    "haplogroup": "L1a2a1a1",
+    "position": 15557579,
+    "mutation": "A->G",
+    "rsid": "rs756984501",
+    "other_names": null
+  },
+  {
+    "snp": "Z5923",
+    "haplogroup": "L1a2a1a1a",
+    "position": 2921281,
+    "mutation": "C->T",
+    "rsid": "rs747154946",
+    "other_names": null
+  },
+  {
+    "snp": "S24402",
+    "haplogroup": "L1a2a1a1a",
+    "position": 20392420,
+    "mutation": "C->T",
+    "rsid": "rs780873041",
+    "other_names": null
+  },
+  {
+    "snp": "Z20309^",
+    "haplogroup": "L1a2a1a1a",
+    "position": 7342425,
+    "mutation": "T->C",
+    "rsid": "rs768533264",
+    "other_names": null
+  },
+  {
+    "snp": "Z20310",
+    "haplogroup": "L1a2a1a1a",
+    "position": 7964945,
+    "mutation": "G->C",
+    "rsid": "rs755654657",
+    "other_names": null
+  },
+  {
+    "snp": "Z20311",
+    "haplogroup": "L1a2a1a1a",
+    "position": 7978633,
+    "mutation": "A->G",
+    "rsid": "rs781094442",
+    "other_names": null
+  },
+  {
+    "snp": "Z20312",
+    "haplogroup": "L1a2a1a1a",
+    "position": 8170011,
+    "mutation": "C->T",
+    "rsid": "rs767859384",
+    "other_names": null
+  },
+  {
+    "snp": "Z20313",
+    "haplogroup": "L1a2a1a1a",
+    "position": 8599413,
+    "mutation": "G->A",
+    "rsid": "rs373742397",
+    "other_names": null
+  },
+  {
+    "snp": "Z20314",
+    "haplogroup": "L1a2a1a1a",
+    "position": 8628684,
+    "mutation": "G->T",
+    "rsid": "rs758018277",
+    "other_names": null
+  },
+  {
+    "snp": "Z20315",
+    "haplogroup": "L1a2a1a1a",
+    "position": 9017476,
+    "mutation": "A->G",
+    "rsid": "rs751793061",
+    "other_names": null
+  },
+  {
+    "snp": "Z20317",
+    "haplogroup": "L1a2a1a1a",
+    "position": 10191282,
+    "mutation": "C->T",
+    "rsid": "rs78830685",
+    "other_names": null
+  },
+  {
+    "snp": "Z20319^",
+    "haplogroup": "L1a2a1a1a",
+    "position": 11507554,
+    "mutation": "T->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20320^",
+    "haplogroup": "L1a2a1a1a",
+    "position": 11517622,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20321^",
+    "haplogroup": "L1a2a1a1a",
+    "position": 12356232,
+    "mutation": "G->A",
+    "rsid": "rs749504761",
+    "other_names": null
+  },
+  {
+    "snp": "Z20322^",
+    "haplogroup": "L1a2a1a1a",
+    "position": 12862779,
+    "mutation": "A->G",
+    "rsid": "rs770543407",
+    "other_names": null
+  },
+  {
+    "snp": "Z20323^",
+    "haplogroup": "L1a2a1a1a",
+    "position": 13198969,
+    "mutation": "C->T",
+    "rsid": "rs767750003",
+    "other_names": null
+  },
+  {
+    "snp": "Z20324",
+    "haplogroup": "L1a2a1a1a",
+    "position": 13501869,
+    "mutation": "T->A",
+    "rsid": "rs767968266",
+    "other_names": null
+  },
+  {
+    "snp": "Z20325^",
+    "haplogroup": "L1a2a1a1a",
+    "position": 14555863,
+    "mutation": "C->T",
+    "rsid": "rs761553404",
+    "other_names": null
+  },
+  {
+    "snp": "Z20326",
+    "haplogroup": "L1a2a1a1a",
+    "position": 15073451,
+    "mutation": "C->T",
+    "rsid": "rs761669648",
+    "other_names": null
+  },
+  {
+    "snp": "Z20327",
+    "haplogroup": "L1a2a1a1a",
+    "position": 15656261,
+    "mutation": "C->G",
+    "rsid": "rs762033729",
+    "other_names": null
+  },
+  {
+    "snp": "Z20328",
+    "haplogroup": "L1a2a1a1a",
+    "position": 16447778,
+    "mutation": "C->G",
+    "rsid": "rs768635547",
+    "other_names": null
+  },
+  {
+    "snp": "Z20329",
+    "haplogroup": "L1a2a1a1a",
+    "position": 17195346,
+    "mutation": "G->A",
+    "rsid": "rs780279759",
+    "other_names": null
+  },
+  {
+    "snp": "Z20330^",
+    "haplogroup": "L1a2a1a1a",
+    "position": 17442715,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20333",
+    "haplogroup": "L1a2a1a1a",
+    "position": 21607461,
+    "mutation": "T->A",
+    "rsid": "rs748640371",
+    "other_names": null
+  },
+  {
+    "snp": "Z20335",
+    "haplogroup": "L1a2a1a1a",
+    "position": 26373130,
+    "mutation": "C->G",
+    "rsid": "rs779339682",
+    "other_names": null
+  },
+  {
+    "snp": "Z34393",
+    "haplogroup": "L1a2a1a1a1~",
+    "position": 7152619,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z34394",
+    "haplogroup": "L1a2a1a1a1~",
+    "position": 7828585,
+    "mutation": "C->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z34395",
+    "haplogroup": "L1a2a1a1a1~",
+    "position": 8542642,
+    "mutation": "G->A",
+    "rsid": "rs763333850",
+    "other_names": null
+  },
+  {
+    "snp": "Z34396",
+    "haplogroup": "L1a2a1a1a1~",
+    "position": 12006765,
+    "mutation": "G->C",
+    "rsid": "rs774125094",
+    "other_names": null
+  },
+  {
+    "snp": "Z34397",
+    "haplogroup": "L1a2a1a1a2~",
+    "position": 7422595,
+    "mutation": "A->T",
+    "rsid": "rs761962658",
+    "other_names": null
+  },
+  {
+    "snp": "Z34398",
+    "haplogroup": "L1a2a1a1a2~",
+    "position": 8924333,
+    "mutation": "G->C",
+    "rsid": "rs771514968",
+    "other_names": null
+  },
+  {
+    "snp": "Z34400",
+    "haplogroup": "L1a2a1a1a2~",
+    "position": 13642890,
+    "mutation": "G->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z34475",
+    "haplogroup": "L1a2a1a1b~",
+    "position": 7066912,
+    "mutation": "G->C",
+    "rsid": "rs780829781",
+    "other_names": null
+  },
+  {
+    "snp": "Z34476",
+    "haplogroup": "L1a2a1a1b~",
+    "position": 7101233,
+    "mutation": "G->T",
+    "rsid": "rs755635978",
+    "other_names": null
+  },
+  {
+    "snp": "Z34478",
+    "haplogroup": "L1a2a1a1b~",
+    "position": 8184041,
+    "mutation": "G->A",
+    "rsid": "rs770022022",
+    "other_names": null
+  },
+  {
+    "snp": "Z42525",
+    "haplogroup": "L1a2a1a1b~",
+    "position": 8324644,
+    "mutation": "C->T",
+    "rsid": "rs747602316",
+    "other_names": null
+  },
+  {
+    "snp": "Z42526",
+    "haplogroup": "L1a2a1a1b~",
+    "position": 8933951,
+    "mutation": "C->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z34373",
+    "haplogroup": "L1a2a1a2~",
+    "position": 12434304,
+    "mutation": "A->G",
+    "rsid": "rs779514244",
+    "other_names": null
+  },
+  {
+    "snp": "Z34374",
+    "haplogroup": "L1a2a1a2~",
+    "position": 12502965,
+    "mutation": "T->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z34375",
+    "haplogroup": "L1a2a1a2~",
+    "position": 15440391,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z34376",
+    "haplogroup": "L1a2a1a2~",
+    "position": 2861479,
+    "mutation": "T->C",
+    "rsid": "rs756305613",
+    "other_names": null
+  },
+  {
+    "snp": "Z34377",
+    "haplogroup": "L1a2a1a2~",
+    "position": 2890147,
+    "mutation": "G->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y12419",
+    "haplogroup": "L1a2a1b~",
+    "position": 12069164,
+    "mutation": "T->A",
+    "rsid": "rs778333629",
+    "other_names": null
+  },
+  {
+    "snp": "Y17951",
+    "haplogroup": "L1a2a1b~",
+    "position": 8283364,
+    "mutation": "T->C",
+    "rsid": "rs907416914",
+    "other_names": null
+  },
+  {
+    "snp": "CTS1018",
+    "haplogroup": "L1a2a1b1~",
+    "position": 7281787,
+    "mutation": "A->G",
+    "rsid": "rs537943979",
+    "other_names": "M5840"
+  },
+  {
+    "snp": "M5840",
+    "haplogroup": "L1a2a1b1~",
+    "position": 7281787,
+    "mutation": "A->G",
+    "rsid": "rs537943979",
+    "other_names": "CTS1018"
+  },
+  {
+    "snp": "Z34483",
+    "haplogroup": "L1a2a1b1~",
+    "position": 6838182,
+    "mutation": "G->A",
+    "rsid": "rs780964130",
+    "other_names": null
+  },
+  {
+    "snp": "Z34484",
+    "haplogroup": "L1a2a1b1~",
+    "position": 7006169,
+    "mutation": "A->G",
+    "rsid": "rs749375927",
+    "other_names": null
+  },
+  {
+    "snp": "Z34485",
+    "haplogroup": "L1a2a1b1~",
+    "position": 8440171,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z34486",
+    "haplogroup": "L1a2a1b1~",
+    "position": 7003562,
+    "mutation": "G->C",
+    "rsid": "rs781355133",
+    "other_names": null
+  },
+  {
+    "snp": "FGC40759",
+    "haplogroup": "L1a2a1b2~",
+    "position": 6880662,
+    "mutation": "C->A",
+    "rsid": "rs1046335464",
+    "other_names": null
+  },
+  {
+    "snp": "FGC40771",
+    "haplogroup": "L1a2a1b2~",
+    "position": 13446305,
+    "mutation": "C->T",
+    "rsid": "rs991504494",
+    "other_names": null
+  },
+  {
+    "snp": "SK1454",
+    "haplogroup": "L1a2a1b2~",
+    "position": 8552450,
+    "mutation": "G->A",
+    "rsid": "rs1020643655",
+    "other_names": null
+  },
+  {
+    "snp": "SK1455",
+    "haplogroup": "L1a2a1b2~",
+    "position": 13769045,
+    "mutation": "G->A",
+    "rsid": "rs1027665456",
+    "other_names": null
+  },
+  {
+    "snp": "Y17950",
+    "haplogroup": "L1a2a1b2~",
+    "position": 2941670,
+    "mutation": "T->C",
+    "rsid": "rs936133448",
+    "other_names": null
+  },
+  {
+    "snp": "Y17952",
+    "haplogroup": "L1a2a1b2~",
+    "position": 11900847,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y17953",
+    "haplogroup": "L1a2a1b2~",
+    "position": 12006667,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y17954",
+    "haplogroup": "L1a2a1b2~",
+    "position": 12079472,
+    "mutation": "G->A",
+    "rsid": "rs1038393328",
+    "other_names": null
+  },
+  {
+    "snp": "Y17955",
+    "haplogroup": "L1a2a1b2~",
+    "position": 12153542,
+    "mutation": "T->G",
+    "rsid": "rs1044720672",
+    "other_names": null
+  },
+  {
+    "snp": "Y17957",
+    "haplogroup": "L1a2a1b2~",
+    "position": 14163008,
+    "mutation": "C->T",
+    "rsid": "rs927647772",
+    "other_names": null
+  },
+  {
+    "snp": "Y17958",
+    "haplogroup": "L1a2a1b2~",
+    "position": 14406887,
+    "mutation": "A->G",
+    "rsid": "rs973403299",
+    "other_names": null
+  },
+  {
+    "snp": "Y17959",
+    "haplogroup": "L1a2a1b2~",
+    "position": 14435275,
+    "mutation": "G->A",
+    "rsid": "rs938886175",
+    "other_names": null
+  },
+  {
+    "snp": "Y17960",
+    "haplogroup": "L1a2a1b2~",
+    "position": 14737088,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y17961",
+    "haplogroup": "L1a2a1b2~",
+    "position": 15254343,
+    "mutation": "G->A",
+    "rsid": "rs1018602566",
+    "other_names": null
+  },
+  {
+    "snp": "Y17962",
+    "haplogroup": "L1a2a1b2~",
+    "position": 16615699,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y17963",
+    "haplogroup": "L1a2a1b2~",
+    "position": 16760466,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y17965",
+    "haplogroup": "L1a2a1b2~",
+    "position": 19680894,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y17966",
+    "haplogroup": "L1a2a1b2~",
+    "position": 20697150,
+    "mutation": "T->A",
+    "rsid": "rs999079508",
+    "other_names": null
+  },
+  {
+    "snp": "Y17967",
+    "haplogroup": "L1a2a1b2~",
+    "position": 21304789,
+    "mutation": "G->A",
+    "rsid": "rs923960200",
+    "other_names": null
+  },
+  {
+    "snp": "Y17968",
+    "haplogroup": "L1a2a1b2~",
+    "position": 21388686,
+    "mutation": "A->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y18179",
+    "haplogroup": "L1a2a1b2~",
+    "position": 7461014,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y18181",
+    "haplogroup": "L1a2a1b2~",
+    "position": 8001907,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y18182",
+    "haplogroup": "L1a2a1b2~",
+    "position": 8324744,
+    "mutation": "C->T",
+    "rsid": "rs1011275791",
+    "other_names": null
+  },
+  {
+    "snp": "Y18183",
+    "haplogroup": "L1a2a1b2~",
+    "position": 8600204,
+    "mutation": "G->C",
+    "rsid": "rs928929186",
+    "other_names": null
+  },
+  {
+    "snp": "Y18185",
+    "haplogroup": "L1a2a1b2~",
+    "position": 14296450,
+    "mutation": "A->G",
+    "rsid": "rs924040450",
+    "other_names": null
+  },
+  {
+    "snp": "Y18186",
+    "haplogroup": "L1a2a1b2~",
+    "position": 14578963,
+    "mutation": "A->G",
+    "rsid": "rs1037179712",
+    "other_names": null
+  },
+  {
+    "snp": "Y18187",
+    "haplogroup": "L1a2a1b2~",
+    "position": 20834381,
+    "mutation": "C->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y18188",
+    "haplogroup": "L1a2a1b2~",
+    "position": 19367019,
+    "mutation": "G->A",
+    "rsid": "rs947272488",
+    "other_names": null
+  },
+  {
+    "snp": "Y18189",
+    "haplogroup": "L1a2a1b2~",
+    "position": 20952373,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y18190",
+    "haplogroup": "L1a2a1b2~",
+    "position": 6765687,
+    "mutation": "A->G",
+    "rsid": "rs1054468385",
+    "other_names": null
+  },
+  {
+    "snp": "Y18191",
+    "haplogroup": "L1a2a1b2~",
+    "position": 12824659,
+    "mutation": "G->A",
+    "rsid": "rs1014163933",
+    "other_names": null
+  },
+  {
+    "snp": "Y18193",
+    "haplogroup": "L1a2a1b2~",
+    "position": 19871272,
+    "mutation": "G->A",
+    "rsid": "rs962999046",
+    "other_names": null
+  },
+  {
+    "snp": "Y18194",
+    "haplogroup": "L1a2a1b2~",
+    "position": 19961772,
+    "mutation": "T->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y18195",
+    "haplogroup": "L1a2a1b2~",
+    "position": 21240602,
+    "mutation": "C->T",
+    "rsid": "rs932688670",
+    "other_names": null
+  },
+  {
+    "snp": "Y18196",
+    "haplogroup": "L1a2a1b2~",
+    "position": 10027767,
+    "mutation": "G->A",
+    "rsid": "rs752186189",
+    "other_names": null
+  },
+  {
+    "snp": "Y18197",
+    "haplogroup": "L1a2a1b2~",
+    "position": 20984341,
+    "mutation": "T->C",
+    "rsid": "rs968435817",
+    "other_names": null
+  },
+  {
+    "snp": "Y18198",
+    "haplogroup": "L1a2a1b2~",
+    "position": 21004858,
+    "mutation": "A->G",
+    "rsid": "rs992767281",
+    "other_names": null
+  },
+  {
+    "snp": "Y20047",
+    "haplogroup": "L1a2a1b2~",
+    "position": 6918607,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y17956",
+    "haplogroup": "L1a2a1b2a~",
+    "position": 12173114,
+    "mutation": "A->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y18180",
+    "haplogroup": "L1a2a1b2a~",
+    "position": 7921725,
+    "mutation": "T->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y18178",
+    "haplogroup": "L1a2a1b2a~",
+    "position": 2980640,
+    "mutation": "T->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y18184",
+    "haplogroup": "L1a2a1b2a~",
+    "position": 9025155,
+    "mutation": "A->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y18192",
+    "haplogroup": "L1a2a1b2a~",
+    "position": 15010063,
+    "mutation": "T->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y20048",
+    "haplogroup": "L1a2a1b2a~",
+    "position": 13127213,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z34463",
+    "haplogroup": "L1a2a2~",
+    "position": 14404299,
+    "mutation": "G->A",
+    "rsid": "rs756468535",
+    "other_names": null
+  },
+  {
+    "snp": "Z34465",
+    "haplogroup": "L1a2a2~",
+    "position": 7021749,
+    "mutation": "C->T",
+    "rsid": "rs779669952",
+    "other_names": null
+  },
+  {
+    "snp": "Z34466",
+    "haplogroup": "L1a2a2~",
+    "position": 2849937,
+    "mutation": "C->T",
+    "rsid": "rs771328677",
+    "other_names": null
+  },
+  {
+    "snp": "Z42523",
+    "haplogroup": "L1a2a2~",
+    "position": 7549146,
+    "mutation": "T->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z42524",
+    "haplogroup": "L1a2a2~",
+    "position": 8424419,
+    "mutation": "A->G",
+    "rsid": "rs747998701",
+    "other_names": null
+  },
+  {
+    "snp": "FGC32285",
+    "haplogroup": "L1a2b~",
+    "position": 19193949,
+    "mutation": "G->C",
+    "rsid": "rs779397534",
+    "other_names": "Y6288"
+  },
+  {
+    "snp": "Y6288",
+    "haplogroup": "L1a2b~",
+    "position": 19193949,
+    "mutation": "G->C",
+    "rsid": "rs779397534",
+    "other_names": "FGC32285"
+  },
+  {
+    "snp": "FGC32252",
+    "haplogroup": "L1a2b1~",
+    "position": 8282130,
+    "mutation": "C->G",
+    "rsid": null,
+    "other_names": "Y6250"
+  },
+  {
+    "snp": "Y6250",
+    "haplogroup": "L1a2b1~",
+    "position": 8282130,
+    "mutation": "C->G",
+    "rsid": null,
+    "other_names": "FGC32252"
+  },
+  {
+    "snp": "FGC32253",
+    "haplogroup": "L1a2b1~",
+    "position": 8556066,
+    "mutation": "A->G",
+    "rsid": "rs756281243",
+    "other_names": "Y6251"
+  },
+  {
+    "snp": "Y6251",
+    "haplogroup": "L1a2b1~",
+    "position": 8556066,
+    "mutation": "A->G",
+    "rsid": "rs756281243",
+    "other_names": "FGC32253"
+  },
+  {
+    "snp": "FGC32255",
+    "haplogroup": "L1a2b1~",
+    "position": 8660804,
+    "mutation": "T->C",
+    "rsid": "rs780734808",
+    "other_names": "Y6252"
+  },
+  {
+    "snp": "Y6252",
+    "haplogroup": "L1a2b1~",
+    "position": 8660804,
+    "mutation": "T->C",
+    "rsid": "rs780734808",
+    "other_names": "FGC32255"
+  },
+  {
+    "snp": "FGC32257",
+    "haplogroup": "L1a2b1~",
+    "position": 8926371,
+    "mutation": "A->G",
+    "rsid": "rs753080373",
+    "other_names": "Y6270"
+  },
+  {
+    "snp": "Y6270",
+    "haplogroup": "L1a2b1~",
+    "position": 8926371,
+    "mutation": "A->G",
+    "rsid": "rs753080373",
+    "other_names": "FGC32257"
+  },
+  {
+    "snp": "FGC32262",
+    "haplogroup": "L1a2b1~",
+    "position": 12538468,
+    "mutation": "T->C",
+    "rsid": "rs755336322",
+    "other_names": "Y6256"
+  },
+  {
+    "snp": "Y6256",
+    "haplogroup": "L1a2b1~",
+    "position": 12538468,
+    "mutation": "T->C",
+    "rsid": "rs755336322",
+    "other_names": "FGC32262"
+  },
+  {
+    "snp": "FGC32264",
+    "haplogroup": "L1a2b1~",
+    "position": 12866694,
+    "mutation": "T->A",
+    "rsid": "rs767272316",
+    "other_names": "Y6272"
+  },
+  {
+    "snp": "Y6272",
+    "haplogroup": "L1a2b1~",
+    "position": 12866694,
+    "mutation": "T->A",
+    "rsid": "rs767272316",
+    "other_names": "FGC32264"
+  },
+  {
+    "snp": "FGC32265",
+    "haplogroup": "L1a2b1~",
+    "position": 13289958,
+    "mutation": "G->A",
+    "rsid": "rs777010644",
+    "other_names": "Y6273"
+  },
+  {
+    "snp": "Y6273",
+    "haplogroup": "L1a2b1~",
+    "position": 13289958,
+    "mutation": "G->A",
+    "rsid": "rs777010644",
+    "other_names": "FGC32265"
+  },
+  {
+    "snp": "FGC32268",
+    "haplogroup": "L1a2b1~",
+    "position": 14118286,
+    "mutation": "C->G",
+    "rsid": "rs770651729",
+    "other_names": "Y6274"
+  },
+  {
+    "snp": "Y6274",
+    "haplogroup": "L1a2b1~",
+    "position": 14118286,
+    "mutation": "C->G",
+    "rsid": "rs770651729",
+    "other_names": "FGC32268"
+  },
+  {
+    "snp": "FGC32269",
+    "haplogroup": "L1a2b1~",
+    "position": 14624476,
+    "mutation": "G->A",
+    "rsid": "rs769160880",
+    "other_names": "Y6276"
+  },
+  {
+    "snp": "Y6276",
+    "haplogroup": "L1a2b1~",
+    "position": 14624476,
+    "mutation": "G->A",
+    "rsid": "rs769160880",
+    "other_names": "FGC32269"
+  },
+  {
+    "snp": "FGC32270",
+    "haplogroup": "L1a2b1~",
+    "position": 14751778,
+    "mutation": "G->C",
+    "rsid": "rs752503428",
+    "other_names": "Y6277"
+  },
+  {
+    "snp": "Y6277",
+    "haplogroup": "L1a2b1~",
+    "position": 14751778,
+    "mutation": "G->C",
+    "rsid": "rs752503428",
+    "other_names": "FGC32270"
+  },
+  {
+    "snp": "FGC32272",
+    "haplogroup": "L1a2b1~",
+    "position": 15424022,
+    "mutation": "G->A",
+    "rsid": "rs755231476",
+    "other_names": "Y6279"
+  },
+  {
+    "snp": "Y6279",
+    "haplogroup": "L1a2b1~",
+    "position": 15424022,
+    "mutation": "G->A",
+    "rsid": "rs755231476",
+    "other_names": "FGC32272"
+  },
+  {
+    "snp": "FGC32276",
+    "haplogroup": "L1a2b1~",
+    "position": 15983575,
+    "mutation": "A->G",
+    "rsid": "rs746980232",
+    "other_names": "Y6259"
+  },
+  {
+    "snp": "Y6259",
+    "haplogroup": "L1a2b1~",
+    "position": 15983575,
+    "mutation": "A->G",
+    "rsid": "rs746980232",
+    "other_names": "FGC32276"
+  },
+  {
+    "snp": "FGC32279",
+    "haplogroup": "L1a2b1~",
+    "position": 16873008,
+    "mutation": "A->T",
+    "rsid": "rs772790706",
+    "other_names": "Y6282"
+  },
+  {
+    "snp": "Y6282",
+    "haplogroup": "L1a2b1~",
+    "position": 16873008,
+    "mutation": "A->T",
+    "rsid": "rs772790706",
+    "other_names": "FGC32279"
+  },
+  {
+    "snp": "FGC32280",
+    "haplogroup": "L1a2b1~",
+    "position": 17175785,
+    "mutation": "G->A",
+    "rsid": "rs757405611",
+    "other_names": "Y6283"
+  },
+  {
+    "snp": "Y6283",
+    "haplogroup": "L1a2b1~",
+    "position": 17175785,
+    "mutation": "G->A",
+    "rsid": "rs757405611",
+    "other_names": "FGC32280"
+  },
+  {
+    "snp": "FGC32281",
+    "haplogroup": "L1a2b1~",
+    "position": 17233302,
+    "mutation": "A->C",
+    "rsid": "rs747954142",
+    "other_names": "Y6260"
+  },
+  {
+    "snp": "Y6260",
+    "haplogroup": "L1a2b1~",
+    "position": 17233302,
+    "mutation": "A->C",
+    "rsid": "rs747954142",
+    "other_names": "FGC32281"
+  },
+  {
+    "snp": "FGC32282",
+    "haplogroup": "L1a2b1~",
+    "position": 17425734,
+    "mutation": "C->T",
+    "rsid": "rs745994290",
+    "other_names": "Y6284"
+  },
+  {
+    "snp": "Y6284",
+    "haplogroup": "L1a2b1~",
+    "position": 17425734,
+    "mutation": "C->T",
+    "rsid": "rs745994290",
+    "other_names": "FGC32282"
+  },
+  {
+    "snp": "FGC32284",
+    "haplogroup": "L1a2b1~",
+    "position": 19170791,
+    "mutation": "C->T",
+    "rsid": "rs778923748",
+    "other_names": "Y6286"
+  },
+  {
+    "snp": "Y6286",
+    "haplogroup": "L1a2b1~",
+    "position": 19170791,
+    "mutation": "C->T",
+    "rsid": "rs778923748",
+    "other_names": "FGC32284"
+  },
+  {
+    "snp": "FGC32287",
+    "haplogroup": "L1a2b1~",
+    "position": 19386119,
+    "mutation": "G->A",
+    "rsid": "rs778268353",
+    "other_names": "Y6289"
+  },
+  {
+    "snp": "Y6289",
+    "haplogroup": "L1a2b1~",
+    "position": 19386119,
+    "mutation": "G->A",
+    "rsid": "rs778268353",
+    "other_names": "FGC32287"
+  },
+  {
+    "snp": "FGC32292",
+    "haplogroup": "L1a2b1~",
+    "position": 20654677,
+    "mutation": "G->A",
+    "rsid": "rs753240523",
+    "other_names": "Y6291"
+  },
+  {
+    "snp": "Y6291",
+    "haplogroup": "L1a2b1~",
+    "position": 20654677,
+    "mutation": "G->A",
+    "rsid": "rs753240523",
+    "other_names": "FGC32292"
+  },
+  {
+    "snp": "FGC32294",
+    "haplogroup": "L1a2b1~",
+    "position": 21425085,
+    "mutation": "G->A",
+    "rsid": "rs748445872",
+    "other_names": "Y6293"
+  },
+  {
+    "snp": "Y6293",
+    "haplogroup": "L1a2b1~",
+    "position": 21425085,
+    "mutation": "G->A",
+    "rsid": "rs748445872",
+    "other_names": "FGC32294"
+  },
+  {
+    "snp": "FGC32296",
+    "haplogroup": "L1a2b1~",
+    "position": 22294339,
+    "mutation": "A->T",
+    "rsid": "rs759512505",
+    "other_names": "Y6295"
+  },
+  {
+    "snp": "Y6295",
+    "haplogroup": "L1a2b1~",
+    "position": 22294339,
+    "mutation": "A->T",
+    "rsid": "rs759512505",
+    "other_names": "FGC32296"
+  },
+  {
+    "snp": "FGC32297",
+    "haplogroup": "L1a2b1~",
+    "position": 22302548,
+    "mutation": "A->G",
+    "rsid": "rs774332928",
+    "other_names": "Y6296"
+  },
+  {
+    "snp": "Y6296",
+    "haplogroup": "L1a2b1~",
+    "position": 22302548,
+    "mutation": "A->G",
+    "rsid": "rs774332928",
+    "other_names": "FGC32297"
+  },
+  {
+    "snp": "PH2254",
+    "haplogroup": "L1a2b1~",
+    "position": 14301835,
+    "mutation": "T->C",
+    "rsid": "rs747629584",
+    "other_names": "Y11220"
+  },
+  {
+    "snp": "Y11220",
+    "haplogroup": "L1a2b1~",
+    "position": 14301835,
+    "mutation": "T->C",
+    "rsid": "rs747629584",
+    "other_names": "PH2254"
+  },
+  {
+    "snp": "Y6285",
+    "haplogroup": "L1a2b1~",
+    "position": 8954861,
+    "mutation": "T->G",
+    "rsid": "rs779083710",
+    "other_names": null
+  },
+  {
+    "snp": "Y13388",
+    "haplogroup": "L1a2b1~",
+    "position": 17303723,
+    "mutation": "G->C",
+    "rsid": "rs780346973",
+    "other_names": null
+  },
+  {
+    "snp": "Y19628",
+    "haplogroup": "L1a2b1~",
+    "position": 15392883,
+    "mutation": "G->A",
+    "rsid": "rs752315222",
+    "other_names": null
+  },
+  {
+    "snp": "Y20208",
+    "haplogroup": "L1a2b1~",
+    "position": 13636044,
+    "mutation": "C->A",
+    "rsid": "rs762425959",
+    "other_names": null
+  },
+  {
+    "snp": "FGC32248",
+    "haplogroup": "L1a2b1a~",
+    "position": 2899274,
+    "mutation": "C->T",
+    "rsid": "rs757631527",
+    "other_names": null
+  },
+  {
+    "snp": "FGC32250",
+    "haplogroup": "L1a2b1a~",
+    "position": 7296716,
+    "mutation": "G->C",
+    "rsid": "rs778606493",
+    "other_names": null
+  },
+  {
+    "snp": "FGC32254",
+    "haplogroup": "L1a2b1a~",
+    "position": 8654762,
+    "mutation": "G->C",
+    "rsid": "rs767941166",
+    "other_names": null
+  },
+  {
+    "snp": "FGC32256",
+    "haplogroup": "L1a2b1a~",
+    "position": 8835856,
+    "mutation": "C->A",
+    "rsid": "rs768685668",
+    "other_names": null
+  },
+  {
+    "snp": "FGC32260",
+    "haplogroup": "L1a2b1a~",
+    "position": 11901903,
+    "mutation": "T->A",
+    "rsid": "rs750115364",
+    "other_names": null
+  },
+  {
+    "snp": "FGC32263",
+    "haplogroup": "L1a2b1a~",
+    "position": 12718457,
+    "mutation": "C->T",
+    "rsid": "rs757456075",
+    "other_names": null
+  },
+  {
+    "snp": "FGC32266",
+    "haplogroup": "L1a2b1a~",
+    "position": 13412563,
+    "mutation": "A->G",
+    "rsid": "rs757100303",
+    "other_names": null
+  },
+  {
+    "snp": "FGC32267",
+    "haplogroup": "L1a2b1a~",
+    "position": 13710647,
+    "mutation": "A->T",
+    "rsid": "rs778714344",
+    "other_names": null
+  },
+  {
+    "snp": "FGC32271",
+    "haplogroup": "L1a2b1a~",
+    "position": 15121202,
+    "mutation": "C->G",
+    "rsid": "rs750088092",
+    "other_names": null
+  },
+  {
+    "snp": "FGC32273",
+    "haplogroup": "L1a2b1a~",
+    "position": 15563330,
+    "mutation": "C->T",
+    "rsid": "rs770834415",
+    "other_names": null
+  },
+  {
+    "snp": "FGC32274",
+    "haplogroup": "L1a2b1a~",
+    "position": 15654327,
+    "mutation": "C->T",
+    "rsid": "rs772006719",
+    "other_names": null
+  },
+  {
+    "snp": "FGC32278",
+    "haplogroup": "L1a2b1a~",
+    "position": 16301533,
+    "mutation": "T->C",
+    "rsid": "rs752109574",
+    "other_names": null
+  },
+  {
+    "snp": "FGC32283",
+    "haplogroup": "L1a2b1a~",
+    "position": 18971821,
+    "mutation": "C->A",
+    "rsid": "rs752114823",
+    "other_names": null
+  },
+  {
+    "snp": "FGC32286",
+    "haplogroup": "L1a2b1a~",
+    "position": 19194542,
+    "mutation": "C->T",
+    "rsid": "rs755679501",
+    "other_names": null
+  },
+  {
+    "snp": "FGC32288",
+    "haplogroup": "L1a2b1a~",
+    "position": 19930300,
+    "mutation": "A->G",
+    "rsid": "rs772041606",
+    "other_names": null
+  },
+  {
+    "snp": "FGC32291",
+    "haplogroup": "L1a2b1a~",
+    "position": 20602081,
+    "mutation": "T->A",
+    "rsid": "rs768628556",
+    "other_names": null
+  },
+  {
+    "snp": "FGC32293",
+    "haplogroup": "L1a2b1a~",
+    "position": 20658579,
+    "mutation": "T->C",
+    "rsid": "rs766641171",
+    "other_names": null
+  },
+  {
+    "snp": "FGC32295",
+    "haplogroup": "L1a2b1a~",
+    "position": 22223359,
+    "mutation": "G->A",
+    "rsid": "rs769042014",
+    "other_names": null
+  },
+  {
+    "snp": "Y20686",
+    "haplogroup": "L1a2b1a~",
+    "position": 8727635,
+    "mutation": "C->T",
+    "rsid": "rs770105345",
+    "other_names": null
+  },
+  {
+    "snp": "Z6953",
+    "haplogroup": "L1a2b1a~",
+    "position": 16713334,
+    "mutation": "C->T",
+    "rsid": "rs755001187",
+    "other_names": null
+  },
+  {
+    "snp": "FGC23830",
+    "haplogroup": "L1a2b1b~",
+    "position": 19183530,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": "Y6287"
+  },
+  {
+    "snp": "Y6287",
+    "haplogroup": "L1a2b1b~",
+    "position": 19183530,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": "FGC23830"
+  },
+  {
+    "snp": "Y6246",
+    "haplogroup": "L1a2b1b~",
+    "position": 20045977,
+    "mutation": "T->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y6247",
+    "haplogroup": "L1a2b1b~",
+    "position": 19866841,
+    "mutation": "T->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y6253",
+    "haplogroup": "L1a2b1b~",
+    "position": 11973373,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y6254",
+    "haplogroup": "L1a2b1b~",
+    "position": 12060084,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y6255",
+    "haplogroup": "L1a2b1b~",
+    "position": 12362268,
+    "mutation": "A->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y6261",
+    "haplogroup": "L1a2b1b~",
+    "position": 20614661,
+    "mutation": "G->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y6265",
+    "haplogroup": "L1a2b1b~",
+    "position": 2824401,
+    "mutation": "T->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y6266",
+    "haplogroup": "L1a2b1b~",
+    "position": 6644613,
+    "mutation": "T->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y6267",
+    "haplogroup": "L1a2b1b~",
+    "position": 6977562,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y6268",
+    "haplogroup": "L1a2b1b~",
+    "position": 7891766,
+    "mutation": "A->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y6269",
+    "haplogroup": "L1a2b1b~",
+    "position": 8823250,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y6271",
+    "haplogroup": "L1a2b1b~",
+    "position": 11970616,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y6275",
+    "haplogroup": "L1a2b1b~",
+    "position": 14464201,
+    "mutation": "A->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y6278",
+    "haplogroup": "L1a2b1b~",
+    "position": 15030518,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y6281",
+    "haplogroup": "L1a2b1b~",
+    "position": 16441410,
+    "mutation": "A->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y6292",
+    "haplogroup": "L1a2b1b~",
+    "position": 20772939,
+    "mutation": "C->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y6294",
+    "haplogroup": "L1a2b1b~",
+    "position": 22223936,
+    "mutation": "A->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y19630",
+    "haplogroup": "L1a2b1b~",
+    "position": 17136219,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y20206",
+    "haplogroup": "L1a2b1b~",
+    "position": 14257202,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y6257",
+    "haplogroup": "L1a2b1b1~",
+    "position": 14523703,
+    "mutation": "G->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y6258",
+    "haplogroup": "L1a2b1b1~",
+    "position": 15365635,
+    "mutation": "A->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y6268",
+    "haplogroup": "L1a2b1b1~",
+    "position": 7891766,
+    "mutation": "A->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y6290",
+    "haplogroup": "L1a2b1b1~",
+    "position": 20507491,
+    "mutation": "A->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y19627",
+    "haplogroup": "L1a2b1b1~",
+    "position": 10089299,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y19629",
+    "haplogroup": "L1a2b1b1a~",
+    "position": 15826205,
+    "mutation": "A->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y19631",
+    "haplogroup": "L1a2b1b1a~",
+    "position": 22265547,
+    "mutation": "G->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "F2419.2",
+    "haplogroup": "L1a2c~",
+    "position": 15080341,
+    "mutation": "G->A",
+    "rsid": "rs753478740",
+    "other_names": "PF3400.2"
+  },
+  {
+    "snp": "PF3400.2",
+    "haplogroup": "L1a2c~",
+    "position": 15080341,
+    "mutation": "G->A",
+    "rsid": "rs753478740",
+    "other_names": "F2419.2"
+  },
+  {
+    "snp": "L655",
+    "haplogroup": "L1b",
+    "position": 5006228,
+    "mutation": "C->T",
+    "rsid": "rs376844020",
+    "other_names": null
+  },
+  {
+    "snp": "PH982",
+    "haplogroup": "L1b",
+    "position": 12067840,
+    "mutation": "A->C",
+    "rsid": "rs370624121",
+    "other_names": null
+  },
+  {
+    "snp": "PH1071",
+    "haplogroup": "L1b",
+    "position": 12142089,
+    "mutation": "T->A",
+    "rsid": "rs367836986",
+    "other_names": null
+  },
+  {
+    "snp": "PH1379",
+    "haplogroup": "L1b",
+    "position": 12516633,
+    "mutation": "C->T",
+    "rsid": "rs367819724",
+    "other_names": null
+  },
+  {
+    "snp": "PH2312",
+    "haplogroup": "L1b",
+    "position": 14367311,
+    "mutation": "G->A",
+    "rsid": "rs375018066",
+    "other_names": null
+  },
+  {
+    "snp": "PH2342",
+    "haplogroup": "L1b",
+    "position": 14417806,
+    "mutation": "G->A",
+    "rsid": "rs371978493",
+    "other_names": null
+  },
+  {
+    "snp": "PH3435",
+    "haplogroup": "L1b",
+    "position": 15739237,
+    "mutation": "A->G",
+    "rsid": "rs376052556",
+    "other_names": null
+  },
+  {
+    "snp": "PH3443",
+    "haplogroup": "L1b",
+    "position": 15754297,
+    "mutation": "A->G",
+    "rsid": "rs369635497",
+    "other_names": null
+  },
+  {
+    "snp": "PH3615",
+    "haplogroup": "L1b",
+    "position": 15919611,
+    "mutation": "G->A",
+    "rsid": "rs373541569",
+    "other_names": null
+  },
+  {
+    "snp": "PH3912",
+    "haplogroup": "L1b",
+    "position": 16571380,
+    "mutation": "C->T",
+    "rsid": "rs373418120",
+    "other_names": null
+  },
+  {
+    "snp": "PH4035",
+    "haplogroup": "L1b",
+    "position": 16724446,
+    "mutation": "A->T",
+    "rsid": "rs369532810",
+    "other_names": null
+  },
+  {
+    "snp": "PH4159",
+    "haplogroup": "L1b",
+    "position": 16911777,
+    "mutation": "G->A",
+    "rsid": "rs371775530",
+    "other_names": null
+  },
+  {
+    "snp": "PH4188",
+    "haplogroup": "L1b",
+    "position": 16954984,
+    "mutation": "G->T",
+    "rsid": "rs376682462",
+    "other_names": null
+  },
+  {
+    "snp": "SK1413",
+    "haplogroup": "L1b",
+    "position": 15442218,
+    "mutation": "T->C",
+    "rsid": "rs370078283",
+    "other_names": null
+  },
+  {
+    "snp": "M349",
+    "haplogroup": "L1b1",
+    "position": 3025236,
+    "mutation": "G->T",
+    "rsid": "rs797012419",
+    "other_names": null
+  },
+  {
+    "snp": "Page113",
+    "haplogroup": "L1b1",
+    "position": 2845548,
+    "mutation": "G->A",
+    "rsid": "rs72625369",
+    "other_names": null
+  },
+  {
+    "snp": "Page116",
+    "haplogroup": "L1b1a",
+    "position": 19731978,
+    "mutation": "C->T",
+    "rsid": "rs72625372",
+    "other_names": null
+  },
+  {
+    "snp": "B374",
+    "haplogroup": "L1b1b~",
+    "position": 7110429,
+    "mutation": "C->T",
+    "rsid": "rs1039805464",
+    "other_names": null
+  },
+  {
+    "snp": "Z34118",
+    "haplogroup": "L1b1b~",
+    "position": 7423319,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z34120",
+    "haplogroup": "L1b1b~",
+    "position": 7805148,
+    "mutation": "G->A",
+    "rsid": "rs943576616",
+    "other_names": null
+  },
+  {
+    "snp": "Z34121",
+    "haplogroup": "L1b1b~",
+    "position": 7869441,
+    "mutation": "C->A",
+    "rsid": "rs908585578",
+    "other_names": null
+  },
+  {
+    "snp": "B373",
+    "haplogroup": "L1b1c~",
+    "position": 6817636,
+    "mutation": "G->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z34114",
+    "haplogroup": "L1b1c~",
+    "position": 6768285,
+    "mutation": "A->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z34115",
+    "haplogroup": "L1b1c~",
+    "position": 6986055,
+    "mutation": "T->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z34116",
+    "haplogroup": "L1b1c~",
+    "position": 8085518,
+    "mutation": "A->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z42527",
+    "haplogroup": "L1b1c~",
+    "position": 8180537,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z42528",
+    "haplogroup": "L1b1c~",
+    "position": 8396944,
+    "mutation": "G->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "AM00711.2",
+    "haplogroup": "L1b1d~",
+    "position": 15533141,
+    "mutation": "G->T",
+    "rsid": "rs367918480",
+    "other_names": "F2544.2"
+  },
+  {
+    "snp": "F2544.2",
+    "haplogroup": "L1b1d~",
+    "position": 15533141,
+    "mutation": "G->T",
+    "rsid": "rs367918480",
+    "other_names": "AM00711.2"
+  },
+  {
+    "snp": "SK1412",
+    "haplogroup": "L1b2",
+    "position": 14366685,
+    "mutation": "C->T",
+    "rsid": "rs371246802",
+    "other_names": null
+  },
+  {
+    "snp": "M274",
+    "haplogroup": "L1b2a",
+    "position": 20575915,
+    "mutation": "C->T",
+    "rsid": "rs9341310",
+    "other_names": null
+  },
+  {
+    "snp": "SK1415",
+    "haplogroup": "L1b2a",
+    "position": 19709282,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "SK1416",
+    "haplogroup": "L1b2a",
+    "position": 7041952,
+    "mutation": "G->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PH8",
+    "haplogroup": "L1b2b",
+    "position": 2793753,
+    "mutation": "C->T",
+    "rsid": "rs368041232",
+    "other_names": null
+  },
+  {
+    "snp": "PH108",
+    "haplogroup": "L1b2b",
+    "position": 3041784,
+    "mutation": "G->A",
+    "rsid": "rs368278218",
+    "other_names": null
+  },
+  {
+    "snp": "PH612",
+    "haplogroup": "L1b2b",
+    "position": 7461853,
+    "mutation": "A->C",
+    "rsid": "rs375037950",
+    "other_names": null
+  },
+  {
+    "snp": "PH997",
+    "haplogroup": "L1b2b",
+    "position": 12084886,
+    "mutation": "G->A",
+    "rsid": "rs370791544",
+    "other_names": null
+  },
+  {
+    "snp": "PH1060",
+    "haplogroup": "L1b2b",
+    "position": 12131385,
+    "mutation": "A->C",
+    "rsid": "rs369305807",
+    "other_names": null
+  },
+  {
+    "snp": "PH1371",
+    "haplogroup": "L1b2b",
+    "position": 12500156,
+    "mutation": "C->T",
+    "rsid": "rs369632620",
+    "other_names": null
+  },
+  {
+    "snp": "PH1428",
+    "haplogroup": "L1b2b",
+    "position": 12554728,
+    "mutation": "G->C",
+    "rsid": "rs370417435",
+    "other_names": null
+  },
+  {
+    "snp": "PH1520",
+    "haplogroup": "L1b2b",
+    "position": 12811212,
+    "mutation": "G->A",
+    "rsid": "rs369721685",
+    "other_names": null
+  },
+  {
+    "snp": "PH1844",
+    "haplogroup": "L1b2b",
+    "position": 13729554,
+    "mutation": "A->G",
+    "rsid": "rs369795381",
+    "other_names": null
+  },
+  {
+    "snp": "PH2124",
+    "haplogroup": "L1b2b",
+    "position": 14142680,
+    "mutation": "G->A",
+    "rsid": "rs368572161",
+    "other_names": null
+  },
+  {
+    "snp": "PH2161",
+    "haplogroup": "L1b2b",
+    "position": 14188142,
+    "mutation": "C->G",
+    "rsid": "rs372975931",
+    "other_names": null
+  },
+  {
+    "snp": "PH2832",
+    "haplogroup": "L1b2b",
+    "position": 15001294,
+    "mutation": "T->C",
+    "rsid": "rs368392318",
+    "other_names": null
+  },
+  {
+    "snp": "PH2952",
+    "haplogroup": "L1b2b",
+    "position": 15191137,
+    "mutation": "G->A",
+    "rsid": "rs373069755",
+    "other_names": null
+  },
+  {
+    "snp": "PH3298",
+    "haplogroup": "L1b2b",
+    "position": 15584279,
+    "mutation": "C->T",
+    "rsid": "rs370190964",
+    "other_names": null
+  },
+  {
+    "snp": "PH3524",
+    "haplogroup": "L1b2b",
+    "position": 15814003,
+    "mutation": "C->T",
+    "rsid": "rs370379802",
+    "other_names": null
+  },
+  {
+    "snp": "PH4160",
+    "haplogroup": "L1b2b",
+    "position": 16911834,
+    "mutation": "G->A",
+    "rsid": "rs374910027",
+    "other_names": null
+  },
+  {
+    "snp": "PH4366.1",
+    "haplogroup": "L1b2b",
+    "position": 17123142,
+    "mutation": "T->C",
+    "rsid": "rs374733190",
+    "other_names": null
+  },
+  {
+    "snp": "PH4489",
+    "haplogroup": "L1b2b",
+    "position": 17300465,
+    "mutation": "C->T",
+    "rsid": "rs375461038",
+    "other_names": null
+  },
+  {
+    "snp": "PH4587",
+    "haplogroup": "L1b2b",
+    "position": 17439449,
+    "mutation": "C->G",
+    "rsid": "rs374655708",
+    "other_names": null
+  },
+  {
+    "snp": "PH2079",
+    "haplogroup": "L1b2b1",
+    "position": 14092820,
+    "mutation": "C->T",
+    "rsid": "rs779501105",
+    "other_names": null
+  },
+  {
+    "snp": "PH1714",
+    "haplogroup": "L1b2b1a",
+    "position": 13362449,
+    "mutation": "A->G",
+    "rsid": "rs752608821",
+    "other_names": null
+  },
+  {
+    "snp": "PH3523",
+    "haplogroup": "L1b2b1a",
+    "position": 15813877,
+    "mutation": "C->T",
+    "rsid": "rs766685671",
+    "other_names": null
+  },
+  {
+    "snp": "PH1099",
+    "haplogroup": "L1b2b2",
+    "position": 12172518,
+    "mutation": "T->G",
+    "rsid": "rs367989932",
+    "other_names": null
+  },
+  {
+    "snp": "PH3342",
+    "haplogroup": "L1b2b2",
+    "position": 15636630,
+    "mutation": "C->T",
+    "rsid": "rs372344360",
+    "other_names": null
+  },
+  {
+    "snp": "PH1728",
+    "haplogroup": "L1b2b2a",
+    "position": 13395725,
+    "mutation": "C->T",
+    "rsid": "rs773094446",
+    "other_names": null
+  },
+  {
+    "snp": "Y18889",
+    "haplogroup": "L1b2b2b",
+    "position": 9252374,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Y18890",
+    "haplogroup": "L1b2b2b",
+    "position": 12702446,
+    "mutation": "A->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "SK1414",
+    "haplogroup": "L1b2c",
+    "position": 12526578,
+    "mutation": "T->C",
+    "rsid": "rs954205713",
+    "other_names": null
+  },
+  {
+    "snp": "CTS7154.2",
+    "haplogroup": "L1b3",
+    "position": 15213679,
+    "mutation": "G->T",
+    "rsid": "rs373705907",
+    "other_names": "M5226.2; PF1724.2"
+  },
+  {
+    "snp": "M5226.2",
+    "haplogroup": "L1b3",
+    "position": 15213679,
+    "mutation": "G->T",
+    "rsid": "rs373705907",
+    "other_names": "CTS7154.2; PF1724.2"
+  },
+  {
+    "snp": "PF1724.2",
+    "haplogroup": "L1b3",
+    "position": 15213679,
+    "mutation": "G->T",
+    "rsid": "rs373705907",
+    "other_names": "CTS7154.2; M5226.2"
+  },
+  {
+    "snp": "CTS3080",
+    "haplogroup": "L1b3a",
+    "position": 12536106,
+    "mutation": "G->A",
+    "rsid": "rs776944794",
+    "other_names": "S1565; V2529"
+  },
+  {
+    "snp": "S1565",
+    "haplogroup": "L1b3a",
+    "position": 12536106,
+    "mutation": "G->A",
+    "rsid": "rs776944794",
+    "other_names": "CTS3080; V2529"
+  },
+  {
+    "snp": "V2529",
+    "haplogroup": "L1b3a",
+    "position": 12536106,
+    "mutation": "G->A",
+    "rsid": "rs776944794",
+    "other_names": "CTS3080; S1565"
+  },
+  {
+    "snp": "L595",
+    "haplogroup": "L2",
+    "position": 19577765,
+    "mutation": "C->T",
+    "rsid": "rs866516420",
+    "other_names": null
+  },
+  {
+    "snp": "L877",
+    "haplogroup": "L2",
+    "position": 14675461,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": "PF5780"
+  },
+  {
+    "snp": "PF5780",
+    "haplogroup": "L2",
+    "position": 14675461,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": "L877"
+  },
+  {
+    "snp": "Page6",
+    "haplogroup": "L2",
+    "position": 12541166,
+    "mutation": "C->T",
+    "rsid": "rs35816667",
+    "other_names": "PF5751"
+  },
+  {
+    "snp": "PF5751",
+    "haplogroup": "L2",
+    "position": 12541166,
+    "mutation": "C->T",
+    "rsid": "rs35816667",
+    "other_names": "Page6"
+  },
+  {
+    "snp": "L865",
+    "haplogroup": "L2~",
+    "position": 6885331,
+    "mutation": "T->C",
+    "rsid": "rs373696069",
+    "other_names": null
+  },
+  {
+    "snp": "L868",
+    "haplogroup": "L2~",
+    "position": 13493037,
+    "mutation": "A->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "L869",
+    "haplogroup": "L2~",
+    "position": 15308315,
+    "mutation": "A->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "L870",
+    "haplogroup": "L2~",
+    "position": 15965179,
+    "mutation": "G->A",
+    "rsid": "rs994770135",
+    "other_names": null
+  },
+  {
+    "snp": "PF5533",
+    "haplogroup": "L2~",
+    "position": 8844460,
+    "mutation": "A->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5538",
+    "haplogroup": "L2~",
+    "position": 11505559,
+    "mutation": "G->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5540",
+    "haplogroup": "L2~",
+    "position": 11863475,
+    "mutation": "C->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5551",
+    "haplogroup": "L2~",
+    "position": 14362136,
+    "mutation": "T->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5553",
+    "haplogroup": "L2~",
+    "position": 15272080,
+    "mutation": "T->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5569",
+    "haplogroup": "L2~",
+    "position": 19523101,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5573",
+    "haplogroup": "L2~",
+    "position": 19892430,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5577",
+    "haplogroup": "L2~",
+    "position": 20424048,
+    "mutation": "T->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5579",
+    "haplogroup": "L2~",
+    "position": 20734511,
+    "mutation": "T->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5585",
+    "haplogroup": "L2~",
+    "position": 21225097,
+    "mutation": "T->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5682",
+    "haplogroup": "L2~",
+    "position": 2842827,
+    "mutation": "G->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5684",
+    "haplogroup": "L2~",
+    "position": 2921585,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5685",
+    "haplogroup": "L2~",
+    "position": 2952294,
+    "mutation": "A->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5691",
+    "haplogroup": "L2~",
+    "position": 6827524,
+    "mutation": "G->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5696",
+    "haplogroup": "L2~",
+    "position": 7075262,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5698",
+    "haplogroup": "L2~",
+    "position": 7358140,
+    "mutation": "A->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5700",
+    "haplogroup": "L2~",
+    "position": 7478364,
+    "mutation": "G->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5706",
+    "haplogroup": "L2~",
+    "position": 7975074,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5708",
+    "haplogroup": "L2~",
+    "position": 8052893,
+    "mutation": "C->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5711",
+    "haplogroup": "L2~",
+    "position": 8082508,
+    "mutation": "A->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5713",
+    "haplogroup": "L2~",
+    "position": 8187296,
+    "mutation": "T->C",
+    "rsid": "rs532534520",
+    "other_names": "M11114; V1591"
+  },
+  {
+    "snp": "M11114",
+    "haplogroup": "L2~",
+    "position": 8187296,
+    "mutation": "T->C",
+    "rsid": "rs532534520",
+    "other_names": "PF5713; V1591"
+  },
+  {
+    "snp": "V1591",
+    "haplogroup": "L2~",
+    "position": 8187296,
+    "mutation": "T->C",
+    "rsid": "rs532534520",
+    "other_names": "PF5713; M11114"
+  },
+  {
+    "snp": "PF5716",
+    "haplogroup": "L2~",
+    "position": 8391069,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5721",
+    "haplogroup": "L2~",
+    "position": 8587616,
+    "mutation": "G->A",
+    "rsid": "rs747841102",
+    "other_names": null
+  },
+  {
+    "snp": "PF5722",
+    "haplogroup": "L2~",
+    "position": 8587892,
+    "mutation": "T->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5730",
+    "haplogroup": "L2~",
+    "position": 9951911,
+    "mutation": "G->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5731",
+    "haplogroup": "L2~",
+    "position": 10009242,
+    "mutation": "T->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5739",
+    "haplogroup": "L2~",
+    "position": 11946266,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5740",
+    "haplogroup": "L2~",
+    "position": 12081070,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": "Z20586"
+  },
+  {
+    "snp": "Z20586",
+    "haplogroup": "L2~",
+    "position": 12081070,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": "PF5740"
+  },
+  {
+    "snp": "PF5741",
+    "haplogroup": "L2~",
+    "position": 12087198,
+    "mutation": "A->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5742",
+    "haplogroup": "L2~",
+    "position": 12089543,
+    "mutation": "A->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5746",
+    "haplogroup": "L2~",
+    "position": 12213970,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5748",
+    "haplogroup": "L2~",
+    "position": 12466007,
+    "mutation": "C->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5749",
+    "haplogroup": "L2~",
+    "position": 12523927,
+    "mutation": "C->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5752",
+    "haplogroup": "L2~",
+    "position": 12690347,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5753",
+    "haplogroup": "L2~",
+    "position": 12739363,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5758",
+    "haplogroup": "L2~",
+    "position": 13137373,
+    "mutation": "T->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5759",
+    "haplogroup": "L2~",
+    "position": 13237692,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5760",
+    "haplogroup": "L2~",
+    "position": 13363819,
+    "mutation": "A->G",
+    "rsid": "rs1002750186",
+    "other_names": null
+  },
+  {
+    "snp": "PF5761",
+    "haplogroup": "L2~",
+    "position": 13425931,
+    "mutation": "T->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5762",
+    "haplogroup": "L2~",
+    "position": 13430387,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5763",
+    "haplogroup": "L2~",
+    "position": 13632393,
+    "mutation": "A->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5764",
+    "haplogroup": "L2~",
+    "position": 13682746,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5765",
+    "haplogroup": "L2~",
+    "position": 13719421,
+    "mutation": "G->A",
+    "rsid": "rs768884019",
+    "other_names": "S7336"
+  },
+  {
+    "snp": "S7336",
+    "haplogroup": "L2~",
+    "position": 13719421,
+    "mutation": "G->A",
+    "rsid": "rs768884019",
+    "other_names": "PF5765"
+  },
+  {
+    "snp": "PF5766",
+    "haplogroup": "L2~",
+    "position": 13769442,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5768",
+    "haplogroup": "L2~",
+    "position": 13822342,
+    "mutation": "A->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5769",
+    "haplogroup": "L2~",
+    "position": 13842022,
+    "mutation": "C->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5770",
+    "haplogroup": "L2~",
+    "position": 13861604,
+    "mutation": "A->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5774",
+    "haplogroup": "L2~",
+    "position": 14333334,
+    "mutation": "A->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5776",
+    "haplogroup": "L2~",
+    "position": 14395774,
+    "mutation": "C->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5778",
+    "haplogroup": "L2~",
+    "position": 14620215,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5782",
+    "haplogroup": "L2~",
+    "position": 14886349,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5784",
+    "haplogroup": "L2~",
+    "position": 15008241,
+    "mutation": "G->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5786",
+    "haplogroup": "L2~",
+    "position": 15137380,
+    "mutation": "A->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5788",
+    "haplogroup": "L2~",
+    "position": 15238960,
+    "mutation": "A->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5789",
+    "haplogroup": "L2~",
+    "position": 15331670,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5796",
+    "haplogroup": "L2~",
+    "position": 15685723,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5797",
+    "haplogroup": "L2~",
+    "position": 15685738,
+    "mutation": "A->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5798",
+    "haplogroup": "L2~",
+    "position": 15735386,
+    "mutation": "A->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5799",
+    "haplogroup": "L2~",
+    "position": 15735682,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5800",
+    "haplogroup": "L2~",
+    "position": 15785497,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5803",
+    "haplogroup": "L2~",
+    "position": 15855629,
+    "mutation": "C->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5807",
+    "haplogroup": "L2~",
+    "position": 16561174,
+    "mutation": "A->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5808",
+    "haplogroup": "L2~",
+    "position": 16572143,
+    "mutation": "C->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5809",
+    "haplogroup": "L2~",
+    "position": 16614583,
+    "mutation": "A->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5811",
+    "haplogroup": "L2~",
+    "position": 16808628,
+    "mutation": "T->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5812",
+    "haplogroup": "L2~",
+    "position": 16823201,
+    "mutation": "A->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5817",
+    "haplogroup": "L2~",
+    "position": 17119319,
+    "mutation": "A->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5818",
+    "haplogroup": "L2~",
+    "position": 17242427,
+    "mutation": "A->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5819",
+    "haplogroup": "L2~",
+    "position": 19029148,
+    "mutation": "C->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5820",
+    "haplogroup": "L2~",
+    "position": 19054748,
+    "mutation": "A->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5822",
+    "haplogroup": "L2~",
+    "position": 19161545,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5824",
+    "haplogroup": "L2~",
+    "position": 19311005,
+    "mutation": "A->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5825",
+    "haplogroup": "L2~",
+    "position": 19835881,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5826",
+    "haplogroup": "L2~",
+    "position": 19891446,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5828",
+    "haplogroup": "L2~",
+    "position": 20408222,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5831",
+    "haplogroup": "L2~",
+    "position": 20850170,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5834",
+    "haplogroup": "L2~",
+    "position": 20998096,
+    "mutation": "A->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5836",
+    "haplogroup": "L2~",
+    "position": 21063772,
+    "mutation": "C->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5838",
+    "haplogroup": "L2~",
+    "position": 21251281,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "PF5843",
+    "haplogroup": "L2~",
+    "position": 22366112,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z991",
+    "haplogroup": "L2~",
+    "position": 19747912,
+    "mutation": "G->A",
+    "rsid": "rs777481222",
+    "other_names": null
+  },
+  {
+    "snp": "Z20571",
+    "haplogroup": "L2~",
+    "position": 2814018,
+    "mutation": "T->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20572",
+    "haplogroup": "L2~",
+    "position": 2842301,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20573",
+    "haplogroup": "L2~",
+    "position": 2856636,
+    "mutation": "G->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20574",
+    "haplogroup": "L2~",
+    "position": 2972618,
+    "mutation": "T->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20575",
+    "haplogroup": "L2~",
+    "position": 6859226,
+    "mutation": "A->G",
+    "rsid": "rs1047945144",
+    "other_names": null
+  },
+  {
+    "snp": "Z20576",
+    "haplogroup": "L2~",
+    "position": 6965585,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20577",
+    "haplogroup": "L2~",
+    "position": 6972573,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20578",
+    "haplogroup": "L2~",
+    "position": 6987494,
+    "mutation": "T->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20579",
+    "haplogroup": "L2~",
+    "position": 7166391,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20581",
+    "haplogroup": "L2~",
+    "position": 7370929,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20582",
+    "haplogroup": "L2~",
+    "position": 11879333,
+    "mutation": "A->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20583",
+    "haplogroup": "L2~",
+    "position": 11961339,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20584",
+    "haplogroup": "L2~",
+    "position": 12026169,
+    "mutation": "G->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20585",
+    "haplogroup": "L2~",
+    "position": 12058134,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20587",
+    "haplogroup": "L2~",
+    "position": 12088589,
+    "mutation": "G->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20588",
+    "haplogroup": "L2~",
+    "position": 12099950,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20589",
+    "haplogroup": "L2~",
+    "position": 12623152,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20590",
+    "haplogroup": "L2~",
+    "position": 13061560,
+    "mutation": "A->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20591",
+    "haplogroup": "L2~",
+    "position": 13041695,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20592",
+    "haplogroup": "L2~",
+    "position": 12906371,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20593",
+    "haplogroup": "L2~",
+    "position": 13234789,
+    "mutation": "G->A",
+    "rsid": "rs751401171",
+    "other_names": null
+  },
+  {
+    "snp": "Z20594",
+    "haplogroup": "L2~",
+    "position": 13285823,
+    "mutation": "T->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20595",
+    "haplogroup": "L2~",
+    "position": 13498108,
+    "mutation": "C->T",
+    "rsid": "rs980915469",
+    "other_names": null
+  },
+  {
+    "snp": "Z20596",
+    "haplogroup": "L2~",
+    "position": 13505944,
+    "mutation": "T->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20597",
+    "haplogroup": "L2~",
+    "position": 13519709,
+    "mutation": "A->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20598",
+    "haplogroup": "L2~",
+    "position": 13619300,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20599",
+    "haplogroup": "L2~",
+    "position": 13621824,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20600",
+    "haplogroup": "L2~",
+    "position": 13705692,
+    "mutation": "A->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20601",
+    "haplogroup": "L2~",
+    "position": 13751438,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20602",
+    "haplogroup": "L2~",
+    "position": 13858425,
+    "mutation": "A->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20603",
+    "haplogroup": "L2~",
+    "position": 14098812,
+    "mutation": "A->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20604",
+    "haplogroup": "L2~",
+    "position": 14102295,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20605",
+    "haplogroup": "L2~",
+    "position": 14151439,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20606",
+    "haplogroup": "L2~",
+    "position": 14539321,
+    "mutation": "T->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20607",
+    "haplogroup": "L2~",
+    "position": 14766522,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20608",
+    "haplogroup": "L2~",
+    "position": 14679744,
+    "mutation": "T->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20609",
+    "haplogroup": "L2~",
+    "position": 14888386,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20610",
+    "haplogroup": "L2~",
+    "position": 15120525,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20611",
+    "haplogroup": "L2~",
+    "position": 15272000,
+    "mutation": "G->C",
+    "rsid": "rs937342989",
+    "other_names": "YP914"
+  },
+  {
+    "snp": "YP914",
+    "haplogroup": "L2~",
+    "position": 15272000,
+    "mutation": "G->C",
+    "rsid": "rs937342989",
+    "other_names": "Z20611"
+  },
+  {
+    "snp": "Z20612",
+    "haplogroup": "L2~",
+    "position": 15361474,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20613",
+    "haplogroup": "L2~",
+    "position": 15387144,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20614",
+    "haplogroup": "L2~",
+    "position": 15411105,
+    "mutation": "A->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20615",
+    "haplogroup": "L2~",
+    "position": 15674613,
+    "mutation": "G->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20616",
+    "haplogroup": "L2~",
+    "position": 15913496,
+    "mutation": "C->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20617",
+    "haplogroup": "L2~",
+    "position": 16091114,
+    "mutation": "G->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20618",
+    "haplogroup": "L2~",
+    "position": 16518977,
+    "mutation": "C->T",
+    "rsid": "rs1464259325",
+    "other_names": null
+  },
+  {
+    "snp": "Z20619",
+    "haplogroup": "L2~",
+    "position": 16549741,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20620",
+    "haplogroup": "L2~",
+    "position": 16633601,
+    "mutation": "C->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20621",
+    "haplogroup": "L2~",
+    "position": 16816042,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20622",
+    "haplogroup": "L2~",
+    "position": 17046315,
+    "mutation": "A->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20623",
+    "haplogroup": "L2~",
+    "position": 17092410,
+    "mutation": "T->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20624",
+    "haplogroup": "L2~",
+    "position": 17374182,
+    "mutation": "G->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20625",
+    "haplogroup": "L2~",
+    "position": 17439017,
+    "mutation": "G->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20626",
+    "haplogroup": "L2~",
+    "position": 19048803,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20627",
+    "haplogroup": "L2~",
+    "position": 19270219,
+    "mutation": "A->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20628",
+    "haplogroup": "L2~",
+    "position": 19724013,
+    "mutation": "A->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20629",
+    "haplogroup": "L2~",
+    "position": 19746405,
+    "mutation": "G->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20630",
+    "haplogroup": "L2~",
+    "position": 20009121,
+    "mutation": "G->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20631",
+    "haplogroup": "L2~",
+    "position": 20038224,
+    "mutation": "A->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20632",
+    "haplogroup": "L2~",
+    "position": 20356412,
+    "mutation": "A->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20635",
+    "haplogroup": "L2~",
+    "position": 20662742,
+    "mutation": "C->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20636",
+    "haplogroup": "L2~",
+    "position": 20805260,
+    "mutation": "T->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20637",
+    "haplogroup": "L2~",
+    "position": 20975199,
+    "mutation": "C->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20638",
+    "haplogroup": "L2~",
+    "position": 21089359,
+    "mutation": "A->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20639",
+    "haplogroup": "L2~",
+    "position": 21133733,
+    "mutation": "C->A",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20640",
+    "haplogroup": "L2~",
+    "position": 21305913,
+    "mutation": "A->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20641",
+    "haplogroup": "L2~",
+    "position": 26357552,
+    "mutation": "A->C",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20643",
+    "haplogroup": "L2~",
+    "position": 6925050,
+    "mutation": "G->T",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20644",
+    "haplogroup": "L2~",
+    "position": 12858975,
+    "mutation": "A->G",
+    "rsid": null,
+    "other_names": null
+  },
+  {
+    "snp": "Z20645",
+    "haplogroup": "L2~",
+    "position": 14575950,
+    "mutation": "G->T",
+    "rsid": null,
+    "other_names": null
+  }
+]
