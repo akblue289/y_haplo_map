@@ -1,4 +1,11 @@
 const CHROM_LENGTH = 57227415;
+
+// Structural regions of chrY (GRCh38) — pseudoautosomal vs male-specific
+const CHROM_REGIONS = [
+  { name: "PAR1", start: 10001, end: 2781479, color: "#93c5fd", note: "Shared with X:10,001-2,781,479" },
+  { name: "NRY", start: 2781480, end: 56887902, color: "#e5e7eb", note: "Male-specific region (MSY)" },
+  { name: "PAR2", start: 56887903, end: 57217415, color: "#93c5fd", note: "Shared with X:155,701,383-156,030,895" }
+];
 const NUM_BINS = 200;
 const BIN_WIDTH = CHROM_LENGTH / NUM_BINS;
 
@@ -36,8 +43,34 @@ async function loadAll() {
 
   totalCount.textContent = `${total.toLocaleString()} markers loaded across ${entries.length} haplogroups`;
   drawRuler("ruler-top", 0, CHROM_LENGTH, 10);
+  drawRegionTrack();
   drawOverview();
   buildLegend();
+}
+
+// draws the PAR1 / NRY / PAR2 structural annotation bar
+function drawRegionTrack() {
+  const el = document.getElementById("region-track");
+  el.innerHTML = "";
+
+  CHROM_REGIONS.forEach(region => {
+    const left = (region.start / CHROM_LENGTH) * 100;
+    const width = ((region.end - region.start) / CHROM_LENGTH) * 100;
+
+    const seg = document.createElement("div");
+    seg.className = "region-segment";
+    seg.style.left = left + "%";
+    seg.style.width = width + "%";
+    seg.style.backgroundColor = region.color;
+    seg.title = `${region.name}: ${region.start.toLocaleString()}-${region.end.toLocaleString()} bp · ${region.note}`;
+
+    const label = document.createElement("span");
+    label.className = "region-label";
+    label.textContent = region.name;
+    seg.appendChild(label);
+
+    el.appendChild(seg);
+  });
 }
 
 loadAll();
