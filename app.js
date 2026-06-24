@@ -2,40 +2,47 @@ const CHROM_LENGTH = 57227415;
 const NUM_BINS = 200;
 const BIN_WIDTH = CHROM_LENGTH / NUM_BINS;
 
+const HAPLOGROUPS = {
+  H: { file: 'isogg_H.json', color: '#f97316', label: 'H' },
+  R: { file: 'isogg_R.json', color: '#ef4444', label: 'R' },
+  L: { file: 'isogg_L.json', color: '#8b5cf6', label: 'L' },
+  J: { file: 'isogg_J.json', color: '#0ea5e9', label: 'J' },
+  O: { file: 'isogg_O.json', color: '#10b981', label: 'O' }
+};
+
 const overview = document.getElementById("overview");
 const detailTrack = document.getElementById("detail-track");
 const detail = document.getElementById("detail-panel");
 const viewportBox = document.getElementById("viewport-box");
 const detailLabel = document.getElementById("detail-label");
+const totalCount = document.getElementById("total-count");
 
-let allMarkers = [];
-let bins = [];
+let allData = {};       // { H: [...markers], R: [...markers], ... }
+let activeGroups = new Set(["H"]);   // which haplogroups are currently shown
+let bins = {};          // { H: [...bins], R: [...bins], ... }
 
-fetch('isogg_H.json')
-  .then(res => res.json())
-  .then(markers => {
-    allMarkers = markers;
-    bins = binMarkers(markers);
-    drawRuler("ruler-top", 0, CHROM_LENGTH, 10);
-    drawOverview(bins);
-    console.log(`Loaded ${markers.length} markers into ${NUM_BINS} bins`);
-    document.getElementById("total-count").textContent = `${markers.length} markers loaded`;
-  })
-  .catch(err => console.error("Failed to load JSON:", err));
+// --- load all haplogroup files ---
+async function loadAll() {
+  const entries = Object.entries(HAPLOGROUPS);
+  let total = 0;
 
-// --- depth-based coloring: more sub-clade letters/numbers = deeper = darker ---
-function depthOf(haplogroupName) {
-  // "H1a1a1" -> count characters after the root letter "H"
-  return Math.max(0, haplogroupName.length - 1);
+  for (const [key, info] of entries) {
+    const res = await fetch(info.file);
+    const markers = await res.json();
+    allData[key] = markers;
+    bins[key] = binMarkers(markers);
+    total += markers.length;
+  }
+
+  totalCount.textContent = `${total.toLocaleString()} markers loaded across ${entries.length} haplogroups`;
+  drawRuler("ruler-top", 0, CHROM_LENGTH, 10);
+  drawOverview();
+  buildLegend();
 }
 
-function colorForDepth(depth) {
-  if (depth <= 2) return "#fdba74";   // shallow
-  if (depth <= 4) return "#f97316";   // mid
-  return "#9a3412";                   // deep
-}
+loadAll();
 
-// --- binning for overview density track ---
+// --- binning ---
 function binMarkers(markers) {
   const counts = new Array(NUM_BINS).fill(0);
   const contents = Array.from({length: NUM_BINS}, () => []);
@@ -56,7 +63,7 @@ function binMarkers(markers) {
   }));
 }
 
-// --- shared ruler drawer, used for both top and detail views ---
+// --- shared ruler ---
 function drawRuler(containerId, rangeStart, rangeEnd, stepMb) {
   const el = document.getElementById(containerId);
   el.innerHTML = "";
@@ -64,7 +71,6 @@ function drawRuler(containerId, rangeStart, rangeEnd, stepMb) {
   const startMb = rangeStart / 1e6;
   const endMb = rangeEnd / 1e6;
 
-  // pick a sensible step if not given
   let step = stepMb;
   if (!step) {
     const spanMb = endMb - startMb;
@@ -82,28 +88,93 @@ function drawRuler(containerId, rangeStart, rangeEnd, stepMb) {
   }
 }
 
-// --- overview density bar ---
-function drawOverview(binList) {
+// --- overview: one row per active haplogroup, stacked, for direct loci comparison ---
+function drawOverview() {
   overview.innerHTML = "";
-  const maxCount = Math.max(...binList.map(b => b.count), 1);
+  const groups = [...activeGroups];
 
-  binList.forEach(bin => {
-    const cell = document.createElement("div");
-    cell.className = "bin";
-    const intensity = bin.count / maxCount;
-    cell.style.backgroundColor = intensity === 0
-      ? "#e5e7eb"
-      : `rgba(249, 115, 22, ${0.15 + intensity * 0.85})`;
-    cell.title = `${bin.count} SNPs · ${(bin.start/1e6).toFixed(2)}–${(bin.end/1e6).toFixed(2)} Mb`;
+  if (groups.length === 0) {
+    overview.innerHTML = '<div class="empty-msg">Select at least one haplogroup below</div>';
+    return;
+  }
 
-    if (bin.count > 0) {
-      cell.addEventListener("click", () => focusBin(bin));
-    }
-    overview.appendChild(cell);
+  groups.forEach(key => {
+    const row = document.createElement("div");
+    row.className = "overview-row";
+
+    const rowLabel = document.createElement("div");
+    rowLabel.className = "row-label";
+    rowLabel.textContent = key;
+    rowLabel.style.color = HAPLOGROUPS[key].color;
+    row.appendChild(rowLabel);
+
+    const track = document.createElement("div");
+    track.className = "overview-track";
+
+    const maxCount = Math.max(...bins[key].map(b => b.count), 1);
+
+    bins[key].forEach(bin => {
+      const cell = document.createElement("div");
+      cell.className = "bin";
+      const intensity = bin.count / maxCount;
+      const c = HAPLOGROUPS[key].color;
+      cell.style.backgroundColor = intensity === 0 ? "#e5e7eb" : hexToRgba(c, 0.15 + intensity * 0.85);
+      cell.title = `${key}: ${bin.count} SNPs · ${(bin.start/1e6).toFixed(2)}–${(bin.end/1e6).toFixed(2)} Mb`;
+
+      if (bin.count > 0) {
+        cell.addEventListener("click", () => focusBin(key, bin));
+      }
+      track.appendChild(cell);
+    });
+
+    row.appendChild(track);
+    overview.appendChild(row);
   });
 }
 
-// --- draw the box on the overview showing current zoom region ---
+function hexToRgba(hex, alpha) {
+  const r = parseInt(hex.slice(1,3), 16);
+  const g = parseInt(hex.slice(3,5), 16);
+  const b = parseInt(hex.slice(5,7), 16);
+  return `rgba(${r},${g},${b},${alpha})`;
+}
+
+// --- legend / haplogroup toggle checkboxes ---
+function buildLegend() {
+  const legend = document.getElementById("legend");
+  legend.innerHTML = "";
+
+  Object.entries(HAPLOGROUPS).forEach(([key, info]) => {
+    const item = document.createElement("label");
+    item.className = "legend-toggle";
+
+    const checkbox = document.createElement("input");
+    checkbox.type = "checkbox";
+    checkbox.checked = activeGroups.has(key);
+    checkbox.addEventListener("change", () => {
+      if (checkbox.checked) {
+        activeGroups.add(key);
+      } else {
+        activeGroups.delete(key);
+      }
+      drawOverview();
+    });
+
+    const dot = document.createElement("span");
+    dot.className = "dot";
+    dot.style.background = info.color;
+
+    const text = document.createElement("span");
+    text.textContent = `${key} (${allData[key].length.toLocaleString()})`;
+
+    item.appendChild(checkbox);
+    item.appendChild(dot);
+    item.appendChild(text);
+    legend.appendChild(item);
+  });
+}
+
+// --- viewport box on overview (shows current zoom region) ---
 function drawViewportBox(bin) {
   const percentLeft = (bin.start / CHROM_LENGTH) * 100;
   const percentWidth = ((bin.end - bin.start) / CHROM_LENGTH) * 100;
@@ -112,29 +183,37 @@ function drawViewportBox(bin) {
   viewportBox.style.display = "block";
 }
 
-// --- zoom into a bin: show its own ruler + spaced markers ---
-function focusBin(bin) {
+// --- detail view: lollipop plot, colored by haplogroup, for the clicked region ---
+function focusBin(sourceKey, bin) {
   drawViewportBox(bin);
-  detailLabel.textContent = `Detail view — ${(bin.start/1e6).toFixed(2)} to ${(bin.end/1e6).toFixed(2)} Mb (${bin.count} markers)`;
+  detailLabel.textContent = `Detail view — ${bin.start.toLocaleString()}–${bin.end.toLocaleString()} bp`;
   drawRuler("ruler-detail", bin.start, bin.end, null);
 
   detailTrack.innerHTML = "";
   const rangeWidth = bin.end - bin.start;
-  const TRACK_HEIGHT = 90;
-  const STEM_MIN = 30;
-  const STEM_MAX = 70;
 
-  // sort markers by position so we can detect close neighbors
-  const sorted = [...bin.markers].sort((a, b) => a.position - b.position);
+  // gather markers from ALL active haplogroups within this bp range, not just the clicked one
+  const allMarkersInRange = [];
+  activeGroups.forEach(key => {
+    allData[key].forEach(m => {
+      if (m.position >= bin.start && m.position < bin.end) {
+        allMarkersInRange.push({ ...m, _group: key });
+      }
+    });
+  });
 
-  // assign alternating stem heights when markers are close together (dandelion style)
-  const minGapPx = 14; // approx px below which we treat markers as "close"
+  allMarkersInRange.sort((a, b) => a.position - b.position);
+
+  const TRACK_HEIGHT = 130;
+  const STEM_MIN = 40;
+  const STEM_MAX = 90;
   const trackWidthPx = detailTrack.clientWidth || 900;
+  const minGapPx = 14;
 
   let lastPercent = -999;
   let toggle = 0;
 
-  sorted.forEach(marker => {
+  allMarkersInRange.forEach(marker => {
     const relativePos = ((marker.position - bin.start) / rangeWidth) * 100;
     const percentGapPx = ((relativePos - lastPercent) / 100) * trackWidthPx;
 
@@ -148,12 +227,13 @@ function focusBin(bin) {
     }
     lastPercent = relativePos;
 
-    const color = colorForDepth(depthOf(marker.haplogroup));
+    const color = HAPLOGROUPS[marker._group].color;
 
     const wrapper = document.createElement("div");
     wrapper.className = "lollipop";
     wrapper.style.left = relativePos + "%";
     wrapper.dataset.snp = marker.snp;
+    wrapper.dataset.group = marker._group;
 
     const stem = document.createElement("div");
     stem.className = "lollipop-stem";
@@ -168,7 +248,7 @@ function focusBin(bin) {
     const label = document.createElement("div");
     label.className = "lollipop-label";
     label.style.bottom = stemHeight + 8 + "px";
-    label.textContent = marker.snp;
+    label.textContent = `${marker._group}:${marker.snp}`;
 
     wrapper.appendChild(stem);
     wrapper.appendChild(node);
@@ -185,31 +265,21 @@ function focusBin(bin) {
     detailTrack.appendChild(wrapper);
   });
 
-  detail.innerHTML = `<p>${bin.count} markers in this region. Hover to preview, click any node for full details.</p>`;
+  detail.innerHTML = `<p>${allMarkersInRange.length} markers in this region across ${activeGroups.size} active haplogroup(s). Hover to preview, click any node for full details.</p>`;
 }
 
+// --- detail panel content, position now in raw bp, no sub-clade depth ---
 function showMarkerDetail(marker) {
-  const depth = depthOf(marker.haplogroup);
-  const depthLabel = depth <= 2 ? "Shallow" : depth <= 4 ? "Mid" : "Deep";
-
   detail.innerHTML = `
     <h2>${marker.haplogroup} &middot; ${marker.snp}</h2>
     <div class="info-grid">
       <div class="info-cell">
         <div class="label">Position (GRCh38)</div>
-        <div class="value">${(marker.position / 1e6).toFixed(3)} Mb</div>
-      </div>
-      <div class="info-cell">
-        <div class="label">Base pair coordinate</div>
         <div class="value">${marker.position.toLocaleString()} bp</div>
       </div>
       <div class="info-cell">
         <div class="label">Mutation</div>
-        <div class="value">${marker.mutation}</div>
-      </div>
-      <div class="info-cell">
-        <div class="label">Sub-clade branch depth</div>
-        <div class="value">${depthLabel} (${depth})</div>
+        <div class="value">${marker.mutation || "n/a"}</div>
       </div>
       <div class="info-cell">
         <div class="label">rsID</div>
@@ -223,28 +293,41 @@ function showMarkerDetail(marker) {
   `;
 }
 
-// --- search ---
+// --- search across ALL haplogroups, exact match ---
 function searchSNP() {
   const query = document.getElementById("snp-search").value.trim().toUpperCase();
   const status = document.getElementById("search-status");
   if (!query) { status.textContent = ""; return; }
 
-  const match = allMarkers.find(m => m.snp.toUpperCase() === query);
+  let match = null;
+  let matchGroup = null;
+
+  for (const key of Object.keys(HAPLOGROUPS)) {
+    const found = allData[key].find(m => m.snp.toUpperCase() === query);
+    if (found) { match = found; matchGroup = key; break; }
+  }
+
   if (!match) {
-    status.textContent = `"${query}" not found.`;
-    status.style.color = "#dc2626";
+    status.textContent = `"${query}" not found in any loaded haplogroup.`;
+    status.style.color = "#1a1a1a";
     return;
   }
 
-  status.textContent = `Found ${match.snp} → ${match.haplogroup}`;
+  status.textContent = `Found ${match.snp} → haplogroup ${matchGroup}`;
   status.style.color = "#15803d";
 
+  if (!activeGroups.has(matchGroup)) {
+    activeGroups.add(matchGroup);
+    buildLegend();
+    drawOverview();
+  }
+
   const binIndex = Math.min(Math.floor(match.position / BIN_WIDTH), NUM_BINS - 1);
-  const bin = bins[binIndex];
-  focusBin(bin);
+  const bin = bins[matchGroup][binIndex];
+  focusBin(matchGroup, bin);
 
   setTimeout(() => {
-    const el = detailTrack.querySelector(`[data-snp="${match.snp}"]`);
+    const el = detailTrack.querySelector(`[data-snp="${match.snp}"][data-group="${matchGroup}"]`);
     if (el) {
       el.querySelector(".lollipop-node").style.outline = "3px solid #15803d";
       el.querySelector(".lollipop-label").style.opacity = 1;
